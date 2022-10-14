@@ -1,0 +1,44 @@
+name: "Scrape Data"
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0/60 * * * *"   
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: checkout repo content
+        uses: actions/checkout@v2
+      - name: setup python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.8 
+      - name: Install dependencies
+        run: |
+            python -m pip install --upgrade pip
+            pip install beautifulsoup4 pandas
+      - name: execute backup script
+        run: |
+          python scrape.py
+      - name: git add
+        run: |
+          git add -A
+          ls -la 
+          
+      - name: config
+        run: |
+          git config --global user.email scrapebot@hvin.work
+          git config --global user.name scrapebot
+          git add .
+          git commit -m "Update new CSV of Rainfall data" 
+      
+      - name: commit
+        uses: ad-m/github-push-action@master
+        with:
+         github_token: ${{ secrets.GITHUB_TOKEN }}
+         branch: main
+         force: true
+        
