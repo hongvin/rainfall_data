@@ -25,7 +25,7 @@ for state in states:
                 name = data['info']['name']
                 station_id_dict[station_id] = name
                 pd.DataFrame.from_dict(data['values']).to_csv(f'{station_id}.csv',index=False)
-    except:
-        print('Error for state: ', state)
+    except Exception as e:
+        print('Error: ', e)
 
 pd.DataFrame(station_id_dict.items()).to_csv('key.csv',index=False)
