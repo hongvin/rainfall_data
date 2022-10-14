@@ -20,11 +20,14 @@ for state in states:
         for link in soup.find('table').find_all('a', href=True):
             station_id = link['href'].split('=')[1]
             print('Station ID: ', station_id)
-            with urllib.request.urlopen(f"https://publicinfobanjir.water.gov.my/wp-content/themes/enlighten/query/searchresultrainfalldthourlylead.php?extra=&station=6502010_&from=01/01/2018%2000:00&to={today_date}%2000:00&datafreq=15") as url:
-                data = json.load(url)
-                name = data['info']['name']
-                station_id_dict[station_id] = name
-                pd.DataFrame.from_dict(data['values']).to_csv(f'{station_id}.csv',index=False)
+            try:
+                with urllib.request.urlopen(f"https://publicinfobanjir.water.gov.my/wp-content/themes/enlighten/query/searchresultrainfalldthourlylead.php?extra=&station={station_id}&from=01/01/2018%2000:00&to={today_date}%2000:00&datafreq=15") as url:
+                    data = json.load(url)
+                    name = data['info']['name']
+                    station_id_dict[station_id] = name
+                    pd.DataFrame.from_dict(data['values']).to_csv(f'{station_id}.csv',index=False)
+            except Exception as e:
+                print('Error: ', e)
     except Exception as e:
         print('Error: ', e)
 
