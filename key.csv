@@ -200,7 +200,6 @@ PRT1SB,Parit 1 Sg. Burong
 3414032_,Sg. Selangor di Rantau Panjang
 RPJS,Rumah Pam Jaya Setia
 KGASAHAN,Sg. Selangor di Kg. Asahan
-3312046_,Teluk Penyamun (Pintu Air)
 PASGYU1,P/A Sg. Yu 1
 3313070_,Sg. Buloh di Parit Mahang
 LDGSGBULOH,Ladang Sg. Buloh
@@ -222,7 +221,6 @@ BT10GOMBAK,Sg. Gombak di Batu 10
 3117080_,Bukit Antarabangsa
 3117081_,Puncak Atheneum
 KMSB,Kg. Melayu Sg. Buloh
-3115080_,Sg. Buloh di Paya Jaras
 PAYAJARASHILIR,Paya Jaras Hilir
 3114087_,Empangan Tasik Subang Meru
 26039,Sg. Bakul di Kg. Budiman
@@ -304,7 +302,6 @@ KELANANG,Pintu Air Kelanang
 2819002_,Setul Mantin
 25800,Ldg. Labu at Negeri Sembilan
 NSBN0034,Bandar Baru Nilai
-2720041_,Kg. Bahru Pantai
 2719044_,SMK Tunku Ampuan Najihah
 2719001_,Setor JPS Negeri Sembilan
 2618002_,Sendayan
@@ -474,7 +471,6 @@ KGLAUT,Sg. Skudai di Kg. Laut
 25928,Pintu Air Kolam Air
 SGMASAI,Sg. Masai di Masai
 SGTIRAM,Sg. Tiram di Ulu Tiram
-LDGLIMLIM,Ladang Lim Lim
 1836001_,Ulu Sebol
 25925,Ladang Pekan
 1836146_,Sg. Linggiu di Linggiu
@@ -494,9 +490,11 @@ BKTPELALI,Bukit Pelali
 SKSEMPANG,Sek. Keb. Sempang
 2636170_,Stor JPS Endau
 WAKSALAM,Loji Air Wak Salam
+KGJEMARI,Jemari
 JHR-PENGBATU,Pengkalan Batu
 JHR-STORJPSMERSING,Stor JPS Mersing
 4514035_CCHG0001,Sg. Ikan
+4513033_,Brinchang
 _CCHG0014,Sg. Tringkap di Tringkap
 4414040_,MARDI CH
 _CLPS0029,Sg. Meldu
@@ -505,6 +503,7 @@ _CLPS0026,Kuala Medang
 _CLPS0033,Balai Polis Merapoh
 4620046_,Merapoh
 4219001_CLPS0001,Sg. Jelai di Bukit Betong
+_CLPS0015,Ladang Benta
 _CLPS0042,Hospital Lipis
 _CJRT0047,Sg. Tembeling di Kg. Bantal Seberang
 _CJRT0045,Sek. Keb. Kg. Pagi
@@ -560,6 +559,7 @@ _CPKN0002,Sg. Pahang di Paloh Hinai
 3833002_,Kuantan
 3432001_,Sg. Belat di Sri Damai
 2630001_,Sg. Pukin
+25090,Ulu Sg. Chanis di Pahang
 25885,Sg. Keratong at Jam. Bahau Keratong
 26114,Balai Bomba Muadzam Shah
 25835,S.K. Leban Chondong at Pahang
