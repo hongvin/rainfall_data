@@ -21,11 +21,19 @@ for state in states:
             station_id = link['href'].split('=')[1]
             print('Station ID: ', station_id)
             try:
+                prev_df = pd.read_csv(f'{station_id}.csv')
+            except Exception as e:
+                print('Error: ',e)
+            try:
                 with urllib.request.urlopen(f"https://publicinfobanjir.water.gov.my/wp-content/themes/enlighten/query/getrainfalllast3dayslead.php?station={station_id}") as url:
                     data = json.load(url)
                     name = data['info']['name']
                     station_id_dict[station_id] = name
-                    pd.DataFrame.from_dict(data['values']).to_csv(f'{station_id}.csv',index=False)
+                    new_df = pd.DataFrame.from_dict(data['values'])
+                    if prev_df:
+                        pd.concat([prev_df,new_df]).drop_duplicates().reset_index(drop=True).to_csv(f'{station_id}.csv',index=False)
+                    else:
+                        new_df.to_csv(f'{station_id}.csv',index=False)
             except Exception as e:
                 print('Error: ', e)
     except Exception as e:
