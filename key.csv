@@ -2,6 +2,7 @@
 26361,Sg. Arau di Kolam Sg. Jernih
 26363,Sg. Arau di Felda
 26442,Sg. Perlis di Rumah Pam Kuala Perlis
+6601001_,Sg.Pelarit di Wang Kelian
 6602002_,Sg. Pelarit di Kaki Bukit
 6502010_,Bukit Temiang
 25952,Sungai Gial at Kg Gial
@@ -50,6 +51,7 @@ PAYAMADINSON,Kg. Paya Mat Inson
 6108001_,Kompleks Empangan Muda
 6108180_,Empangan Muda
 6007064_,Sg. Muda di Titi Nami
+6006001_,SK Sg. Siput
 6008001_,SK Gulau
 5908001_,Batu Seketul
 BERIS,Empangan Beris (State)
@@ -184,6 +186,7 @@ FELDAGEDANGSA,Felda Gedangsa
 KGBELIA2SGPANJANG,Kg. Belia Sg. Panjang
 25943,Sg. Bernam di Rimba KDR
 RPJPSBGNTERAP,Rumah Pam JPS Bagan Terap
+PEKANSABAKBERNAM,Pekan Sabak Bernam
 3808001_,Sg. Bernam di Sg. Air Tawar
 ILDASSGAIRTAWAR,ILDAS Sg. Air Tawar
 BGNNKOMAR,Bagan Nakhoda Omar
@@ -333,7 +336,6 @@ _NJLB0003,Kg. Ulu Klawang
 _NJLB0008,Kg. Relai di Kg. Baharu
 3020016_,Kg. Chennah
 2922018_,Ladang Pertang
-_NJLB0011,MARDI Jelebu
 3022431_,Sg. Triang di Kg. Juntai
 _NJLB0015,Ladang Glandle
 _NJPL0002,Sg. Serting di Kg. Datok Johan
@@ -492,11 +494,9 @@ BKTPELALI,Bukit Pelali
 SKSEMPANG,Sek. Keb. Sempang
 2636170_,Stor JPS Endau
 WAKSALAM,Loji Air Wak Salam
-KGJEMARI,Jemari
 JHR-PENGBATU,Pengkalan Batu
 JHR-STORJPSMERSING,Stor JPS Mersing
 4514035_CCHG0001,Sg. Ikan
-4513033_,Brinchang
 _CCHG0014,Sg. Tringkap di Tringkap
 4414040_,MARDI CH
 _CLPS0029,Sg. Meldu
@@ -505,7 +505,6 @@ _CLPS0026,Kuala Medang
 _CLPS0033,Balai Polis Merapoh
 4620046_,Merapoh
 4219001_CLPS0001,Sg. Jelai di Bukit Betong
-_CLPS0015,Ladang Benta
 _CLPS0042,Hospital Lipis
 _CJRT0047,Sg. Tembeling di Kg. Bantal Seberang
 _CJRT0045,Sek. Keb. Kg. Pagi
@@ -561,7 +560,6 @@ _CPKN0002,Sg. Pahang di Paloh Hinai
 3833002_,Kuantan
 3432001_,Sg. Belat di Sri Damai
 2630001_,Sg. Pukin
-25090,Ulu Sg. Chanis di Pahang
 25885,Sg. Keratong at Jam. Bahau Keratong
 26114,Balai Bomba Muadzam Shah
 25835,S.K. Leban Chondong at Pahang
