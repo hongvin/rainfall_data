@@ -1,7 +1,7 @@
 0,1
+26361,Sg. Arau di Kolam Sg. Jernih
 26363,Sg. Arau di Felda
 26442,Sg. Perlis di Rumah Pam Kuala Perlis
-26361,Sg. Arau di Kolam Sg. Jernih
 6602002_,Sg. Pelarit di Kaki Bukit
 6502010_,Bukit Temiang
 25952,Sungai Gial at Kg Gial
@@ -50,7 +50,6 @@ PAYAMADINSON,Kg. Paya Mat Inson
 6108001_,Kompleks Empangan Muda
 6108180_,Empangan Muda
 6007064_,Sg. Muda di Titi Nami
-6006001_,SK Sg. Siput
 6008001_,SK Gulau
 5908001_,Batu Seketul
 BERIS,Empangan Beris (State)
@@ -143,6 +142,7 @@ TGPIANDANG,Tanjung Piandang
 5411066_,Sg. Perak di Kuala Kenderong
 5210069_,Lawin
 4911077_,Sg. Plus di Kg. Lintang
+4809001_,Sg. Perak di Jam. Iskandar
 25784,Ldg. Bkt. Berapit at Perak
 25786,Pekan Manong (Sungai Perak)
 25968,Kg. Cik Zainal
@@ -152,7 +152,6 @@ TGPIANDANG,Tanjung Piandang
 4511111_,Politeknik Ungku Omar
 4610118_,Sg. Kinta di Kuala Pari
 SGRAIA,Sg. Raia di Keramat Pulai
-4310001_,Sg. Kinta di Tanjung Tualang
 25969,Kg. Baru Kuala Dipang
 4411120_,Gua Tempurung
 4312001_,Kg. Sahom
@@ -185,7 +184,6 @@ FELDAGEDANGSA,Felda Gedangsa
 KGBELIA2SGPANJANG,Kg. Belia Sg. Panjang
 25943,Sg. Bernam di Rimba KDR
 RPJPSBGNTERAP,Rumah Pam JPS Bagan Terap
-PEKANSABAKBERNAM,Pekan Sabak Bernam
 3808001_,Sg. Bernam di Sg. Air Tawar
 ILDASSGAIRTAWAR,ILDAS Sg. Air Tawar
 BGNNKOMAR,Bagan Nakhoda Omar
@@ -421,6 +419,7 @@ PAYAMAS,Paya Mas
 SWHRING,Sawah Ring
 SIMP5DARAT,Sg. Belemang Besar di Simpang 5 Darat
 25907,Sg. Senduk
+25909,Pintu Air Tanjung Agas
 2225001_,Sg. Tangkak di Kg. Seri Makmur
 25908,Pintu Air Kesang
 25910,Ladang Lian Seng
@@ -619,9 +618,9 @@ MERCHANG,Sek. Men. Keb.  Merchang
 4234109_,JPS Kemaman
 TKMN0007,Yak Yah
 4434093_,Sek. Men. Badrul Alam Shah
+26296,Jambatan Melor
 26286,Rumah Pam JPS Meranti
 26292,Kg. Pulau Lima
-26296,Jambatan Melor
 _DGMG0025,Felda Ciku 3
 4726001_DGMG0020,Gunung Gagau 1
 4824001_DGMG0021,Sg. Lebir di Kuala Koh
@@ -747,6 +746,7 @@ KCHCITYSOUTH,Kuching City South
 2843001_,Long Jek
 2442001_,Long Laku
 3041002_,Long Urun
+2939045_,Long Sambop
 2939002_,Sambop B
 2737002_,Giam Pasang B
 2333002_,Punan Bah B
