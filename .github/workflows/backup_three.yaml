@@ -3,7 +3,7 @@ name: "Scrape 3-Day Data"
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *"   
+    - cron: "0 */4 * * *"   
 
 jobs:
   scrape:
