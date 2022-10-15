@@ -1,4 +1,8 @@
 0,1
+26363,Sg. Arau di Felda
+26442,Sg. Perlis di Rumah Pam Kuala Perlis
+26361,Sg. Arau di Kolam Sg. Jernih
+6602002_,Sg. Pelarit di Kaki Bukit
 6502010_,Bukit Temiang
 25952,Sungai Gial at Kg Gial
 25940,Ngolong at Perlis
@@ -134,11 +138,11 @@ JELUTUNG,Sg. Jelutung di Jalan Gangsa
 TGPIANDANG,Tanjung Piandang
 5006021_,Kolam Air Bukit Merah
 4205102_,"SMK Pangkor, Pulau Pangkor"
+5610063_,Kg. Lalang
 5513001_,Tasik Temengor di Banding
 5411066_,Sg. Perak di Kuala Kenderong
 5210069_,Lawin
 4911077_,Sg. Plus di Kg. Lintang
-4809001_,Sg. Perak di Jam. Iskandar
 25784,Ldg. Bkt. Berapit at Perak
 25786,Pekan Manong (Sungai Perak)
 25968,Kg. Cik Zainal
@@ -190,6 +194,7 @@ PARIT1SGBESAR,Parit Satu Sg. Besar
 TALIAIR9,Tali Air 9 Sg. Panjang
 FDCSEKINCHAN,FDC Sekinchan
 IBUBKLSGTENGI,Ibu Bekalan Sg. Tengi
+STORJPSTGKARANG,Stor JPS Tg. Karang
 PRT1SB,Parit 1 Sg. Burong
 3414032_,Sg. Selangor di Rantau Panjang
 RPJS,Rumah Pam Jaya Setia
@@ -311,6 +316,7 @@ NSBN0034,Bandar Baru Nilai
 2519421_,Sg. Linggi di Sua Betong
 2620401_,Sg. Linggi di Pekan Linggi
 2419054_,Ladang Sengkang
+25972,Politeknik at Port Dickson Negeri Sembilan
 2618403_,Sg. Jimah di Kg. Jimah
 2518001_,Ladang Salak
 2517033_,Hospital Port Dickson
@@ -462,6 +468,7 @@ ISKANDARPUTERI,Iskandar Puteri
 KGLAUT,Sg. Skudai di Kg. Laut
 1537001_,Sg. Tebrau di Kg. Maju Jaya
 25737,Sg. Tebrau di Kg. Sri Pandan
+1538001_,Sg. Plentong di Kg. Plentong Baru
 1437116_,JPS Larkin
 25928,Pintu Air Kolam Air
 SGMASAI,Sg. Masai di Masai
@@ -545,6 +552,7 @@ _CPKN0040,Sg. Pahang di Kuala Sg. Chini
 _CPKN0132,Batu Gong
 _CPKN0002,Sg. Pahang di Paloh Hinai
 3431099,Sg. Pahang di Paloh Inai
+3533102_CPKN0003,Sg. Pahang Tua di Rumah Pam Pahang Tua
 3434001_CPKN0004,Sg. Pahang di Pekan
 3629103_,Sg. Lepar di Jambatan Gelugor
 3929001_,Sg. Lembing
@@ -560,6 +568,57 @@ _CPKN0002,Sg. Pahang di Paloh Hinai
 25835,S.K. Leban Chondong at Pahang
 25874,Emp. Pontian Pahang
 2636182_,Sg. Endau di Tanjung Gemuk
+26491,Kalabe
+5424001_,Sg. Besut di Jambatan Keruak
+5524001_,Sg. Besut di Kg. La
+5625003_,Empangan Paya Peda
+5626001_,Institut Pertanian Tok Dor
+5625011_,Sek. Keb. Kg. Jabi
+5328043_TSET0003,Kg. Pelong
+5428040_TSET0001,Sg. Nerus di Kg. Langkap
+_TSET0004,Sek. Keb. Kg. Sg. Tong
+KGBUKIT,Sg. Nerus di Kg. Bukit
+5426003_,Sg. Setiu di Kg. Besut
+5527024_,Sg. Setiu di Jambatan Permaisuri
+5428003_,Sg. Chalok di Jambatan Chalok
+5029034_THTG0005,Sg. Terengganu di Kg. Dura
+_THTG0004,Jambatan Kuala Berang
+5127011_,Kenyir Elephant Village (KEV)
+5229048_THTG0002,Sg. Telemong di Kuala Ping
+4930038_THTG0008,Sg. Berang di Kg. Menerong
+MENGKAWAN,Sg. Peneh di Felda Mengkawang
+_THTG0009,Kg. Felda Mengkawang
+4929001_,Kg. Embong
+5031062_,Kg. Bukit Diman
+_THTG0001,Sg. Telemong di Kenyir Elephant Village
+25820,Pertanian Ajil
+_TKTG0002,Bukit Tumbuh
+5331010_,Sg. Terengganu di Bukit Tumbuh
+5331048_TKTG0004,Stor JPS Kuala Terengganu
+_TKTG0005,Sg. Terengganu di Rumah Pam Pulau Bahagia
+UMT,Universiti Malaysia Terengganu
+_TKTG0095,Universiti Malaysia Terengganu
+_TKTG0001,Sek. Keb. Kg. Gemuroh
+25823,Sg. Nerus di Kg. Jeram
+5031001_,Sg. Marang di Jambatan Pengkalan Berangan
+JPSMARANG,JPS Marang
+5131064_,Sek. Men. Bukit Sawa
+MERCHANG,Sek. Men. Keb.  Merchang
+4730002_,Sg. Dungun di Kuala Jengai
+4832011_,Sg. Dungun di Jambatan Jerangau
+4734079_,Sek. Men. Sultan Omar
+26009,JPS Dungun
+4634085_,Pusat Kesihatan Paka
+4631001_,Bandar Al Muktafi Billah Shah
+3933001_,Hulu Jabor
+4131001_,Sg. Cherul di Jambatan Ban Ho
+25822,Sg. Tumpat di Kg. Baru Kemasik
+4332001_,Sg. Tebak di Jambatan Tebak
+4232002_,Sg. Kemaman di Jambatan Air Putih
+4233453_,Sg. Kemaman di Rumah Pam Paya Paman
+4234109_,JPS Kemaman
+TKMN0007,Yak Yah
+4434093_,Sek. Men. Badrul Alam Shah
 26286,Rumah Pam JPS Meranti
 26292,Kg. Pulau Lima
 26296,Jambatan Melor
@@ -688,7 +747,6 @@ KCHCITYSOUTH,Kuching City South
 2843001_,Long Jek
 2442001_,Long Laku
 3041002_,Long Urun
-2939045_,Long Sambop
 2939002_,Sambop B
 2737002_,Giam Pasang B
 2333002_,Punan Bah B
@@ -790,7 +848,6 @@ KCHCITYSOUTH,Kuching City South
 3946001_,Long Terawan
 3945017_,Long Panai
 3152011_,Lio Matu
-3451028_,Long Lellang
 3050015_,Long Moh
 2949001_,Long Jee
 3048026_,Long Anap
@@ -833,3 +890,4 @@ SKBU0001,Lawa Mondou
 5478003_,Sg. Kinabatangan di Barek Manis
 5083001_,Lahad Datu
 4278005_,Kuhara
+5351001_,Sg. Lada
