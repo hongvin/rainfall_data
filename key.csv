@@ -106,7 +106,6 @@ JPSKULIM,JPS Kulim
 LIMBUNGAN,Rumah Pam Taman Limbungan
 5405001_,Sg. Kulim di Ara Kuda
 26187,Sg. Mengkuang di Mengkuang Titi
-5404043_,Ibu Bekalan Sungai Kulim
 5304045_,Pusat Kesihatan Bukit Berapit
 5304046_,Permatang Rawa
 25963,Kolam Air Chrk. To' Kun At P.Pinang
@@ -134,7 +133,6 @@ JELUTUNG,Sg. Jelutung di Jalan Gangsa
 26337,Klinik Bkt. Bendera at P. Pinang
 5206032_,Sg. Kerian di Selama
 5108005_,Sg. Ijok di Bekalan Ijok
-4907020_,Sg. Kurau di Bt. 14 Batu Kurau
 4807016_,Bukit Larut
 TGPIANDANG,Tanjung Piandang
 5006021_,Kolam Air Bukit Merah
@@ -200,6 +198,7 @@ PRT1SB,Parit 1 Sg. Burong
 3414032_,Sg. Selangor di Rantau Panjang
 RPJS,Rumah Pam Jaya Setia
 KGASAHAN,Sg. Selangor di Kg. Asahan
+3312046_,Teluk Penyamun (Pintu Air)
 PASGYU1,P/A Sg. Yu 1
 3313070_,Sg. Buloh di Parit Mahang
 LDGSGBULOH,Ladang Sg. Buloh
@@ -302,6 +301,7 @@ KELANANG,Pintu Air Kelanang
 2819002_,Setul Mantin
 25800,Ldg. Labu at Negeri Sembilan
 NSBN0034,Bandar Baru Nilai
+2720041_,Kg. Bahru Pantai
 2719044_,SMK Tunku Ampuan Najihah
 2719001_,Setor JPS Negeri Sembilan
 2618002_,Sendayan
@@ -463,7 +463,6 @@ LADANGKUKUP,Ladang Kukup
 26006,Kangkar Pulai
 26050,Sg. Gelang Patah di Kg. Baru Muafakat
 ISKANDARPUTERI,Iskandar Puteri
-KGLAUT,Sg. Skudai di Kg. Laut
 1537001_,Sg. Tebrau di Kg. Maju Jaya
 25737,Sg. Tebrau di Kg. Sri Pandan
 1538001_,Sg. Plentong di Kg. Plentong Baru
@@ -471,6 +470,7 @@ KGLAUT,Sg. Skudai di Kg. Laut
 25928,Pintu Air Kolam Air
 SGMASAI,Sg. Masai di Masai
 SGTIRAM,Sg. Tiram di Ulu Tiram
+LDGLIMLIM,Ladang Lim Lim
 1836001_,Ulu Sebol
 25925,Ladang Pekan
 1836146_,Sg. Linggiu di Linggiu
@@ -846,6 +846,7 @@ KCHCITYSOUTH,Kuching City South
 3946001_,Long Terawan
 3945017_,Long Panai
 3152011_,Lio Matu
+3451028_,Long Lellang
 3050015_,Long Moh
 2949001_,Long Jee
 3048026_,Long Anap
@@ -882,7 +883,6 @@ KCHCITYSOUTH,Kuching City South
 5663002_,Sg. Pegalan di Keranaan
 STAM0002,Gunung Alab
 SKBU0001,Lawa Mondou
-5861001_,Putatan
 5881001_,Sandakan
 5671001_,Telupid
 5478003_,Sg. Kinabatangan di Barek Manis
