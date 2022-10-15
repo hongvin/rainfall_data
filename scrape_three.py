@@ -21,7 +21,7 @@ for state in states:
             station_id = link['href'].split('=')[1]
             print('Station ID: ', station_id)
             try:
-                with urllib.request.urlopen(f"https://publicinfobanjir.water.gov.my/rf-graph/?stationid={station_id}&lang=en") as url:
+                with urllib.request.urlopen(f"https://publicinfobanjir.water.gov.my/wp-content/themes/enlighten/query/getrainfalllast3dayslead.php?station={station_id}") as url:
                     data = json.load(url)
                     name = data['info']['name']
                     station_id_dict[station_id] = name
