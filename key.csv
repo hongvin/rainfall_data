@@ -21,7 +21,6 @@
 6397112_,Empangan Padang Saga
 6397113_,Sg. Melaka di Bukit Kemboja
 6397111_,Sg. Melaka di Padang Matsirat
-25958,Ldg. Sungai Raya at Kedah
 25728,Sg. Kuah
 6504180_,Bukit Kayu Hitam
 SEKBUKITTANGGA,Sek. Keb. Felda Bukit Tangga
@@ -49,6 +48,7 @@ SEKKEBKGBUKIT,Sek. Keb. Kampung Bukit
 26048,Sg. Anak Bukit di Taman Aman
 6103147_,Rumah Pam Sg. Raja
 KUBURPANJANG,Sg. Titi Kerbau di Kubur Panjang
+5905180_,Sg. Pendang di Pekan Pendang
 5905181_,Sg. Pendang di Pondok Chegar
 PAYAMADINSON,Kg. Paya Mat Inson
 6108001_,Kompleks Empangan Muda
@@ -100,7 +100,6 @@ JPSKULIM,JPS Kulim
 26331,Workshop Sg. Petani
 25662,Empangan Padang Saga
 5505413_,Sg. Muda di Pinang Tunggal
-5505033_,Rumah Pam Pinang Tunggal
 5504035_,Lahar Ikan Mati
 5404041_,Ladang Malakoff
 5503034_,Permatang Binjai
@@ -150,7 +149,6 @@ TGPIANDANG,Tanjung Piandang
 25786,Pekan Manong (Sungai Perak)
 25968,Kg. Cik Zainal
 4613401_,Empangan Ulu Kinta
-4611002_,Sg. Kinta di Tanjung Rambutan
 25136,Puncak Jelapang At Ipoh
 4511111_,Politeknik Ungku Omar
 4610118_,Sg. Kinta di Kuala Pari
@@ -270,7 +268,6 @@ KTSGMERAB,Kolam Takungan Sg. Merab
 JENDERAMHILIR,Sg. Langat di Jenderam Hilir
 25945,Sg. Jenderam di Jenderam Hulu
 PUNCAKNIAGA,Puncak Niaga Putrajaya
-LDGBUTE,Ladang Bute
 TMNDESAMERPATI,Sg. Jijan di Taman Desa Merpati
 2717134_,Sg. Labu di Kg. Salak Tinggi
 2816113_,Sg. Labu di Kg. Labu Lanjut (Masjid KLIA)
@@ -321,7 +318,6 @@ NSBN0034,Bandar Baru Nilai
 2419054_,Ladang Sengkang
 25972,Politeknik at Port Dickson Negeri Sembilan
 2618403_,Sg. Jimah di Kg. Jimah
-2518001_,Ladang Salak
 2517033_,Hospital Port Dickson
 2617032_,Chuah
 2520049_,Kg. Solok Air Murai
@@ -334,6 +330,7 @@ NSBN0034,Bandar Baru Nilai
 2421005_,Kg. Semerbok
 _NJLB0003,Kg. Ulu Klawang
 2820011_,Kg. Ulu Klawang
+2920032_,Sg. Triang di Kg. Chenor
 _NJLB0008,Kg. Relai di Kg. Baharu
 3020016_,Kg. Chennah
 2922018_,Ladang Pertang
@@ -447,7 +444,6 @@ SMKMUNSHI,SMK Munshi Sulaiman
 2033003_,Sg. Mengkibol di Bandar Kluang
 SMKKAHANG,SMK Kahang
 1834125_,Ladang Renggam
-2230190_,Layang-Layang
 1932001_,Felda Air Hitam
 1832001_,Empangan Machap
 1833124_,Sg. Benut di Simpang Renggam
