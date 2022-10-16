@@ -1,7 +1,7 @@
 0,1
-26361,Sg. Arau di Kolam Sg. Jernih
 26363,Sg. Arau di Felda
 26442,Sg. Perlis di Rumah Pam Kuala Perlis
+26361,Sg. Arau di Kolam Sg. Jernih
 6601001_,Sg.Pelarit di Wang Kelian
 6602002_,Sg. Pelarit di Kaki Bukit
 6502010_,Bukit Temiang
@@ -121,7 +121,6 @@ BATUKAWAN,Stadium Batu Kawan
 5105051_,Kolam Takungan Bukit Panchor
 5105459_,Sg. Kecil
 BKTBENDERA,Bukit Bendera
-5302003_,Kolam Air Itam
 5302004_,Kolam Sg. Dondang
 5403001_,Lorong Batu Lanchang
 JLNSCOTLAND,Sg. Air Itam di Jalan Scotland
@@ -173,7 +172,6 @@ SGRAIA,Sg. Raia di Keramat Pulai
 3516026_,Sg. Kerling di Kerling
 3516025_,Sg. Selangor di Ampang Pecah
 3416027_,Sg. Batang Kali di Batang Kali
-3416001_,Sg. Liam di Ulu Yam
 3416002_,Kg. Kalong Tengah
 3316029_,Sg. Serendah di Serendah
 3315040_,Sg. Guntong di Kg. Sungai Buaya
@@ -208,6 +206,7 @@ LDGBRAUNSTON,Ladang Braunston Jeram
 TMNTEMPLAR,Taman Templer
 3315042_,Sg. Rawang di Taman Tun Teja
 RAWANGTIN,Sg. Rawang di Rawang Tin
+TGARINGU,Taman Garing Utama
 JLN27,Sg. Gong di Jln. B27 Country Homes
 3315038_,Sg. Bakau di Country Homes Rawang
 KGSETIA,Kg. Setia Kuang
@@ -636,7 +635,6 @@ _DMCG0005,JPS Machang
 25368,Emp. Bukit Kwong
 _DPMS0003,Rantau Panjang
 _DKBR0008,IPMI Zon Timur
-_DKBR0007,Tambatan DRaja
 6121068_DTPT0001,Tumpat
 25098,Pak Badol
 25881,Serdang at Gunong Barat Bachok
@@ -767,7 +765,6 @@ KCHCITYSOUTH,Kuching City South
 1521001_,Sungai Nawang
 1624001_,Rumah Andau
 1823001_,Nanga Jagau
-1821001_,Uka
 2023001_,Nanga Kabah
 2121001_,Kanowit Town
 2119001_,Durin Water Works
@@ -803,14 +800,12 @@ KCHCITYSOUTH,Kuching City South
 2817001_,Igan
 2321066_,Sekuau
 2819001_,Sungai Talau
-2818001_,Oya Water Works
 2323002_,Rumah Jugah
 2721001_,Kampung Sunting
 2920005_,Mukah JKR
 2920037_,Mukah-Balingian OPS4
 2825001_,Sungai Bawan
 2823001_,Dana
-3025001_,Kuala Balingian
 2530001,Rumah Maja
 2629401_,Muput
 2730001,Rumah Keseng
@@ -835,6 +830,7 @@ KCHCITYSOUTH,Kuching City South
 3635001_,Kuala Tutong
 3738001_,Subis 1
 3838064_,Karabungan
+3837001_,Batu Niah Bazaar
 4139064,Kebuloh
 4038006_,Bekenu
 2318006_,Permy Jaya
@@ -850,7 +846,6 @@ KCHCITYSOUTH,Kuching City South
 3945017_,Long Panai
 3152011_,Lio Matu
 3451028_,Long Lellang
-3050015_,Long Moh
 2949001_,Long Jee
 3048026_,Long Anap
 3347003_,Long Akah
@@ -873,10 +868,10 @@ KCHCITYSOUTH,Kuching City South
 4650023,Pandaruan
 4749001_,Limbang DID
 3956001,Ba Kelalan
-4255006_,Long Semado
 4354001,Long Merarap
 4653001_,Long Tengoa
 4752023_,Trusan
+4852002_,Sundar
 4955021_,Merapok
 4954001_,Kuala Lawas
 5261402_,Sg. Sook di Biah
