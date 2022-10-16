@@ -33,7 +33,6 @@ WANGTEPUS,Wang Tepus
 6307180_,Empangan Ahning
 6205481_,Sg. Padang Terap di Kg. Kubu
 6306180_,Sg. Padang Sanai di Padang Sanai
-PADANGSANAI,Sg. Padang Sanai di Pdg. Sanai
 K000007_,Sg. Sari di Kilang Gula Padang Terap
 26163,Tunnel Outfall
 SEKKEBLAMDIN,Sek. Keb. Lamdin
@@ -109,6 +108,7 @@ LIMBUNGAN,Rumah Pam Taman Limbungan
 5304045_,Pusat Kesihatan Bukit Berapit
 5304046_,Permatang Rawa
 25963,Kolam Air Chrk. To' Kun At P.Pinang
+5304044_,Sg. Juru di Empangan Juru
 5305318_,Macang Bubuk
 5204423_,Sg. Junjung di Simpang Empat
 5204048_,Sg. Simpang Ampat
@@ -193,6 +193,7 @@ PARIT1SGBESAR,Parit Satu Sg. Besar
 TALIAIR9,Tali Air 9 Sg. Panjang
 FDCSEKINCHAN,FDC Sekinchan
 IBUBKLSGTENGI,Ibu Bekalan Sg. Tengi
+PATGKARANG,P/A Pekan Tg. Karang
 STORJPSTGKARANG,Stor JPS Tg. Karang
 PRT1SB,Parit 1 Sg. Burong
 3414032_,Sg. Selangor di Rantau Panjang
@@ -463,6 +464,7 @@ LADANGKUKUP,Ladang Kukup
 26006,Kangkar Pulai
 26050,Sg. Gelang Patah di Kg. Baru Muafakat
 ISKANDARPUTERI,Iskandar Puteri
+KGLAUT,Sg. Skudai di Kg. Laut
 1537001_,Sg. Tebrau di Kg. Maju Jaya
 25737,Sg. Tebrau di Kg. Sri Pandan
 1538001_,Sg. Plentong di Kg. Plentong Baru
@@ -800,6 +802,7 @@ KCHCITYSOUTH,Kuching City South
 2817001_,Igan
 2321066_,Sekuau
 2819001_,Sungai Talau
+2818001_,Oya Water Works
 2323002_,Rumah Jugah
 2721001_,Kampung Sunting
 2920005_,Mukah JKR
@@ -883,6 +886,7 @@ KCHCITYSOUTH,Kuching City South
 5663002_,Sg. Pegalan di Keranaan
 STAM0002,Gunung Alab
 SKBU0001,Lawa Mondou
+5861001_,Putatan
 5881001_,Sandakan
 5671001_,Telupid
 5478003_,Sg. Kinabatangan di Barek Manis
