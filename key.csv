@@ -21,6 +21,7 @@
 6397112_,Empangan Padang Saga
 6397113_,Sg. Melaka di Bukit Kemboja
 6397111_,Sg. Melaka di Padang Matsirat
+25958,Ldg. Sungai Raya at Kedah
 25728,Sg. Kuah
 6504180_,Bukit Kayu Hitam
 SEKBUKITTANGGA,Sek. Keb. Felda Bukit Tangga
@@ -48,7 +49,6 @@ SEKKEBKGBUKIT,Sek. Keb. Kampung Bukit
 26048,Sg. Anak Bukit di Taman Aman
 6103147_,Rumah Pam Sg. Raja
 KUBURPANJANG,Sg. Titi Kerbau di Kubur Panjang
-5905180_,Sg. Pendang di Pekan Pendang
 5905181_,Sg. Pendang di Pondok Chegar
 PAYAMADINSON,Kg. Paya Mat Inson
 6108001_,Kompleks Empangan Muda
@@ -79,7 +79,6 @@ BERIS,Empangan Beris (State)
 26147,PLSM HQ
 JPSMEKANIKAL,Workshop Sg. Petani
 25726,RCC Sg. Petani
-25960,Ibu Bekalan Tupah at Kedah
 25955,Semeling at Kedah
 26172,Sg. Gurun Upper
 5704180_,Gunung Jerai
@@ -100,6 +99,7 @@ JPSKULIM,JPS Kulim
 26331,Workshop Sg. Petani
 25662,Empangan Padang Saga
 5505413_,Sg. Muda di Pinang Tunggal
+5505033_,Rumah Pam Pinang Tunggal
 5504035_,Lahar Ikan Mati
 5404041_,Ladang Malakoff
 5503034_,Permatang Binjai
@@ -111,7 +111,6 @@ LIMBUNGAN,Rumah Pam Taman Limbungan
 5304045_,Pusat Kesihatan Bukit Berapit
 5304046_,Permatang Rawa
 25963,Kolam Air Chrk. To' Kun At P.Pinang
-5304044_,Sg. Juru di Empangan Juru
 5305318_,Macang Bubuk
 5204423_,Sg. Junjung di Simpang Empat
 5204048_,Sg. Simpang Ampat
@@ -149,6 +148,7 @@ TGPIANDANG,Tanjung Piandang
 25786,Pekan Manong (Sungai Perak)
 25968,Kg. Cik Zainal
 4613401_,Empangan Ulu Kinta
+4611002_,Sg. Kinta di Tanjung Rambutan
 25136,Puncak Jelapang At Ipoh
 4511111_,Politeknik Ungku Omar
 4610118_,Sg. Kinta di Kuala Pari
@@ -268,6 +268,7 @@ KTSGMERAB,Kolam Takungan Sg. Merab
 JENDERAMHILIR,Sg. Langat di Jenderam Hilir
 25945,Sg. Jenderam di Jenderam Hulu
 PUNCAKNIAGA,Puncak Niaga Putrajaya
+LDGBUTE,Ladang Bute
 TMNDESAMERPATI,Sg. Jijan di Taman Desa Merpati
 2717134_,Sg. Labu di Kg. Salak Tinggi
 2816113_,Sg. Labu di Kg. Labu Lanjut (Masjid KLIA)
@@ -318,6 +319,7 @@ NSBN0034,Bandar Baru Nilai
 2419054_,Ladang Sengkang
 25972,Politeknik at Port Dickson Negeri Sembilan
 2618403_,Sg. Jimah di Kg. Jimah
+2518001_,Ladang Salak
 2517033_,Hospital Port Dickson
 2617032_,Chuah
 2520049_,Kg. Solok Air Murai
@@ -339,7 +341,6 @@ _NJLB0015,Ladang Glandle
 _NJPL0002,Sg. Serting di Kg. Datok Johan
 2923001_,Sg. Serting di Serting Ulu
 2824093_,Ladang Bahau
-_NKPH0001,Ladang Sg. Sabaling
 3023098_,Sg. Lui
 2725096_,Palong 9
 2625413_,Sg. Muar di Pekan Rompin
@@ -444,6 +445,7 @@ SMKMUNSHI,SMK Munshi Sulaiman
 2033003_,Sg. Mengkibol di Bandar Kluang
 SMKKAHANG,SMK Kahang
 1834125_,Ladang Renggam
+2230190_,Layang-Layang
 1932001_,Felda Air Hitam
 1832001_,Empangan Machap
 1833124_,Sg. Benut di Simpang Renggam
@@ -533,7 +535,6 @@ _CBTG0017,JKR Kg. Manchis
 3420132_CBTG0001,Sg. Semantan di Kg. Lengkong
 _CTMH0370,Ladang Sg. Mai
 _CTMH0046,Kuala Krau
-3424081_CTMH0001,Sg. Pahang di Temerloh (Lubuk Pasu)
 3224033_CBER0002,Sg. Triang di Triang
 _CBER0030,Ladang Karmen
 2924096_,Glendale
@@ -617,9 +618,9 @@ MERCHANG,Sek. Men. Keb.  Merchang
 4234109_,JPS Kemaman
 TKMN0007,Yak Yah
 4434093_,Sek. Men. Badrul Alam Shah
-26296,Jambatan Melor
 26286,Rumah Pam JPS Meranti
 26292,Kg. Pulau Lima
+26296,Jambatan Melor
 _DGMG0025,Felda Ciku 3
 4726001_DGMG0020,Gunung Gagau 1
 4824001_DGMG0021,Sg. Lebir di Kuala Koh
@@ -643,7 +644,6 @@ _DKBR0008,IPMI Zon Timur
 26285,SM Cherang Ruku
 1599001_,Ulu Batang Kayan
 1698007_,Lundu
-1996090_,Samunsam
 1897016_,Sematan
 26124,Sampadi Laut
 1201076_,Semban
