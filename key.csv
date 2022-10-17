@@ -47,7 +47,6 @@ SEKKEBLAMDIN,Sek. Keb. Lamdin
 FELCRATAMPOI,Felcra Bukit Tampoi
 SEKKEBKGBUKIT,Sek. Keb. Kampung Bukit
 26048,Sg. Anak Bukit di Taman Aman
-6103147_,Rumah Pam Sg. Raja
 KUBURPANJANG,Sg. Titi Kerbau di Kubur Panjang
 5905181_,Sg. Pendang di Pondok Chegar
 PAYAMADINSON,Kg. Paya Mat Inson
@@ -79,6 +78,7 @@ BERIS,Empangan Beris (State)
 26147,PLSM HQ
 JPSMEKANIKAL,Workshop Sg. Petani
 25726,RCC Sg. Petani
+25960,Ibu Bekalan Tupah at Kedah
 25955,Semeling at Kedah
 26172,Sg. Gurun Upper
 5704180_,Gunung Jerai
@@ -210,7 +210,6 @@ TMNTEMPLAR,Taman Templer
 RAWANGTIN,Sg. Rawang di Rawang Tin
 TGARINGU,Taman Garing Utama
 JLN27,Sg. Gong di Jln. B27 Country Homes
-3315038_,Sg. Bakau di Country Homes Rawang
 KGSETIA,Kg. Setia Kuang
 3215080_,Sg. Kuang di Kg. Melayu Seri Kundang
 TMNDESAKUNDANG,Taman Desa Kundang
@@ -444,7 +443,6 @@ SMKMUNSHI,SMK Munshi Sulaiman
 25901,Sg. Paloh di Pekan Paloh
 2033003_,Sg. Mengkibol di Bandar Kluang
 SMKKAHANG,SMK Kahang
-1834125_,Ladang Renggam
 2230190_,Layang-Layang
 1932001_,Felda Air Hitam
 1832001_,Empangan Machap
@@ -501,7 +499,6 @@ JHR-STORJPSMERSING,Stor JPS Mersing
 _CCHG0014,Sg. Tringkap di Tringkap
 4414040_,MARDI CH
 _CLPS0029,Sg. Meldu
-_CLPS0026,Kuala Medang
 4218042_,Sg. Jelai di Kuala Medang
 _CLPS0033,Balai Polis Merapoh
 4620046_,Merapoh
@@ -535,6 +532,7 @@ _CBTG0017,JKR Kg. Manchis
 3420132_CBTG0001,Sg. Semantan di Kg. Lengkong
 _CTMH0370,Ladang Sg. Mai
 _CTMH0046,Kuala Krau
+3424081_CTMH0001,Sg. Pahang di Temerloh (Lubuk Pasu)
 3224033_CBER0002,Sg. Triang di Triang
 _CBER0030,Ladang Karmen
 2924096_,Glendale
@@ -567,6 +565,7 @@ _CPKN0002,Sg. Pahang di Paloh Hinai
 25835,S.K. Leban Chondong at Pahang
 25874,Emp. Pontian Pahang
 2636182_,Sg. Endau di Tanjung Gemuk
+222910501017,JPS Marang
 26491,Kalabe
 5424001_,Sg. Besut di Jambatan Keruak
 5524001_,Sg. Besut di Kg. La
@@ -618,9 +617,10 @@ MERCHANG,Sek. Men. Keb.  Merchang
 4234109_,JPS Kemaman
 TKMN0007,Yak Yah
 4434093_,Sek. Men. Badrul Alam Shah
+223810321017,Ladang Mentara
+26296,Jambatan Melor
 26286,Rumah Pam JPS Meranti
 26292,Kg. Pulau Lima
-26296,Jambatan Melor
 _DGMG0025,Felda Ciku 3
 4726001_DGMG0020,Gunung Gagau 1
 4824001_DGMG0021,Sg. Lebir di Kuala Koh
@@ -716,7 +716,6 @@ KCHCITYSOUTH,Kuching City South
 1217011_,Ridan
 1316001_,Enteban 2
 26127,Engkilili JKR Wharf
-1015001_,Batu Lintang
 1114019_,Temudok
 1114028_,Melugu
 1214003_,Sri Aman Telemetry
@@ -814,7 +813,6 @@ KCHCITYSOUTH,Kuching City South
 3837001_,Batu Niah Bazaar
 4139064,Kebuloh
 4038006_,Bekenu
-2318006_,Permy Jaya
 4440060_,Miri DID
 4339005_,Miri Airport
 4339001_,Miri Municipal Car Park
@@ -824,7 +822,6 @@ KCHCITYSOUTH,Kuching City South
 3152011_,Lio Matu
 3451028_,Long Lellang
 2949001_,Long Jee
-3048026_,Long Anap
 3347003_,Long Akah
 3547001_,Long Luteng
 3744009_,Long Lama
@@ -862,4 +859,9 @@ SKBU0001,Lawa Mondou
 5478003_,Sg. Kinabatangan di Barek Manis
 5083001_,Lahad Datu
 4278005_,Kuhara
+25141,Sg. Bangat di Kg. Sg. Bangat
+5352102_,Sek. Men. Pantai
+5352101_,Bukit Kuda
+25267,Ganggarak
 5351001_,Sg. Lada
+LLBN0010,Empangan Kerupang
