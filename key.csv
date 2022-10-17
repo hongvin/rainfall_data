@@ -22,9 +22,9 @@
 6402010_,Sg. Perlis di Kg. Sg. Bakau
 25951,Kg. Behor Lateh at Perlis
 25941,Kuala Perlis at Perlis
+26335,Arau at Perlis
 25398,KAKI BUKIT AT PERLIS
 25400,PADANG BESAR AT PERLIS
-26335,Arau at Perlis
 6398141_,Gunung Raya
 6397116_,Hulu Empangan Saga
 6397112_,Empangan Padang Saga
@@ -104,9 +104,10 @@ JPSKULIM,JPS Kulim
 25957,Kelang Baharu at Kulim Kedah
 5307101_,Sg. Kerian di Mahang
 5206105_,Pekan Serdang
-25662,Empangan Padang Saga
+25959,Rumah Penjaga Jps at Parit Nibong Kedah
 26330,Kedah Peak at Kedah
 26331,Workshop Sg. Petani
+25662,Empangan Padang Saga
 5505413_,Sg. Muda di Pinang Tunggal
 5505033_,Rumah Pam Pinang Tunggal
 5504035_,Lahar Ikan Mati
@@ -185,7 +186,6 @@ SGRAIA,Sg. Raia di Keramat Pulai
 3416001_,Sg. Liam di Ulu Yam
 3416002_,Kg. Kalong Tengah
 3316029_,Sg. Serendah di Serendah
-3315040_,Sg. Guntong di Kg. Sungai Buaya
 KOMPLEKSPEGHULUULUBERNAM,Kompleks Penghulu Hulu Bernam
 3615003_,Sg. Bernam di Tanjung Malim
 3714080_,Sg. Bernam di Kg. Sg. Selisek
@@ -231,7 +231,6 @@ BT10GOMBAK,Sg. Gombak di Batu 10
 3117080_,Bukit Antarabangsa
 3117081_,Puncak Atheneum
 KMSB,Kg. Melayu Sg. Buloh
-3115080_,Sg. Buloh di Paya Jaras
 PAYAJARASHILIR,Paya Jaras Hilir
 3114087_,Empangan Tasik Subang Meru
 26039,Sg. Bakul di Kg. Budiman
@@ -257,6 +256,7 @@ KGRANTAUPANJANG,Kg. Rantau Panjang
 SMKRAJALUMU,SMK Raja Lumu
 SELATMUARA,Sg. Klang di Selat Muara
 JLNBENTENGKAPAR,Jln. Benteng Kapar
+PANDAMARAN,P/A Pandamaran
 3117482_,Sg. Ampang di Kg. Lembah Jaya Utara
 3218101_,Sg. Langat di TNB Pangsun
 3118104_,Sg. Langat di Batu 20
@@ -613,7 +613,6 @@ _TKTG0005,Sg. Terengganu di Rumah Pam Pulau Bahagia
 UMT,Universiti Malaysia Terengganu
 _TKTG0095,Universiti Malaysia Terengganu
 _TKTG0001,Sek. Keb. Kg. Gemuroh
-25823,Sg. Nerus di Kg. Jeram
 5031001_,Sg. Marang di Jambatan Pengkalan Berangan
 JPSMARANG,JPS Marang
 5131064_,Sek. Men. Bukit Sawa
@@ -635,9 +634,9 @@ MERCHANG,Sek. Men. Keb.  Merchang
 TKMN0007,Yak Yah
 4434093_,Sek. Men. Badrul Alam Shah
 223810321017,Ladang Mentara
-26296,Jambatan Melor
 26286,Rumah Pam JPS Meranti
 26292,Kg. Pulau Lima
+26296,Jambatan Melor
 _DGMG0025,Felda Ciku 3
 4726001_DGMG0020,Gunung Gagau 1
 4824001_DGMG0021,Sg. Lebir di Kuala Koh
@@ -729,7 +728,6 @@ KCHCITYSOUTH,Kuching City South
 1219024_,Nanga Tutong II
 1519001_,Bau Sungai
 1417001_,Nanga Entalau
-1018002_,Lubok Antu
 1217011_,Ridan
 1316001_,Enteban 2
 26127,Engkilili JKR Wharf
@@ -775,6 +773,7 @@ KCHCITYSOUTH,Kuching City South
 2218007_,Stabau
 2219001_,Sibu New Airport
 26139,Sungai Salim B
+2418014_,Rantau Panjang B
 2318005_,Sungai Teku
 25540,Ulu Sungai Merah
 2318008_,Jabatan Laut
