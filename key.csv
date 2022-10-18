@@ -52,8 +52,8 @@ SEKKEBLAMDIN,Sek. Keb. Lamdin
 6106180_,Sg. Naka di Naka
 26165,Sg. Tekai di Kg. Sireh
 6205180_,Sg. Padang Terap di Kuala Nerang
-6306035_,Sg. Durian Burung di Durian Burung
 FELCRATAMPOI,Felcra Bukit Tampoi
+6306035_,Sg. Durian Burung di Durian Burung
 SEKKEBKGBUKIT,Sek. Keb. Kampung Bukit
 26048,Sg. Anak Bukit di Taman Aman
 6103147_,Rumah Pam Sg. Raja
@@ -179,6 +179,7 @@ SGRAIA,Sg. Raia di Keramat Pulai
 25789,Sg. Ijok at Titi Ijok Perak
 3717101_,Bukit Fraser
 3517022_,Kg. Pertak
+3516022_,Loji Air KKB
 3516026_,Sg. Kerling di Kerling
 3516025_,Sg. Selangor di Ampang Pecah
 3416027_,Sg. Batang Kali di Batang Kali
@@ -236,7 +237,6 @@ PAYAJARASHILIR,Paya Jaras Hilir
 3017107_,Sg. Kuyoh di Seri Kembangan
 3016077_,Sg. Penchala di Jalan 222
 3016080_,Sg. Penchala di Kg. Gandhi
-3015440_,IOI Puchong Jaya
 USJ1,Sg. Klang di USJ 1
 3015001_,Sg. Klang di Puchong Drop
 2915118_,Ayer Hitam Puchong
@@ -408,6 +408,7 @@ REDONG,Felda Redong
 2426006_,Jementah
 KGGATOM,Sg. Labis di Kg. Gatom
 2330009_,LPP Labis
+2229001_,Felda Maokil
 2230001_,SMK Chaah
 2130002_,Sg. Lenik di Kangkar Chaah
 2130001_,Sg. Lenik di Ladang Chaah
@@ -446,7 +447,6 @@ LDGUNION,Ladang Union
 25916,Sg. Simpang Kiri di Parit Sulong
 25917,Sg. Simpang Kiri di Tebing Tinggi
 SMKMUNSHI,SMK Munshi Sulaiman
-1829078_,Sg. Batu Pahat di JPS Batu Pahat
 1730082_,Sg. Senggarang di Senggarang
 25912,Sg. Rengit di Rengit
 25901,Sg. Paloh di Pekan Paloh
@@ -477,7 +477,6 @@ KGLAUT,Sg. Skudai di Kg. Laut
 1537001_,Sg. Tebrau di Kg. Maju Jaya
 25737,Sg. Tebrau di Kg. Sri Pandan
 1538001_,Sg. Plentong di Kg. Plentong Baru
-1437116_,JPS Larkin
 25928,Pintu Air Kolam Air
 SGMASAI,Sg. Masai di Masai
 SGTIRAM,Sg. Tiram di Ulu Tiram
@@ -536,6 +535,7 @@ _CRAU0029,JKR Tranum
 _CRAU0031,Sg. Chalit
 _CRAU0033,JPS Stor Raub
 _CRAU0039,Kg. Cheroh
+_CRAU0042,Sg. Dong di Kg. Peruas
 3519125_CBTG0002,Sg. Bentong di Kuala Marong
 _CBTG0024,Pos Sungai Dua
 _CBTG0017,JKR Kg. Manchis
@@ -575,8 +575,8 @@ _CPKN0002,Sg. Pahang di Paloh Hinai
 25835,S.K. Leban Chondong at Pahang
 25874,Emp. Pontian Pahang
 2636182_,Sg. Endau di Tanjung Gemuk
-222910501017,JPS Marang
 225110521017,SMK Neram
+222910501017,JPS Marang
 26491,Kalabe
 26492,Stesen Pertanian Ajil
 5424001_,Sg. Besut di Jambatan Keruak
@@ -631,10 +631,9 @@ MERCHANG,Sek. Men. Keb.  Merchang
 TKMN0007,Yak Yah
 4434093_,Sek. Men. Badrul Alam Shah
 223810321017,Ladang Mentara
-26296,Jambatan Melor
 26286,Rumah Pam JPS Meranti
 26292,Kg. Pulau Lima
-_DGMG0025,Felda Ciku 3
+26296,Jambatan Melor
 4726001_DGMG0020,Gunung Gagau 1
 4824001_DGMG0021,Sg. Lebir di Kuala Koh
 _DGMG0104,Sek. Keb. Chalil
@@ -668,7 +667,6 @@ _DKBR0008,IPMI Zon Timur
 1302078_,Kampung Git
 1302001_,Upper Sungai Staat
 1301002_,Buan Bidi
-1400001_,Kampung Opar
 1400002_,Sungai Opar
 1401005_,Bau
 1605001_,Kampung Similang
@@ -703,6 +701,7 @@ KCHCITYSOUTH,Kuching City South
 1305038_,Samarahan Estate
 905039_,Bunan Gega
 1003031_,Tebedu
+1004001_,Krusen
 26130,Tebakang
 1105035_,Semuja Nonok
 907001_,Krangan Trusan
@@ -727,6 +726,7 @@ KCHCITYSOUTH,Kuching City South
 1217011_,Ridan
 1316001_,Enteban 2
 26127,Engkilili JKR Wharf
+1015001_,Batu Lintang
 1114019_,Temudok
 1114028_,Melugu
 1214003_,Sri Aman Telemetry
@@ -793,7 +793,6 @@ KCHCITYSOUTH,Kuching City South
 2817001_,Igan
 2321066_,Sekuau
 2819001_,Sungai Talau
-2818001_,Oya Water Works
 2323002_,Rumah Jugah
 2721001_,Kampung Sunting
 2920005_,Mukah JKR
@@ -874,4 +873,3 @@ SKBU0001,Lawa Mondou
 25489,Empangan Sg. Pagar
 5252101_,Kinabenua
 5351001_,Sg. Lada
-LLBN0010,Empangan Kerupang
