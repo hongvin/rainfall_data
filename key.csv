@@ -1,5 +1,4 @@
 0,1
-26361,Sg. Arau di Kolam Sg. Jernih
 26363,Sg. Arau di Felda
 26441,Sg. Perlis di Padang Katong
 26442,Sg. Perlis di Rumah Pam Kuala Perlis
@@ -102,7 +101,6 @@ SGULAR,Sg. Kulim di Sg. Ular
 JPSKULIM,JPS Kulim
 25734,Sg. Kulim di Kg. Dusun
 26054,SMK Lunas
-25957,Kelang Baharu at Kulim Kedah
 5307101_,Sg. Kerian di Mahang
 5206105_,Pekan Serdang
 25959,Rumah Penjaga Jps at Parit Nibong Kedah
@@ -191,6 +189,7 @@ SGRAIA,Sg. Raia di Keramat Pulai
 KOMPLEKSPEGHULUULUBERNAM,Kompleks Penghulu Hulu Bernam
 3615003_,Sg. Bernam di Tanjung Malim
 3714080_,Sg. Bernam di Kg. Sg. Selisek
+FELDAGEDANGSA,Felda Gedangsa
 25551,Ibu Bekalan Sg. Bernam
 KGBELIA2SGPANJANG,Kg. Belia Sg. Panjang
 25943,Sg. Bernam di Rimba KDR
@@ -350,6 +349,7 @@ _NJLB0015,Ladang Glandle
 _NJPL0002,Sg. Serting di Kg. Datok Johan
 2923001_,Sg. Serting di Serting Ulu
 2824093_,Ladang Bahau
+_NKPH0001,Ladang Sg. Sabaling
 3023098_,Sg. Lui
 2725096_,Palong 9
 2625413_,Sg. Muar di Pekan Rompin
@@ -415,7 +415,6 @@ KGGATOM,Sg. Labis di Kg. Gatom
 2231001_,Ladang Chan Wing
 2028001_,Sg. Muar di Bukit Kepong
 2127001_,Sg. Muar di Kg. Olak Sepam
-2127074_,Sg. Muar di Panchor
 2127026_,Lubuk Bakul
 26120,Kg. Parit Wahid
 26119,Sg. Terap
@@ -543,7 +542,6 @@ _CBTG0024,Pos Sungai Dua
 _CBTG0017,JKR Kg. Manchis
 3420132_CBTG0001,Sg. Semantan di Kg. Lengkong
 _CTMH0370,Ladang Sg. Mai
-_CTMH0046,Kuala Krau
 3424081_CTMH0001,Sg. Pahang di Temerloh (Lubuk Pasu)
 3224033_CBER0002,Sg. Triang di Triang
 _CBER0030,Ladang Karmen
@@ -626,6 +624,7 @@ MERCHANG,Sek. Men. Keb.  Merchang
 4631001_,Bandar Al Muktafi Billah Shah
 3933001_,Hulu Jabor
 4131001_,Sg. Cherul di Jambatan Ban Ho
+25822,Sg. Tumpat di Kg. Baru Kemasik
 4332001_,Sg. Tebak di Jambatan Tebak
 4232002_,Sg. Kemaman di Jambatan Air Putih
 4233453_,Sg. Kemaman di Rumah Pam Paya Paman
@@ -633,9 +632,9 @@ MERCHANG,Sek. Men. Keb.  Merchang
 TKMN0007,Yak Yah
 4434093_,Sek. Men. Badrul Alam Shah
 223810321017,Ladang Mentara
-26296,Jambatan Melor
 26286,Rumah Pam JPS Meranti
 26292,Kg. Pulau Lima
+26296,Jambatan Melor
 4726001_DGMG0020,Gunung Gagau 1
 4824001_DGMG0021,Sg. Lebir di Kuala Koh
 _DGMG0104,Sek. Keb. Chalil
@@ -723,8 +722,10 @@ KCHCITYSOUTH,Kuching City South
 1307018_,Simunjan
 1507093_,Sadong Jaya
 1220025_,Nanga Delok
+1219024_,Nanga Tutong II
 1519001_,Bau Sungai
 1417001_,Nanga Entalau
+1018002_,Lubok Antu
 1217011_,Ridan
 1316001_,Enteban 2
 26127,Engkilili JKR Wharf
