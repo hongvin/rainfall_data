@@ -2,6 +2,7 @@
 26363,Sg. Arau di Felda
 26441,Sg. Perlis di Padang Katong
 26442,Sg. Perlis di Rumah Pam Kuala Perlis
+26361,Sg. Arau di Kolam Sg. Jernih
 6601001_,Sg.Pelarit di Wang Kelian
 6602002_,Sg. Pelarit di Kaki Bukit
 6603002_,Padang Besar
@@ -101,6 +102,7 @@ SGULAR,Sg. Kulim di Sg. Ular
 JPSKULIM,JPS Kulim
 25734,Sg. Kulim di Kg. Dusun
 26054,SMK Lunas
+25957,Kelang Baharu at Kulim Kedah
 5307101_,Sg. Kerian di Mahang
 5206105_,Pekan Serdang
 25959,Rumah Penjaga Jps at Parit Nibong Kedah
@@ -135,7 +137,6 @@ BKTBENDERA,Bukit Bendera
 5403001_,Lorong Batu Lanchang
 JLNSCOTLAND,Sg. Air Itam di Jalan Scotland
 5403043_,Sg. Pinang di Jalan P. Ramlee
-JELUTUNG,Sg. Jelutung di Jalan Gangsa
 5302407_,Sg. Ara
 5402003_,Empangan Teluk Bahang
 26189,Sg. Burong di Politeknik Balik Pulau
@@ -370,27 +371,6 @@ _NKPH0001,Ladang Sg. Sabaling
 2526005_,Sg. Gemas di Kg. Tiong
 2625084_,Londah
 25778,Bt. 8 jalan Setul at Mantin Negeri Sembilan
-26499,Rumah Pam Lubok China
-SIMPANGEMPAT,Simpang Ampat
-2322006_,Sg. Melaka di Melaka Pindah
-LADANGLENDU,Ladang Lendu
-DRTUNGGAL,Sg. Melaka di Durian Tunggal (Upstream)
-2222412_,Sg. Melaka di Durian Tunggal (Downstream)
-25802,Datoh Kramat at Nyalas Melaka
-25749,Ldg. Bkt. Asahan at Melaka
-HOSPITALJASIN,Hospital Jasin
-2225044_,Chohong
-2125002_,Sg. Kesang di Telok Rimba
-25754,"Tehel, Sg. Air Panas"
-25747,"Bukit Katil, Sg. Duyong"
-2223023_,Sg. Duyong
-2222006_,Cheng U/S
-2222007_,Cheng D/S
-2222033_,Sg. Melaka di Batu Hampar
-2222003_,Lencongan Sg. Malim di Klebang Besar U/S
-2222005_,Lencongan Sg. Malim di Klebang Besar D/S
-26334,Hospital Jasin at Melaka
-26173,Sg. Putat di Kg. Sg. Putat
 LDGSGSEGAMAT,Ladang Sg. Gemas
 25895,Sg. Muar di Muara Sg. Gemas
 2626003_,Sg. Muar di Kg. Awat
@@ -415,6 +395,7 @@ KGGATOM,Sg. Labis di Kg. Gatom
 2231001_,Ladang Chan Wing
 2028001_,Sg. Muar di Bukit Kepong
 2127001_,Sg. Muar di Kg. Olak Sepam
+2127074_,Sg. Muar di Panchor
 2127026_,Lubuk Bakul
 26120,Kg. Parit Wahid
 26119,Sg. Terap
@@ -514,7 +495,6 @@ _CLPS0026,Kuala Medang
 _CLPS0033,Balai Polis Merapoh
 4620046_,Merapoh
 4219001_CLPS0001,Sg. Jelai di Bukit Betong
-_CLPS0015,Ladang Benta
 _CLPS0042,Hospital Lipis
 _CJRT0047,Sg. Tembeling di Kg. Bantal Seberang
 _CJRT0045,Sek. Keb. Kg. Pagi
