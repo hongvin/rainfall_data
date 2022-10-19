@@ -29,6 +29,7 @@
 6397116_,Hulu Empangan Saga
 6397112_,Empangan Padang Saga
 6397113_,Sg. Melaka di Bukit Kemboja
+6397111_,Sg. Melaka di Padang Matsirat
 25958,Ldg. Sungai Raya at Kedah
 25728,Sg. Kuah
 6504180_,Bukit Kayu Hitam
@@ -309,7 +310,6 @@ KELANANG,Pintu Air Kelanang
 3114005_,Sg. Klang di Lembah Keramat
 3116074_,Sg. Klang di Leboh Pasar
 3016002_,Sg. Klang di Jambatan Petaling
-3016103_,Taman Desa (SMART)
 25701,Sg. Anak Gajah
 25083,Sg. Limau Manis
 2522007_,Felcra Lenggeng
@@ -349,7 +349,6 @@ _NJLB0008,Kg. Relai di Kg. Baharu
 3020016_,Kg. Chennah
 2922018_,Ladang Pertang
 3022431_,Sg. Triang di Kg. Juntai
-_NJLB0015,Ladang Glandle
 _NJPL0002,Sg. Serting di Kg. Datok Johan
 2923001_,Sg. Serting di Serting Ulu
 2824093_,Ladang Bahau
@@ -394,6 +393,7 @@ HOSPITALJASIN,Hospital Jasin
 2222003_,Lencongan Sg. Malim di Klebang Besar U/S
 2222005_,Lencongan Sg. Malim di Klebang Besar D/S
 26334,Hospital Jasin at Melaka
+26173,Sg. Putat di Kg. Sg. Putat
 LDGSGSEGAMAT,Ladang Sg. Gemas
 25895,Sg. Muar di Muara Sg. Gemas
 2626003_,Sg. Muar di Kg. Awat
@@ -471,7 +471,6 @@ JHR-KGSRIPAYA,Sg. Pontian Besar di Kg. Sri Paya
 KGKABONG,Sg. Pontian Besar di Kg. Kabong
 25919,Sg. Ayer Hitam di Kg. Paya Embun
 JHR-PPTSALLEH,Pintu Air Parit Salleh
-25918,PPPB Benut
 25750,Sg. Pulai di Kg. Ulu Pulai
 LADANGKUKUP,Ladang Kukup
 26006,Kangkar Pulai
@@ -565,7 +564,6 @@ _CPKN0132,Batu Gong
 _CPKN0002,Sg. Pahang di Paloh Hinai
 3431099,Sg. Pahang di Paloh Inai
 3533102_CPKN0003,Sg. Pahang Tua di Rumah Pam Pahang Tua
-3434001_CPKN0004,Sg. Pahang di Pekan
 3629103_,Sg. Lepar di Jambatan Gelugor
 3929001_,Sg. Lembing
 3930012_,PCCL Sg. Lembing
@@ -651,6 +649,7 @@ _DMCG0005,JPS Machang
 25368,Emp. Bukit Kwong
 _DPMS0003,Rantau Panjang
 _DKBR0008,IPMI Zon Timur
+_DKBR0007,Tambatan DRaja
 6121068_DTPT0001,Tumpat
 25098,Pak Badol
 25881,Serdang at Gunong Barat Bachok
@@ -702,7 +701,6 @@ KCHCITYSOUTH,Kuching City South
 1602001_,Sibu Laut
 1704013_,Telok Assam
 1303014_,Semongok
-1203002_,Kampung Gayu
 1305038_,Samarahan Estate
 905039_,Bunan Gega
 1003031_,Tebedu
