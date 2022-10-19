@@ -29,7 +29,6 @@
 6397116_,Hulu Empangan Saga
 6397112_,Empangan Padang Saga
 6397113_,Sg. Melaka di Bukit Kemboja
-6397111_,Sg. Melaka di Padang Matsirat
 25958,Ldg. Sungai Raya at Kedah
 25728,Sg. Kuah
 6504180_,Bukit Kayu Hitam
@@ -137,6 +136,7 @@ BKTBENDERA,Bukit Bendera
 5302004_,Kolam Sg. Dondang
 5403001_,Lorong Batu Lanchang
 JLNSCOTLAND,Sg. Air Itam di Jalan Scotland
+5403043_,Sg. Pinang di Jalan P. Ramlee
 JELUTUNG,Sg. Jelutung di Jalan Gangsa
 5302407_,Sg. Ara
 5402003_,Empangan Teluk Bahang
@@ -394,7 +394,6 @@ HOSPITALJASIN,Hospital Jasin
 2222003_,Lencongan Sg. Malim di Klebang Besar U/S
 2222005_,Lencongan Sg. Malim di Klebang Besar D/S
 26334,Hospital Jasin at Melaka
-26173,Sg. Putat di Kg. Sg. Putat
 LDGSGSEGAMAT,Ladang Sg. Gemas
 25895,Sg. Muar di Muara Sg. Gemas
 2626003_,Sg. Muar di Kg. Awat
@@ -561,6 +560,7 @@ _CMRN0025,Sg. Kundang di Jam. Sg. Kundang
 3527092_,Sg. Pahang di Lubuk Paku
 _CMRN0031,Pusat Latihan JAKOA KM. 56 (Bt. 34)
 _CPKN0040,Sg. Pahang di Kuala Sg. Chini
+_CPKN0042,Kg. Salong
 _CPKN0132,Batu Gong
 _CPKN0002,Sg. Pahang di Paloh Hinai
 3431099,Sg. Pahang di Paloh Inai
@@ -580,7 +580,6 @@ _CPKN0002,Sg. Pahang di Paloh Hinai
 25835,S.K. Leban Chondong at Pahang
 25874,Emp. Pontian Pahang
 2636182_,Sg. Endau di Tanjung Gemuk
-222910501017,JPS Marang
 26491,Kalabe
 5424001_,Sg. Besut di Jambatan Keruak
 5524001_,Sg. Besut di Kg. La
@@ -601,6 +600,7 @@ _THTG0004,Jambatan Kuala Berang
 4930038_THTG0008,Sg. Berang di Kg. Menerong
 MENGKAWAN,Sg. Peneh di Felda Mengkawang
 _THTG0009,Kg. Felda Mengkawang
+_THTG0006,Hulu Sg. Tersat
 4929001_,Kg. Embong
 5031062_,Kg. Bukit Diman
 _THTG0001,Sg. Telemong di Kenyir Elephant Village
