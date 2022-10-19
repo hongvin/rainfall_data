@@ -133,10 +133,12 @@ BATUKAWAN,Stadium Batu Kawan
 5105051_,Kolam Takungan Bukit Panchor
 5105459_,Sg. Kecil
 BKTBENDERA,Bukit Bendera
+5302003_,Kolam Air Itam
 5302004_,Kolam Sg. Dondang
 5403001_,Lorong Batu Lanchang
 JLNSCOTLAND,Sg. Air Itam di Jalan Scotland
 5403043_,Sg. Pinang di Jalan P. Ramlee
+JELUTUNG,Sg. Jelutung di Jalan Gangsa
 5302407_,Sg. Ara
 5402003_,Empangan Teluk Bahang
 26189,Sg. Burong di Politeknik Balik Pulau
@@ -336,6 +338,7 @@ NSBN0034,Bandar Baru Nilai
 2520032_,Sg. Pedas di Kg. Pilin
 2521050_,Chengkau
 2521001_,Pulau Mampat
+2521004_,Pekan Kota
 2420052_,Ladang Sg. Baru
 2421001_,Sg. Rembau di Titian Bintangor
 2421005_,Kg. Semerbok
@@ -371,6 +374,27 @@ _NKPH0001,Ladang Sg. Sabaling
 2526005_,Sg. Gemas di Kg. Tiong
 2625084_,Londah
 25778,Bt. 8 jalan Setul at Mantin Negeri Sembilan
+26499,Rumah Pam Lubok China
+SIMPANGEMPAT,Simpang Ampat
+2322006_,Sg. Melaka di Melaka Pindah
+LADANGLENDU,Ladang Lendu
+DRTUNGGAL,Sg. Melaka di Durian Tunggal (Upstream)
+2222412_,Sg. Melaka di Durian Tunggal (Downstream)
+25802,Datoh Kramat at Nyalas Melaka
+25749,Ldg. Bkt. Asahan at Melaka
+HOSPITALJASIN,Hospital Jasin
+2225044_,Chohong
+2125002_,Sg. Kesang di Telok Rimba
+25754,"Tehel, Sg. Air Panas"
+25747,"Bukit Katil, Sg. Duyong"
+2223023_,Sg. Duyong
+2222006_,Cheng U/S
+2222007_,Cheng D/S
+2222033_,Sg. Melaka di Batu Hampar
+2222003_,Lencongan Sg. Malim di Klebang Besar U/S
+2222005_,Lencongan Sg. Malim di Klebang Besar D/S
+26334,Hospital Jasin at Melaka
+26173,Sg. Putat di Kg. Sg. Putat
 LDGSGSEGAMAT,Ladang Sg. Gemas
 25895,Sg. Muar di Muara Sg. Gemas
 2626003_,Sg. Muar di Kg. Awat
@@ -413,7 +437,6 @@ SIMP5DARAT,Sg. Belemang Besar di Simpang 5 Darat
 2225001_,Sg. Tangkak di Kg. Seri Makmur
 25908,Pintu Air Kesang
 25910,Ladang Lian Seng
-2030071_,Empangan Bekok
 LDGUNION,Ladang Union
 2130070_,Sg. Bekok di Bt. 77 Jln. Yong Peng
 2031069_,Ladang Yong Peng
@@ -495,6 +518,7 @@ _CLPS0026,Kuala Medang
 _CLPS0033,Balai Polis Merapoh
 4620046_,Merapoh
 4219001_CLPS0001,Sg. Jelai di Bukit Betong
+_CLPS0015,Ladang Benta
 _CLPS0042,Hospital Lipis
 _CJRT0047,Sg. Tembeling di Kg. Bantal Seberang
 _CJRT0045,Sek. Keb. Kg. Pagi
@@ -714,7 +738,6 @@ KCHCITYSOUTH,Kuching City South
 1114028_,Melugu
 1214003_,Sri Aman Telemetry
 1313006_,Stumbin
-1014001_,Klauh
 1111008_,Pantu
 1311003_,Lingga
 1615023_,Batu Danau
@@ -735,6 +758,7 @@ KCHCITYSOUTH,Kuching City South
 2442001_,Long Laku
 2939045_,Long Sambop
 2737002_,Giam Pasang B
+2737103_,Belaga
 2333002_,Punan Bah B
 1544001_,Long Singut
 2036001_,Tunoh Scheme
@@ -840,6 +864,8 @@ KCHCITYSOUTH,Kuching City South
 4852002_,Sundar
 4955021_,Merapok
 4954001_,Kuala Lawas
+220609250509,Vulanut
+26302,Beluran At Sabah
 5261402_,Sg. Sook di Biah
 4658001_,Bakuku
 5357003_,Sg. Padas di Beaufort JPS
@@ -856,4 +882,6 @@ SKBU0001,Lawa Mondou
 25140,Rancha-Rancha
 5352102_,Sek. Men. Pantai
 5252101_,Kinabenua
+5255105_,Waterfront
 5351001_,Sg. Lada
+LLBN0010,Empangan Kerupang
