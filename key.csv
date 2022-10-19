@@ -212,7 +212,6 @@ PRT1SB,Parit 1 Sg. Burong
 RPJS,Rumah Pam Jaya Setia
 KGASAHAN,Sg. Selangor di Kg. Asahan
 3312046_,Teluk Penyamun (Pintu Air)
-PASGYU1,P/A Sg. Yu 1
 3313070_,Sg. Buloh di Parit Mahang
 LDGSGBULOH,Ladang Sg. Buloh
 LDGBRAUNSTON,Ladang Braunston Jeram
@@ -310,6 +309,7 @@ KELANANG,Pintu Air Kelanang
 3114005_,Sg. Klang di Lembah Keramat
 3116074_,Sg. Klang di Leboh Pasar
 3016002_,Sg. Klang di Jambatan Petaling
+3016103_,Taman Desa (SMART)
 25701,Sg. Anak Gajah
 25083,Sg. Limau Manis
 2522007_,Felcra Lenggeng
@@ -349,6 +349,7 @@ _NJLB0008,Kg. Relai di Kg. Baharu
 3020016_,Kg. Chennah
 2922018_,Ladang Pertang
 3022431_,Sg. Triang di Kg. Juntai
+_NJLB0015,Ladang Glandle
 _NJPL0002,Sg. Serting di Kg. Datok Johan
 2923001_,Sg. Serting di Serting Ulu
 2824093_,Ladang Bahau
@@ -471,6 +472,7 @@ JHR-KGSRIPAYA,Sg. Pontian Besar di Kg. Sri Paya
 KGKABONG,Sg. Pontian Besar di Kg. Kabong
 25919,Sg. Ayer Hitam di Kg. Paya Embun
 JHR-PPTSALLEH,Pintu Air Parit Salleh
+25918,PPPB Benut
 25750,Sg. Pulai di Kg. Ulu Pulai
 LADANGKUKUP,Ladang Kukup
 26006,Kangkar Pulai
@@ -564,6 +566,7 @@ _CPKN0132,Batu Gong
 _CPKN0002,Sg. Pahang di Paloh Hinai
 3431099,Sg. Pahang di Paloh Inai
 3533102_CPKN0003,Sg. Pahang Tua di Rumah Pam Pahang Tua
+3434001_CPKN0004,Sg. Pahang di Pekan
 3629103_,Sg. Lepar di Jambatan Gelugor
 3929001_,Sg. Lembing
 3930012_,PCCL Sg. Lembing
@@ -611,7 +614,6 @@ _TKTG0005,Sg. Terengganu di Rumah Pam Pulau Bahagia
 UMT,Universiti Malaysia Terengganu
 _TKTG0095,Universiti Malaysia Terengganu
 _TKTG0001,Sek. Keb. Kg. Gemuroh
-5031001_,Sg. Marang di Jambatan Pengkalan Berangan
 JPSMARANG,JPS Marang
 5131064_,Sek. Men. Bukit Sawa
 MERCHANG,Sek. Men. Keb.  Merchang
@@ -701,6 +703,7 @@ KCHCITYSOUTH,Kuching City South
 1602001_,Sibu Laut
 1704013_,Telok Assam
 1303014_,Semongok
+1203002_,Kampung Gayu
 1305038_,Samarahan Estate
 905039_,Bunan Gega
 1003031_,Tebedu
