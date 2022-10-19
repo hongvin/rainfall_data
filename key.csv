@@ -22,9 +22,9 @@
 6402010_,Sg. Perlis di Kg. Sg. Bakau
 25951,Kg. Behor Lateh at Perlis
 25941,Kuala Perlis at Perlis
-26335,Arau at Perlis
 25398,KAKI BUKIT AT PERLIS
 25400,PADANG BESAR AT PERLIS
+26335,Arau at Perlis
 6398141_,Gunung Raya
 6397116_,Hulu Empangan Saga
 6397112_,Empangan Padang Saga
@@ -106,9 +106,9 @@ JPSKULIM,JPS Kulim
 5307101_,Sg. Kerian di Mahang
 5206105_,Pekan Serdang
 25959,Rumah Penjaga Jps at Parit Nibong Kedah
+25662,Empangan Padang Saga
 26330,Kedah Peak at Kedah
 26331,Workshop Sg. Petani
-25662,Empangan Padang Saga
 5505413_,Sg. Muda di Pinang Tunggal
 5505033_,Rumah Pam Pinang Tunggal
 5504035_,Lahar Ikan Mati
@@ -137,7 +137,6 @@ BKTBENDERA,Bukit Bendera
 5302004_,Kolam Sg. Dondang
 5403001_,Lorong Batu Lanchang
 JLNSCOTLAND,Sg. Air Itam di Jalan Scotland
-5403043_,Sg. Pinang di Jalan P. Ramlee
 JELUTUNG,Sg. Jelutung di Jalan Gangsa
 5302407_,Sg. Ara
 5402003_,Empangan Teluk Bahang
@@ -257,6 +256,7 @@ DESAKEMUNING,Sg. Rasau di Taman Desa Kemuning
 KGRANTAUPANJANG,Kg. Rantau Panjang
 SMKRAJALUMU,SMK Raja Lumu
 SELATMUARA,Sg. Klang di Selat Muara
+PEKANMERU,Sg. Binjai di Pekan Meru
 JLNBENTENGKAPAR,Jln. Benteng Kapar
 PANDAMARAN,P/A Pandamaran
 3117482_,Sg. Ampang di Kg. Lembah Jaya Utara
@@ -437,6 +437,7 @@ SIMP5DARAT,Sg. Belemang Besar di Simpang 5 Darat
 2225001_,Sg. Tangkak di Kg. Seri Makmur
 25908,Pintu Air Kesang
 25910,Ladang Lian Seng
+2030071_,Empangan Bekok
 LDGUNION,Ladang Union
 2130070_,Sg. Bekok di Bt. 77 Jln. Yong Peng
 2031069_,Ladang Yong Peng
@@ -580,9 +581,7 @@ _CPKN0002,Sg. Pahang di Paloh Hinai
 25874,Emp. Pontian Pahang
 2636182_,Sg. Endau di Tanjung Gemuk
 222910501017,JPS Marang
-225110521017,SMK Neram
 26491,Kalabe
-26492,Stesen Pertanian Ajil
 5424001_,Sg. Besut di Jambatan Keruak
 5524001_,Sg. Besut di Kg. La
 5625003_,Empangan Paya Peda
@@ -602,7 +601,6 @@ _THTG0004,Jambatan Kuala Berang
 4930038_THTG0008,Sg. Berang di Kg. Menerong
 MENGKAWAN,Sg. Peneh di Felda Mengkawang
 _THTG0009,Kg. Felda Mengkawang
-_THTG0006,Hulu Sg. Tersat
 4929001_,Kg. Embong
 5031062_,Kg. Bukit Diman
 _THTG0001,Sg. Telemong di Kenyir Elephant Village
@@ -639,6 +637,7 @@ TKMN0007,Yak Yah
 26286,Rumah Pam JPS Meranti
 26292,Kg. Pulau Lima
 26296,Jambatan Melor
+_DGMG0003,Brook
 4726001_DGMG0020,Gunung Gagau 1
 4824001_DGMG0021,Sg. Lebir di Kuala Koh
 _DGMG0104,Sek. Keb. Chalil
@@ -865,9 +864,17 @@ KCHCITYSOUTH,Kuching City South
 4955021_,Merapok
 4954001_,Kuala Lawas
 220609250509,Vulanut
+225709220509,Inanam Met. Stn. At Sabah
 26302,Beluran At Sabah
+26304,Basai At Sabah
+26309,Kaiduan At Sabah
+26310,Malangkap&
+26312,Sg. Moyog At Penampang
+26316,Matungong
+26319,Kiulu At Sabah
 5261402_,Sg. Sook di Biah
 4658001_,Bakuku
+4959001_,Sg. Padas di Kemabong
 5357003_,Sg. Padas di Beaufort JPS
 5663002_,Sg. Pegalan di Keranaan
 STAM0002,Gunung Alab
@@ -882,6 +889,7 @@ SKBU0001,Lawa Mondou
 25140,Rancha-Rancha
 5352102_,Sek. Men. Pantai
 5252101_,Kinabenua
+25267,Ganggarak
 5255105_,Waterfront
 5351001_,Sg. Lada
 LLBN0010,Empangan Kerupang
