@@ -109,7 +109,6 @@ JPSKULIM,JPS Kulim
 5404044_,Guar Kepayang
 LIMBUNGAN,Rumah Pam Taman Limbungan
 5405001_,Sg. Kulim di Ara Kuda
-26187,Sg. Mengkuang di Mengkuang Titi
 5304045_,Pusat Kesihatan Bukit Berapit
 5304046_,Permatang Rawa
 25963,Kolam Air Chrk. To' Kun At P.Pinang
@@ -126,7 +125,6 @@ BATUKAWAN,Stadium Batu Kawan
 BKTBENDERA,Bukit Bendera
 5302003_,Kolam Air Itam
 5302004_,Kolam Sg. Dondang
-5403001_,Lorong Batu Lanchang
 JLNSCOTLAND,Sg. Air Itam di Jalan Scotland
 5403043_,Sg. Pinang di Jalan P. Ramlee
 JELUTUNG,Sg. Jelutung di Jalan Gangsa
@@ -538,6 +536,7 @@ _CRAU0042,Sg. Dong di Kg. Peruas
 _CBTG0024,Pos Sungai Dua
 _CBTG0017,JKR Kg. Manchis
 3420132_CBTG0001,Sg. Semantan di Kg. Lengkong
+_CTMH0049,"Sg. Terbol, Jenderak"
 _CTMH0370,Ladang Sg. Mai
 3424081_CTMH0001,Sg. Pahang di Temerloh (Lubuk Pasu)
 3224033_CBER0002,Sg. Triang di Triang
@@ -582,6 +581,7 @@ _CPKN0002,Sg. Pahang di Paloh Hinai
 5328043_TSET0003,Kg. Pelong
 5428040_TSET0001,Sg. Nerus di Kg. Langkap
 _TSET0004,Sek. Keb. Kg. Sg. Tong
+_TSET0008,Kg. Bukit
 KGBUKIT,Sg. Nerus di Kg. Bukit
 5426003_,Sg. Setiu di Kg. Besut
 5527024_,Sg. Setiu di Jambatan Permaisuri
@@ -865,7 +865,6 @@ KCHCITYSOUTH,Kuching City South
 26319,Kiulu At Sabah
 5261402_,Sg. Sook di Biah
 4658001_,Bakuku
-4959001_,Sg. Padas di Kemabong
 5357003_,Sg. Padas di Beaufort JPS
 5663002_,Sg. Pegalan di Keranaan
 STAM0002,Gunung Alab
