@@ -49,9 +49,7 @@ SEKKEBKGBUKIT,Sek. Keb. Kampung Bukit
 26048,Sg. Anak Bukit di Taman Aman
 6103147_,Rumah Pam Sg. Raja
 KUBURPANJANG,Sg. Titi Kerbau di Kubur Panjang
-5905180_,Sg. Pendang di Pekan Pendang
 5905181_,Sg. Pendang di Pondok Chegar
-PAYAMADINSON,Kg. Paya Mat Inson
 6108001_,Kompleks Empangan Muda
 6108180_,Empangan Muda
 6007064_,Sg. Muda di Titi Nami
@@ -109,6 +107,7 @@ JPSKULIM,JPS Kulim
 5404044_,Guar Kepayang
 LIMBUNGAN,Rumah Pam Taman Limbungan
 5405001_,Sg. Kulim di Ara Kuda
+26187,Sg. Mengkuang di Mengkuang Titi
 5304045_,Pusat Kesihatan Bukit Berapit
 5304046_,Permatang Rawa
 25963,Kolam Air Chrk. To' Kun At P.Pinang
@@ -125,6 +124,7 @@ BATUKAWAN,Stadium Batu Kawan
 BKTBENDERA,Bukit Bendera
 5302003_,Kolam Air Itam
 5302004_,Kolam Sg. Dondang
+5403001_,Lorong Batu Lanchang
 JLNSCOTLAND,Sg. Air Itam di Jalan Scotland
 5403043_,Sg. Pinang di Jalan P. Ramlee
 JELUTUNG,Sg. Jelutung di Jalan Gangsa
@@ -181,7 +181,6 @@ KOMPLEKSPEGHULUULUBERNAM,Kompleks Penghulu Hulu Bernam
 3615003_,Sg. Bernam di Tanjung Malim
 3714080_,Sg. Bernam di Kg. Sg. Selisek
 FELDAGEDANGSA,Felda Gedangsa
-25551,Ibu Bekalan Sg. Bernam
 KGBELIA2SGPANJANG,Kg. Belia Sg. Panjang
 25943,Sg. Bernam di Rimba KDR
 RPJPSBGNTERAP,Rumah Pam JPS Bagan Terap
@@ -505,14 +504,11 @@ _CCHG0014,Sg. Tringkap di Tringkap
 4414040_,MARDI CH
 _CLPS0029,Sg. Meldu
 _CLPS0026,Kuala Medang
-4218042_,Sg. Jelai di Kuala Medang
 _CLPS0033,Balai Polis Merapoh
 4620046_,Merapoh
 4219001_CLPS0001,Sg. Jelai di Bukit Betong
 _CLPS0015,Ladang Benta
 _CLPS0042,Hospital Lipis
-_CJRT0047,Sg. Tembeling di Kg. Bantal Seberang
-_CJRT0045,Sek. Keb. Kg. Pagi
 _CJRT0214,Kuala Tahan
 4324001_CJRT0003,Sg. Tembeling di Kuala Tahan
 _CJRT0041,Ulu Tekai A
@@ -726,7 +722,6 @@ KCHCITYSOUTH,Kuching City South
 1316001_,Enteban 2
 26127,Engkilili JKR Wharf
 1015001_,Batu Lintang
-1114019_,Temudok
 1114028_,Melugu
 1214003_,Sri Aman Telemetry
 1313006_,Stumbin
