@@ -72,6 +72,7 @@ BERIS,Empangan Beris (State)
 5808071_,Bendang Man
 5706002_,Sg. Chepir di Bt. 5
 6368743_,Sg. Ketil Hulu di Tanjung Pari
+5808001_,Bt. 61 Jln. Baling
 5809001_,Pusat Rekreasi Ulu Legong
 5708001_,Sg. Ketil di Kg. Baru
 26145,Sg. Ketil di Jambatan Titian Ilham
@@ -219,7 +220,6 @@ TMNTEMPLAR,Taman Templer
 RAWANGTIN,Sg. Rawang di Rawang Tin
 TGARINGU,Taman Garing Utama
 JLN27,Sg. Gong di Jln. B27 Country Homes
-3315038_,Sg. Bakau di Country Homes Rawang
 KGSETIA,Kg. Setia Kuang
 3215080_,Sg. Kuang di Kg. Melayu Seri Kundang
 TMNDESAKUNDANG,Taman Desa Kundang
@@ -238,8 +238,10 @@ PAYAJARASHILIR,Paya Jaras Hilir
 3016077_,Sg. Penchala di Jalan 222
 3016080_,Sg. Penchala di Kg. Gandhi
 3015440_,IOI Puchong Jaya
+USJ1,Sg. Klang di USJ 1
 3015001_,Sg. Klang di Puchong Drop
 2915118_,Ayer Hitam Puchong
+3115083_,Sg. Kayu Ara di Taman Mayang
 KOTADAMANSARA,Kota Damansara
 3115084_,Sg. Damansara di Kg. Melayu Subang
 3015083_,Sg. Damansara di TTDI Jaya
@@ -354,6 +356,7 @@ _NJPL0002,Sg. Serting di Kg. Datok Johan
 2923001_,Sg. Serting di Serting Ulu
 2824093_,Ladang Bahau
 _NKPH0001,Ladang Sg. Sabaling
+_NKPH0002,Sg. Lui Halt
 3023098_,Sg. Lui
 2725096_,Palong 9
 2625413_,Sg. Muar di Pekan Rompin
@@ -370,6 +373,7 @@ _NKPH0001,Ladang Sg. Sabaling
 2624001_,Felda Jelai
 25797,Ldg. Air Tengah at Negeri Sembilan
 2525003_,Bukit Jalor
+115566_,Ladang Fidlot
 2525002_,Pej. Daerah Kecil Gemas
 2526005_,Sg. Gemas di Kg. Tiong
 2625084_,Londah
@@ -540,7 +544,6 @@ _CRAU0046,Batu Malim
 4017001_,Sg. Lipis di Batu Malim
 3717001_,Peninjau
 _CRAU0029,JKR Tranum
-_CRAU0031,Sg. Chalit
 _CRAU0033,JPS Stor Raub
 _CRAU0039,Kg. Cheroh
 _CRAU0042,Sg. Dong di Kg. Peruas
@@ -805,7 +808,6 @@ KCHCITYSOUTH,Kuching City South
 2115008_,Sarikei DID
 2213001_,Sungai Maleng
 2514005_,Daro
-2817001_,Igan
 2321066_,Sekuau
 2819001_,Sungai Talau
 2323002_,Rumah Jugah
@@ -850,8 +852,10 @@ KCHCITYSOUTH,Kuching City South
 2949001_,Long Jee
 3347003_,Long Akah
 3547001_,Long Luteng
+3744009_,Long Lama
 4043059,Benawa
 3243071_,Long Aton
+3342032_,Long Subing
 3441001_,Long Bantan
 3541033_,Long Jegan
 3842034_,Long Teru
