@@ -13,9 +13,9 @@
 6501406_,Genting Kabu
 25773,Abi Kg. Baru
 25951,Kg. Behor Lateh at Perlis
+26335,Arau at Perlis
 25398,KAKI BUKIT AT PERLIS
 25400,PADANG BESAR AT PERLIS
-26335,Arau at Perlis
 6398141_,Gunung Raya
 6397116_,Hulu Empangan Saga
 6397112_,Empangan Padang Saga
@@ -35,7 +35,6 @@ WANGTEPUS,Wang Tepus
 25962,Stn. Keretapi Tunjang at Kedah
 6307180_,Empangan Ahning
 6205481_,Sg. Padang Terap di Kg. Kubu
-6306180_,Sg. Padang Sanai di Padang Sanai
 PADANGSANAI,Sg. Padang Sanai di Pdg. Sanai
 K000007_,Sg. Sari di Kilang Gula Padang Terap
 26163,Tunnel Outfall
@@ -96,9 +95,9 @@ JPSKULIM,JPS Kulim
 5307101_,Sg. Kerian di Mahang
 5206105_,Pekan Serdang
 25959,Rumah Penjaga Jps at Parit Nibong Kedah
-25662,Empangan Padang Saga
 26330,Kedah Peak at Kedah
 26331,Workshop Sg. Petani
+25662,Empangan Padang Saga
 5505413_,Sg. Muda di Pinang Tunggal
 5505033_,Rumah Pam Pinang Tunggal
 5504035_,Lahar Ikan Mati
@@ -112,6 +111,7 @@ LIMBUNGAN,Rumah Pam Taman Limbungan
 5304045_,Pusat Kesihatan Bukit Berapit
 5304046_,Permatang Rawa
 25963,Kolam Air Chrk. To' Kun At P.Pinang
+5304044_,Sg. Juru di Empangan Juru
 5305318_,Macang Bubuk
 5204423_,Sg. Junjung di Simpang Empat
 5204048_,Sg. Simpang Ampat
@@ -181,7 +181,6 @@ SGRAIA,Sg. Raia di Keramat Pulai
 KOMPLEKSPEGHULUULUBERNAM,Kompleks Penghulu Hulu Bernam
 3615003_,Sg. Bernam di Tanjung Malim
 3714080_,Sg. Bernam di Kg. Sg. Selisek
-FELDAGEDANGSA,Felda Gedangsa
 25551,Ibu Bekalan Sg. Bernam
 KGBELIA2SGPANJANG,Kg. Belia Sg. Panjang
 25943,Sg. Bernam di Rimba KDR
@@ -237,7 +236,6 @@ USJ1,Sg. Klang di USJ 1
 KOTADAMANSARA,Kota Damansara
 3115084_,Sg. Damansara di Kg. Melayu Subang
 3015083_,Sg. Damansara di TTDI Jaya
-3015087_,Sg. Damansara di Batu 3
 TAMANBOTANI,Taman Botani
 3015084_,Sg. Klang di Taman Sri Muda
 DESAKEMUNING,Sg. Rasau di Taman Desa Kemuning
@@ -305,6 +303,7 @@ KELANANG,Pintu Air Kelanang
 25083,Sg. Limau Manis
 2522007_,Felcra Lenggeng
 2819002_,Setul Mantin
+25800,Ldg. Labu at Negeri Sembilan
 NSBN0034,Bandar Baru Nilai
 2720041_,Kg. Bahru Pantai
 2719044_,SMK Tunku Ampuan Najihah
@@ -456,14 +455,12 @@ _CBER0030,Ladang Karmen
 2924096_,Glendale
 _CBER0021,Pos Iskandar
 _CMRN0027,Felda Kg. Awah
-3725001_CMRN0001,Sg. Pahang di Kg. Chenor
 _CMRN0036,Ladang Chenor
 _CMRN0147,Sek. Keb. Kuala Sentul
 _CMRN0025,Sg. Kundang di Jam. Sg. Kundang
 3527092_,Sg. Pahang di Lubuk Paku
 _CMRN0031,Pusat Latihan JAKOA KM. 56 (Bt. 34)
 _CPKN0040,Sg. Pahang di Kuala Sg. Chini
-_CPKN0042,Kg. Salong
 _CPKN0132,Batu Gong
 _CPKN0002,Sg. Pahang di Paloh Hinai
 3431099,Sg. Pahang di Paloh Inai
@@ -478,7 +475,9 @@ _CPKN0002,Sg. Pahang di Paloh Hinai
 3432001_,Sg. Belat di Sri Damai
 2630001_,Sg. Pukin
 25090,Ulu Sg. Chanis di Pahang
+25830,Kg. Gambir at Pahang
 25885,Sg. Keratong at Jam. Bahau Keratong
+25093,Sg. Kepasing di Pahang
 26114,Balai Bomba Muadzam Shah
 25835,S.K. Leban Chondong at Pahang
 25874,Emp. Pontian Pahang
@@ -666,7 +665,6 @@ KCHCITYSOUTH,Kuching City South
 2333002_,Punan Bah B
 1544001_,Long Singut
 2036001_,Tunoh Scheme
-2134001_,Nanga Tiau
 1834002_,Gaat B
 2029002_,Kapit New Headworks
 2029003_,Kapit Town
@@ -699,6 +697,7 @@ KCHCITYSOUTH,Kuching City South
 2116030_,Bintangor
 2115008_,Sarikei DID
 2213001_,Sungai Maleng
+2514005_,Daro
 2817001_,Igan
 2321066_,Sekuau
 2819001_,Sungai Talau
@@ -769,7 +768,6 @@ KCHCITYSOUTH,Kuching City South
 220609250509,Vulanut
 225709220509,Inanam Met. Stn. At Sabah
 26302,Beluran At Sabah
-26304,Basai At Sabah
 26309,Kaiduan At Sabah
 26310,Malangkap&
 26312,Sg. Moyog At Penampang
