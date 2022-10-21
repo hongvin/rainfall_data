@@ -8,7 +8,6 @@
 6603002_,Padang Besar
 6602404_,Sg. Chuchoh di Kg. Chantik
 6602004_,Sg. Jarum di Kg. Masjid
-6502011_,Empangan Timah Tasuh
 6502010_,Bukit Temiang
 6502012_,Sg. Buluh di Kg. Batu Bertangkup
 25776,Sg. Panggas Besar di Tok Biduk
@@ -19,11 +18,13 @@
 6402303_,Arau
 6501406_,Genting Kabu
 25773,Abi Kg. Baru
+6402010_,Sg. Perlis di Kg. Sg. Bakau
 25951,Kg. Behor Lateh at Perlis
 26335,Arau at Perlis
 25398,KAKI BUKIT AT PERLIS
 25400,PADANG BESAR AT PERLIS
 6398141_,Gunung Raya
+6397116_,Hulu Empangan Saga
 6397112_,Empangan Padang Saga
 6397113_,Sg. Melaka di Bukit Kemboja
 6397111_,Sg. Melaka di Padang Matsirat
@@ -74,6 +75,7 @@ BERIS,Empangan Beris (State)
 5708001_,Sg. Ketil di Kg. Baru
 26145,Sg. Ketil di Jambatan Titian Ilham
 5508001_,Kg. Iboi Kupang
+5608073_,Sg. Ketil di Kuala Pegang
 5607002_,Sg. Ketil di Kg. Padang Pulai
 5607001_,SMK Parit Panjang
 5606001_,Sg. Sedim di Kg. Sedim
@@ -117,7 +119,6 @@ LIMBUNGAN,Rumah Pam Taman Limbungan
 5304045_,Pusat Kesihatan Bukit Berapit
 5304046_,Permatang Rawa
 25963,Kolam Air Chrk. To' Kun At P.Pinang
-5304044_,Sg. Juru di Empangan Juru
 5305318_,Macang Bubuk
 5204423_,Sg. Junjung di Simpang Empat
 5204048_,Sg. Simpang Ampat
@@ -145,9 +146,9 @@ JELUTUNG,Sg. Jelutung di Jalan Gangsa
 4807016_,Bukit Larut
 TGPIANDANG,Tanjung Piandang
 5006021_,Kolam Air Bukit Merah
-4205102_,"SMK Pangkor, Pulau Pangkor"
 5610063_,Kg. Lalang
 5513001_,Tasik Temengor di Banding
+5411066_,Sg. Perak di Kuala Kenderong
 5210069_,Lawin
 4911077_,Sg. Plus di Kg. Lintang
 4809001_,Sg. Perak di Jam. Iskandar
@@ -176,7 +177,6 @@ SGRAIA,Sg. Raia di Keramat Pulai
 3717101_,Bukit Fraser
 3517022_,Kg. Pertak
 3516022_,Loji Air KKB
-3516026_,Sg. Kerling di Kerling
 3516025_,Sg. Selangor di Ampang Pecah
 3416027_,Sg. Batang Kali di Batang Kali
 3416001_,Sg. Liam di Ulu Yam
@@ -253,7 +253,6 @@ SMKRAJALUMU,SMK Raja Lumu
 SELATMUARA,Sg. Klang di Selat Muara
 PEKANMERU,Sg. Binjai di Pekan Meru
 JLNBENTENGKAPAR,Jln. Benteng Kapar
-PANDAMARAN,P/A Pandamaran
 3117482_,Sg. Ampang di Kg. Lembah Jaya Utara
 3218101_,Sg. Langat di TNB Pangsun
 3118104_,Sg. Langat di Batu 20
@@ -291,10 +290,12 @@ TGRHU,Pintu Air Tanjung Rhu
 PEKANBANTING,Pekan Banting
 KGTELUKPULAI,P/A Kg. Teluk Pulai
 LDGWEST,Ladang West Pulau Carey
+KELANANG,Pintu Air Kelanang
 2813401_,Bt. 7 Sijangkang
 25939,RS Batu 8
 2615180_,Sg. Kundang di Kg. Kundang
 26497,Kg. Berembang (SMART)
+26524,Gombak Km16 (PRAB Fasa 2)
 3317004_,Genting Sempah
 3117180_,Gombak Simpang 3
 3217117_,Lembah Jaya
@@ -311,7 +312,6 @@ LDGWEST,Ladang West Pulau Carey
 2819002_,Setul Mantin
 25800,Ldg. Labu at Negeri Sembilan
 NSBN0034,Bandar Baru Nilai
-2720041_,Kg. Bahru Pantai
 2719044_,SMK Tunku Ampuan Najihah
 2719001_,Setor JPS Negeri Sembilan
 2618002_,Sendayan
@@ -519,6 +519,7 @@ _THTG0009,Kg. Felda Mengkawang
 _THTG0006,Hulu Sg. Tersat
 4929001_,Kg. Embong
 5031062_,Kg. Bukit Diman
+_THTG0001,Sg. Telemong di Kenyir Elephant Village
 25820,Pertanian Ajil
 TOKADIS,Kg. Tok Adis
 _TKTG0002,Bukit Tumbuh
@@ -556,7 +557,6 @@ _DGMG0003,Brook
 4824001_DGMG0021,Sg. Lebir di Kuala Koh
 _DGMG0104,Sek. Keb. Chalil
 _DJLI0002,Air Bol
-_DTMH0002,Ladang Kerilla
 25932,Pej. Pertanian Btg. Merbau at Kelantan
 _DMCG0001,Kg. Temangan
 _DMCG0005,JPS Machang
@@ -675,9 +675,11 @@ KCHCITYSOUTH,Kuching City South
 2737002_,Giam Pasang B
 2737103_,Belaga
 2333002_,Punan Bah B
+2230143_,Nanga Merit
 1544001_,Long Singut
 2036001_,Tunoh Scheme
 2134001_,Nanga Tiau
+1836042_,Nanga Entawau
 1834002_,Gaat B
 2029002_,Kapit New Headworks
 2029003_,Kapit Town
@@ -723,6 +725,7 @@ KCHCITYSOUTH,Kuching City South
 2920037_,Mukah-Balingian OPS4
 2825001_,Sungai Bawan
 2823001_,Dana
+2530001,Rumah Maja
 2629401_,Muput
 2730001,Rumah Keseng
 2828025_,Tatau Town
@@ -733,6 +736,7 @@ KCHCITYSOUTH,Kuching City South
 2836001_,Bintulu/Belaga Road
 3034001_,Rumah Bansa
 3035001_,Kuala Binyo
+3236001_,Rumah Along
 2931001_,Rumah Luang
 3132023_,Sebauh
 3130005_,Bintulu Kastam Wharf
@@ -759,6 +763,7 @@ KCHCITYSOUTH,Kuching City South
 3547001_,Long Luteng
 3744009_,Long Lama
 4043059,Benawa
+3243071_,Long Aton
 3441001_,Long Bantan
 3541033_,Long Jegan
 3842034_,Long Teru
@@ -801,6 +806,7 @@ SKBU0001,Lawa Mondou
 5478003_,Sg. Kinabatangan di Barek Manis
 5083001_,Lahad Datu
 4278005_,Kuhara
+25141,Sg. Bangat di Kg. Sg. Bangat
 25489,Empangan Sg. Pagar
 25140,Rancha-Rancha
 5352102_,Sek. Men. Pantai
