@@ -13,7 +13,6 @@
 6502012_,Sg. Buluh di Kg. Batu Bertangkup
 25776,Sg. Panggas Besar di Tok Biduk
 25952,Sungai Gial at Kg Gial
-25940,Ngolong at Perlis
 6402009_,Sg. Arau di Kg. Kuala Tunggang
 25772,Ulu Pauh
 6402303_,Arau
@@ -440,7 +439,6 @@ SIMP5DARAT,Sg. Belemang Besar di Simpang 5 Darat
 25909,Pintu Air Tanjung Agas
 2225001_,Sg. Tangkak di Kg. Seri Makmur
 25908,Pintu Air Kesang
-25910,Ladang Lian Seng
 2030071_,Empangan Bekok
 LDGUNION,Ladang Union
 2031069_,Ladang Yong Peng
@@ -662,6 +660,7 @@ _DKBR0007,Tambatan DRaja
 6121068_DTPT0001,Tumpat
 25098,Pak Badol
 25881,Serdang at Gunong Barat Bachok
+25883,Tok Ajam at Kelantan
 25882,Kg. Wakaf Raja at Kelantan
 26281,Kg. Air Satan
 26285,SM Cherang Ruku
@@ -702,6 +701,7 @@ KCHCITYSOUTH,Kuching City South
 1502004_,Malihah
 1502026,Matang
 1502001_,Sebubut
+1601001_,Kampung Rayu
 1601003,Sungai China
 1703001_,Buntal DID
 1603058_,Rampangi
@@ -715,6 +715,7 @@ KCHCITYSOUTH,Kuching City South
 1004001_,Krusen
 26130,Tebakang
 1105035_,Semuja Nonok
+907001_,Krangan Trusan
 1105027_,Serian
 1007040_,Balai Ringin
 1503009_,Mid Sungai Kuap
@@ -751,6 +752,7 @@ KCHCITYSOUTH,Kuching City South
 1514001_,Debak
 26129,Pusa
 26128,Kaki Wong
+1713005_,Saratok DID
 1812001_,Roban
 1911001_,Sessang II (Alit)
 1811007_,Kabong
@@ -863,10 +865,12 @@ KCHCITYSOUTH,Kuching City South
 3941001_,Beluru
 4442001,Tanjung Jaye
 4151017_,Long Napir
+4250001_,Setuan
 4248001_,Ulu Medalam
 4448001_,Nanga Insungai
 25538,Nanga Medamit
 4650023,Pandaruan
+4749001_,Limbang DID
 3956001,Ba Kelalan
 4255006_,Long Semado
 4354001,Long Merarap
