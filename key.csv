@@ -243,6 +243,7 @@ USJ1,Sg. Klang di USJ 1
 2915118_,Ayer Hitam Puchong
 3115083_,Sg. Kayu Ara di Taman Mayang
 KOTADAMANSARA,Kota Damansara
+3115084_,Sg. Damansara di Kg. Melayu Subang
 3015083_,Sg. Damansara di TTDI Jaya
 3015087_,Sg. Damansara di Batu 3
 TAMANBOTANI,Taman Botani
@@ -471,6 +472,7 @@ LADANGSEDENAK,Ladang Sedenak
 1636002_,Sg. Skudai di Kg. Separa
 25904,Sg. Skudai di Taman Aman
 JHR-KGSRIPAYA,Sg. Pontian Besar di Kg. Sri Paya
+26007,Puncak Gunung Pulai
 KGKABONG,Sg. Pontian Besar di Kg. Kabong
 25919,Sg. Ayer Hitam di Kg. Paya Embun
 JHR-PPTSALLEH,Pintu Air Parit Salleh
@@ -565,7 +567,6 @@ _CMRN0025,Sg. Kundang di Jam. Sg. Kundang
 3527092_,Sg. Pahang di Lubuk Paku
 _CMRN0031,Pusat Latihan JAKOA KM. 56 (Bt. 34)
 _CPKN0040,Sg. Pahang di Kuala Sg. Chini
-_CPKN0042,Kg. Salong
 _CPKN0132,Batu Gong
 _CPKN0002,Sg. Pahang di Paloh Hinai
 3431099,Sg. Pahang di Paloh Inai
@@ -719,7 +720,6 @@ KCHCITYSOUTH,Kuching City South
 1105035_,Semuja Nonok
 907001_,Krangan Trusan
 1105027_,Serian
-1007040_,Balai Ringin
 1503009_,Mid Sungai Kuap
 1404049_,Paya Paloh
 1404003_,JPS Samarahan
@@ -890,7 +890,6 @@ KCHCITYSOUTH,Kuching City South
 26312,Sg. Moyog At Penampang
 26316,Matungong
 26319,Kiulu At Sabah
-5261402_,Sg. Sook di Biah
 4658001_,Bakuku
 5357003_,Sg. Padas di Beaufort JPS
 5663002_,Sg. Pegalan di Keranaan
