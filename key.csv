@@ -42,7 +42,6 @@ MALAU,SK Malau
 WANGTEPUS,Wang Tepus
 6204004_,Sg. Padang Terap di Kepala Batas
 25962,Stn. Keretapi Tunjang at Kedah
-6307180_,Empangan Ahning
 6205481_,Sg. Padang Terap di Kg. Kubu
 6306180_,Sg. Padang Sanai di Padang Sanai
 PADANGSANAI,Sg. Padang Sanai di Pdg. Sanai
@@ -663,7 +662,6 @@ _DKBR0007,Tambatan DRaja
 6121068_DTPT0001,Tumpat
 25098,Pak Badol
 25881,Serdang at Gunong Barat Bachok
-25883,Tok Ajam at Kelantan
 25882,Kg. Wakaf Raja at Kelantan
 26281,Kg. Air Satan
 26285,SM Cherang Ruku
@@ -704,7 +702,6 @@ KCHCITYSOUTH,Kuching City South
 1502004_,Malihah
 1502026,Matang
 1502001_,Sebubut
-1601001_,Kampung Rayu
 1601003,Sungai China
 1703001_,Buntal DID
 1603058_,Rampangi
@@ -718,8 +715,8 @@ KCHCITYSOUTH,Kuching City South
 1004001_,Krusen
 26130,Tebakang
 1105035_,Semuja Nonok
-907001_,Krangan Trusan
 1105027_,Serian
+1007040_,Balai Ringin
 1503009_,Mid Sungai Kuap
 1404049_,Paya Paloh
 1404003_,JPS Samarahan
@@ -754,7 +751,6 @@ KCHCITYSOUTH,Kuching City South
 1514001_,Debak
 26129,Pusa
 26128,Kaki Wong
-1713005_,Saratok DID
 1812001_,Roban
 1911001_,Sessang II (Alit)
 1811007_,Kabong
@@ -867,12 +863,10 @@ KCHCITYSOUTH,Kuching City South
 3941001_,Beluru
 4442001,Tanjung Jaye
 4151017_,Long Napir
-4250001_,Setuan
 4248001_,Ulu Medalam
 4448001_,Nanga Insungai
 25538,Nanga Medamit
 4650023,Pandaruan
-4749001_,Limbang DID
 3956001,Ba Kelalan
 4255006_,Long Semado
 4354001,Long Merarap
@@ -890,6 +884,7 @@ KCHCITYSOUTH,Kuching City South
 26312,Sg. Moyog At Penampang
 26316,Matungong
 26319,Kiulu At Sabah
+5261402_,Sg. Sook di Biah
 4658001_,Bakuku
 5357003_,Sg. Padas di Beaufort JPS
 5663002_,Sg. Pegalan di Keranaan
