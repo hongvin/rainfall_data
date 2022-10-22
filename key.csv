@@ -1,8 +1,8 @@
 0,1
+26361,Sg. Arau di Kolam Sg. Jernih
 26363,Sg. Arau di Felda
 26441,Sg. Perlis di Padang Katong
 26442,Sg. Perlis di Rumah Pam Kuala Perlis
-26361,Sg. Arau di Kolam Sg. Jernih
 6601001_,Sg.Pelarit di Wang Kelian
 6602002_,Sg. Pelarit di Kaki Bukit
 6603002_,Padang Besar
@@ -22,9 +22,9 @@
 6402010_,Sg. Perlis di Kg. Sg. Bakau
 25951,Kg. Behor Lateh at Perlis
 25941,Kuala Perlis at Perlis
+26335,Arau at Perlis
 25398,KAKI BUKIT AT PERLIS
 25400,PADANG BESAR AT PERLIS
-26335,Arau at Perlis
 6398141_,Gunung Raya
 6397116_,Hulu Empangan Saga
 6397112_,Empangan Padang Saga
@@ -48,6 +48,7 @@ WANGTEPUS,Wang Tepus
 PADANGSANAI,Sg. Padang Sanai di Pdg. Sanai
 K000007_,Sg. Sari di Kilang Gula Padang Terap
 26163,Tunnel Outfall
+6207180_,Empangan Pedu
 SEKKEBLAMDIN,Sek. Keb. Lamdin
 6106180_,Sg. Naka di Naka
 26165,Sg. Tekai di Kg. Sireh
@@ -105,9 +106,9 @@ JPSKULIM,JPS Kulim
 5307101_,Sg. Kerian di Mahang
 5206105_,Pekan Serdang
 25959,Rumah Penjaga Jps at Parit Nibong Kedah
+25662,Empangan Padang Saga
 26330,Kedah Peak at Kedah
 26331,Workshop Sg. Petani
-25662,Empangan Padang Saga
 5505413_,Sg. Muda di Pinang Tunggal
 5505033_,Rumah Pam Pinang Tunggal
 5504035_,Lahar Ikan Mati
@@ -257,6 +258,7 @@ KGRANTAUPANJANG,Kg. Rantau Panjang
 SMKRAJALUMU,SMK Raja Lumu
 SELATMUARA,Sg. Klang di Selat Muara
 PEKANMERU,Sg. Binjai di Pekan Meru
+JLNBENTENGKAPAR,Jln. Benteng Kapar
 PANDAMARAN,P/A Pandamaran
 3117482_,Sg. Ampang di Kg. Lembah Jaya Utara
 3218101_,Sg. Langat di TNB Pangsun
@@ -351,7 +353,6 @@ _NJLB0008,Kg. Relai di Kg. Baharu
 3020016_,Kg. Chennah
 2922018_,Ladang Pertang
 3022431_,Sg. Triang di Kg. Juntai
-_NJLB0015,Ladang Glandle
 _NJPL0002,Sg. Serting di Kg. Datok Johan
 2923001_,Sg. Serting di Serting Ulu
 2824093_,Ladang Bahau
@@ -447,6 +448,7 @@ LDGUNION,Ladang Union
 2031067_,Sg. Bekok di Bandar Yong Peng
 1931003_,Empangan Sembrong
 1931004_,Sg. Sembrong di Bt. 2 Sembrong
+1831480_,Sg. Sembrong di Parit Karjo
 25914,Sg. Simpang Kanan di Parit Besar
 25913,Sg. Simpang Kanan di Parit Belemam
 1929065_,Sg. Simpang Kiri di Sri Medan
@@ -571,6 +573,7 @@ _CPKN0002,Sg. Pahang di Paloh Hinai
 3431099,Sg. Pahang di Paloh Inai
 3533102_CPKN0003,Sg. Pahang Tua di Rumah Pam Pahang Tua
 3434001_CPKN0004,Sg. Pahang di Pekan
+_CKTN0004,Ladang Ulu Lepar
 3629103_,Sg. Lepar di Jambatan Gelugor
 3929001_,Sg. Lembing
 3930012_,PCCL Sg. Lembing
@@ -596,7 +599,6 @@ _CPKN0002,Sg. Pahang di Paloh Hinai
 5625011_,Sek. Keb. Kg. Jabi
 5328043_TSET0003,Kg. Pelong
 5428040_TSET0001,Sg. Nerus di Kg. Langkap
-_TSET0004,Sek. Keb. Kg. Sg. Tong
 _TSET0008,Kg. Bukit
 KGBUKIT,Sg. Nerus di Kg. Bukit
 5426003_,Sg. Setiu di Kg. Besut
@@ -612,6 +614,7 @@ _THTG0009,Kg. Felda Mengkawang
 _THTG0006,Hulu Sg. Tersat
 4929001_,Kg. Embong
 5031062_,Kg. Bukit Diman
+_THTG0001,Sg. Telemong di Kenyir Elephant Village
 TOKADIS,Kg. Tok Adis
 _TKTG0002,Bukit Tumbuh
 5331010_,Sg. Terengganu di Bukit Tumbuh
@@ -665,7 +668,6 @@ _DKBR0007,Tambatan DRaja
 26281,Kg. Air Satan
 26285,SM Cherang Ruku
 1599001_,Ulu Batang Kayan
-1698007_,Lundu
 1897016_,Sematan
 26124,Sampadi Laut
 1201076_,Semban
@@ -743,6 +745,7 @@ KCHCITYSOUTH,Kuching City South
 1114028_,Melugu
 1214003_,Sri Aman Telemetry
 1313006_,Stumbin
+1014001_,Klauh
 1111008_,Pantu
 1311003_,Lingga
 1415001_,Nanga Lubau
@@ -894,7 +897,6 @@ STAM0002,Gunung Alab
 SKBU0001,Lawa Mondou
 5861001_,Putatan
 5881001_,Sandakan
-5671001_,Telupid
 5478003_,Sg. Kinabatangan di Barek Manis
 5083001_,Lahad Datu
 4278005_,Kuhara
