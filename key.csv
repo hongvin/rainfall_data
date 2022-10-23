@@ -155,6 +155,7 @@ TGPIANDANG,Tanjung Piandang
 25784,Ldg. Bkt. Berapit at Perak
 25786,Pekan Manong (Sungai Perak)
 25968,Kg. Cik Zainal
+4613401_,Empangan Ulu Kinta
 25136,Puncak Jelapang At Ipoh
 4511111_,Politeknik Ungku Omar
 4610118_,Sg. Kinta di Kuala Pari
@@ -186,7 +187,6 @@ SGRAIA,Sg. Raia di Keramat Pulai
 KOMPLEKSPEGHULUULUBERNAM,Kompleks Penghulu Hulu Bernam
 3615003_,Sg. Bernam di Tanjung Malim
 3714080_,Sg. Bernam di Kg. Sg. Selisek
-FELDAGEDANGSA,Felda Gedangsa
 25551,Ibu Bekalan Sg. Bernam
 KGBELIA2SGPANJANG,Kg. Belia Sg. Panjang
 25943,Sg. Bernam di Rimba KDR
@@ -227,7 +227,6 @@ BT10GOMBAK,Sg. Gombak di Batu 10
 3117080_,Bukit Antarabangsa
 3117081_,Puncak Atheneum
 KMSB,Kg. Melayu Sg. Buloh
-PAYAJARASHILIR,Paya Jaras Hilir
 3114087_,Empangan Tasik Subang Meru
 26039,Sg. Bakul di Kg. Budiman
 3017107_,Sg. Kuyoh di Seri Kembangan
@@ -388,7 +387,6 @@ HOSPITALJASIN,Hospital Jasin
 2222007_,Cheng D/S
 2222033_,Sg. Melaka di Batu Hampar
 2222003_,Lencongan Sg. Malim di Klebang Besar U/S
-2222005_,Lencongan Sg. Malim di Klebang Besar D/S
 26334,Hospital Jasin at Melaka
 26210,Sg. Kesang Di Selandar
 26173,Sg. Putat di Kg. Sg. Putat
@@ -425,7 +423,6 @@ KGGATOM,Sg. Labis di Kg. Gatom
 26047,Parit Jawa
 2326025_,Gunung Ledang
 2326026_,Bukit Serampang
-PAYAMAS,Paya Mas
 SWHRING,Sawah Ring
 SIMP5DARAT,Sg. Belemang Besar di Simpang 5 Darat
 25907,Sg. Senduk
@@ -443,6 +440,7 @@ LDGUNION,Ladang Union
 25914,Sg. Simpang Kanan di Parit Besar
 25913,Sg. Simpang Kanan di Parit Belemam
 1929065_,Sg. Simpang Kiri di Sri Medan
+25916,Sg. Simpang Kiri di Parit Sulong
 25917,Sg. Simpang Kiri di Tebing Tinggi
 SMKMUNSHI,SMK Munshi Sulaiman
 1829078_,Sg. Batu Pahat di JPS Batu Pahat
@@ -484,6 +482,7 @@ LDGLIMLIM,Ladang Lim Lim
 1836001_,Ulu Sebol
 25925,Ladang Pekan
 1836146_,Sg. Linggiu di Linggiu
+1836147_,Sg. Sayong
 1737001_,Bukit Besar
 1838149_,Air Terjun Kota Tinggi
 25924,Kg. Semanggar
@@ -500,6 +499,7 @@ SKSEMPANG,Sek. Keb. Sempang
 2636170_,Stor JPS Endau
 WAKSALAM,Loji Air Wak Salam
 KGJEMARI,Jemari
+JHR-PENGBATU,Pengkalan Batu
 JHR-STORJPSMERSING,Stor JPS Mersing
 26149,Jalan Simpang Pulai
 26158,Hulu Sg. Merah
@@ -581,6 +581,7 @@ _CPKN0002,Sg. Pahang di Paloh Hinai
 5524001_,Sg. Besut di Kg. La
 5625003_,Empangan Paya Peda
 5724003_,Sg. Besut di Jambatan Jerteh
+5626001_,Institut Pertanian Tok Dor
 5625011_,Sek. Keb. Kg. Jabi
 5328043_TSET0003,Kg. Pelong
 5428040_TSET0001,Sg. Nerus di Kg. Langkap
@@ -732,7 +733,6 @@ KCHCITYSOUTH,Kuching City South
 1114019_,Temudok
 1114028_,Melugu
 1214003_,Sri Aman Telemetry
-1313006_,Stumbin
 1014001_,Klauh
 1111008_,Pantu
 1311003_,Lingga
@@ -756,7 +756,6 @@ KCHCITYSOUTH,Kuching City South
 2737002_,Giam Pasang B
 2737103_,Belaga
 2333002_,Punan Bah B
-1544001_,Long Singut
 2036001_,Tunoh Scheme
 2134001_,Nanga Tiau
 1834002_,Gaat B
@@ -881,6 +880,7 @@ SKBU0001,Lawa Mondou
 5352102_,Sek. Men. Pantai
 5352101_,Bukit Kuda
 5252101_,Kinabenua
+25267,Ganggarak
 5255105_,Waterfront
 5351001_,Sg. Lada
 LLBN0010,Empangan Kerupang
