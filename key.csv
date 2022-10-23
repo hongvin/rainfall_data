@@ -1,8 +1,8 @@
 0,1
-26361,Sg. Arau di Kolam Sg. Jernih
 26363,Sg. Arau di Felda
 26441,Sg. Perlis di Padang Katong
 26442,Sg. Perlis di Rumah Pam Kuala Perlis
+26361,Sg. Arau di Kolam Sg. Jernih
 6601001_,Sg.Pelarit di Wang Kelian
 6602002_,Sg. Pelarit di Kaki Bukit
 6603002_,Padang Besar
@@ -34,7 +34,6 @@
 25728,Sg. Kuah
 6504180_,Bukit Kayu Hitam
 SEKBUKITTANGGA,Sek. Keb. Felda Bukit Tangga
-K000009_,Sg. Badak di Akademi Binaan Malaysia (ABM)
 SINTOK,Sg. Sintok di UUM Sintok
 6404010_,Sg. Laka di Kg. Padang Pasir
 MALAU,SK Malau
@@ -47,7 +46,6 @@ WANGTEPUS,Wang Tepus
 PADANGSANAI,Sg. Padang Sanai di Pdg. Sanai
 K000007_,Sg. Sari di Kilang Gula Padang Terap
 26163,Tunnel Outfall
-6207180_,Empangan Pedu
 SEKKEBLAMDIN,Sek. Keb. Lamdin
 6106180_,Sg. Naka di Naka
 26165,Sg. Tekai di Kg. Sireh
@@ -55,6 +53,7 @@ SEKKEBLAMDIN,Sek. Keb. Lamdin
 6306035_,Sg. Durian Burung di Durian Burung
 FELCRATAMPOI,Felcra Bukit Tampoi
 SEKKEBKGBUKIT,Sek. Keb. Kampung Bukit
+26048,Sg. Anak Bukit di Taman Aman
 6103147_,Rumah Pam Sg. Raja
 KUBURPANJANG,Sg. Titi Kerbau di Kubur Panjang
 5905181_,Sg. Pendang di Pondok Chegar
@@ -67,6 +66,7 @@ PAYAMADINSON,Kg. Paya Mat Inson
 5908001_,Batu Seketul
 BERIS,Empangan Beris (State)
 5907401_,Empangan Beris (RTB)
+5807068_,Klinik Desa Kg. Chong
 5808071_,Bendang Man
 5706002_,Sg. Chepir di Bt. 5
 6368743_,Sg. Ketil Hulu di Tanjung Pari
@@ -94,7 +94,6 @@ SINGKIRGENTING,Sg. Singkir di Kg. Singkir Genting
 25956,Ldg. Bagan Sena at Kedah
 5505084_,Ladang Henrieta
 SGULAR,Sg. Kulim di Sg. Ular
-25811,Sg. Wang Pinang
 JPSKULIM,JPS Kulim
 25734,Sg. Kulim di Kg. Dusun
 26054,SMK Lunas
@@ -128,7 +127,6 @@ BATUKAWAN,Stadium Batu Kawan
 19340,Kolam Takungan Bukit Panchor
 5105051_,Kolam Takungan Bukit Panchor
 5105459_,Sg. Kecil
-BKTBENDERA,Bukit Bendera
 5302003_,Kolam Air Itam
 5302004_,Kolam Sg. Dondang
 5403001_,Lorong Batu Lanchang
@@ -212,7 +210,6 @@ LDGSGBULOH,Ladang Sg. Buloh
 LDGBRAUNSTON,Ladang Braunston Jeram
 TMNTEMPLAR,Taman Templer
 3315042_,Sg. Rawang di Taman Tun Teja
-RAWANGTIN,Sg. Rawang di Rawang Tin
 TGARINGU,Taman Garing Utama
 JLN27,Sg. Gong di Jln. B27 Country Homes
 3315038_,Sg. Bakau di Country Homes Rawang
@@ -290,7 +287,6 @@ TGRHU,Pintu Air Tanjung Rhu
 PEKANBANTING,Pekan Banting
 KGTELUKPULAI,P/A Kg. Teluk Pulai
 LDGWEST,Ladang West Pulau Carey
-KELANANG,Pintu Air Kelanang
 2813401_,Bt. 7 Sijangkang
 25939,RS Batu 8
 2615180_,Sg. Kundang di Kg. Kundang
@@ -313,6 +309,7 @@ KELANANG,Pintu Air Kelanang
 2522007_,Felcra Lenggeng
 2819002_,Setul Mantin
 25800,Ldg. Labu at Negeri Sembilan
+NSBN0034,Bandar Baru Nilai
 2720041_,Kg. Bahru Pantai
 2719044_,SMK Tunku Ampuan Najihah
 2719001_,Setor JPS Negeri Sembilan
@@ -336,17 +333,14 @@ KELANANG,Pintu Air Kelanang
 2521050_,Chengkau
 2521001_,Pulau Mampat
 2521004_,Pekan Kota
-2420052_,Ladang Sg. Baru
 2421001_,Sg. Rembau di Titian Bintangor
 2421005_,Kg. Semerbok
-_NJLB0003,Kg. Ulu Klawang
 2820011_,Kg. Ulu Klawang
 2920032_,Sg. Triang di Kg. Chenor
 _NJLB0008,Kg. Relai di Kg. Baharu
 3020016_,Kg. Chennah
 2922018_,Ladang Pertang
 3022431_,Sg. Triang di Kg. Juntai
-_NJLB0015,Ladang Glandle
 _NJPL0002,Sg. Serting di Kg. Datok Johan
 2923001_,Sg. Serting di Serting Ulu
 2824093_,Ladang Bahau
@@ -411,7 +405,6 @@ REDONG,Felda Redong
 2426006_,Jementah
 KGGATOM,Sg. Labis di Kg. Gatom
 2330009_,LPP Labis
-2229001_,Felda Maokil
 2230001_,SMK Chaah
 2130002_,Sg. Lenik di Kangkar Chaah
 2130001_,Sg. Lenik di Ladang Chaah
@@ -434,6 +427,7 @@ SIMP5DARAT,Sg. Belemang Besar di Simpang 5 Darat
 25907,Sg. Senduk
 25909,Pintu Air Tanjung Agas
 2225001_,Sg. Tangkak di Kg. Seri Makmur
+25908,Pintu Air Kesang
 25910,Ladang Lian Seng
 2030071_,Empangan Bekok
 LDGUNION,Ladang Union
@@ -593,7 +587,6 @@ _CKTN0004,Ladang Ulu Lepar
 _TSET0008,Kg. Bukit
 KGBUKIT,Sg. Nerus di Kg. Bukit
 5426003_,Sg. Setiu di Kg. Besut
-5527024_,Sg. Setiu di Jambatan Permaisuri
 5428003_,Sg. Chalok di Jambatan Chalok
 5029034_THTG0005,Sg. Terengganu di Kg. Dura
 _THTG0004,Jambatan Kuala Berang
@@ -758,7 +751,6 @@ KCHCITYSOUTH,Kuching City South
 2737002_,Giam Pasang B
 2737103_,Belaga
 2333002_,Punan Bah B
-2230143_,Nanga Merit
 1544001_,Long Singut
 2036001_,Tunoh Scheme
 2134001_,Nanga Tiau
@@ -768,7 +760,6 @@ KCHCITYSOUTH,Kuching City South
 2029003_,Kapit Town
 2025012_,Song B
 1823001_,Nanga Jagau
-2023001_,Nanga Kabah
 2121001_,Kanowit Town
 2119001_,Durin Water Works
 2119017_,Durin Bazaar
@@ -787,7 +778,6 @@ KCHCITYSOUTH,Kuching City South
 2323001_,Tusut
 2321001_,Stapang B
 2520052_,Tamin
-2325039_,Sungai Arau
 2526001_,Ulu Sungai Pelagau
 2625002_,Nanga Lemai B
 2019024_,Julau
@@ -815,7 +805,6 @@ KCHCITYSOUTH,Kuching City South
 2836001_,Bintulu/Belaga Road
 3034001_,Rumah Bansa
 3035001_,Kuala Binyo
-3236001_,Rumah Along
 2931001_,Rumah Luang
 3132023_,Sebauh
 3130005_,Bintulu Kastam Wharf
@@ -843,7 +832,6 @@ KCHCITYSOUTH,Kuching City South
 3547001_,Long Luteng
 3744009_,Long Lama
 4043059,Benawa
-3243071_,Long Aton
 3342032_,Long Subing
 3441001_,Long Bantan
 3541033_,Long Jegan
@@ -872,7 +860,6 @@ KCHCITYSOUTH,Kuching City South
 26304,Basai At Sabah
 26309,Kaiduan At Sabah
 26310,Malangkap&
-26312,Sg. Moyog At Penampang
 26316,Matungong
 26319,Kiulu At Sabah
 5261402_,Sg. Sook di Biah
@@ -887,6 +874,7 @@ SKBU0001,Lawa Mondou
 4278005_,Kuhara
 25141,Sg. Bangat di Kg. Sg. Bangat
 25489,Empangan Sg. Pagar
+25140,Rancha-Rancha
 5352102_,Sek. Men. Pantai
 5352101_,Bukit Kuda
 5252101_,Kinabenua
