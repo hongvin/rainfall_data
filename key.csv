@@ -48,6 +48,7 @@ WANGTEPUS,Wang Tepus
 PADANGSANAI,Sg. Padang Sanai di Pdg. Sanai
 K000007_,Sg. Sari di Kilang Gula Padang Terap
 26163,Tunnel Outfall
+SEKKEBLAMDIN,Sek. Keb. Lamdin
 6106180_,Sg. Naka di Naka
 26165,Sg. Tekai di Kg. Sireh
 6205180_,Sg. Padang Terap di Kuala Nerang
@@ -216,6 +217,7 @@ LDGBRAUNSTON,Ladang Braunston Jeram
 TMNTEMPLAR,Taman Templer
 3315042_,Sg. Rawang di Taman Tun Teja
 RAWANGTIN,Sg. Rawang di Rawang Tin
+TGARINGU,Taman Garing Utama
 JLN27,Sg. Gong di Jln. B27 Country Homes
 3315038_,Sg. Bakau di Country Homes Rawang
 KGSETIA,Kg. Setia Kuang
@@ -652,6 +654,7 @@ _DJLI0002,Air Bol
 25932,Pej. Pertanian Btg. Merbau at Kelantan
 _DMCG0001,Kg. Temangan
 _DMCG0005,JPS Machang
+6021065_DPMS0001,Sg. Kelantan di Air Mulih
 25930,Rumah Pam Repek at Kelantan
 25931,Kg. Tandak (Bkt. P.Junu at Kelantan)
 25368,Emp. Bukit Kwong
@@ -797,7 +800,6 @@ KCHCITYSOUTH,Kuching City South
 2325039_,Sungai Arau
 2526001_,Ulu Sungai Pelagau
 2625002_,Nanga Lemai B
-2019024_,Julau
 1816029_,Pakan
 2116030_,Bintangor
 2115008_,Sarikei DID
@@ -816,6 +818,7 @@ KCHCITYSOUTH,Kuching City South
 2828025_,Tatau Town
 3028001_,Kuala Tatau
 3330001,Sungai Sebatang
+2834001_,Panai Binion
 3137021_,Tubau
 2836001_,Bintulu/Belaga Road
 3034001_,Rumah Bansa
