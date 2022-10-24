@@ -42,7 +42,6 @@ MALAU,SK Malau
 WANGTEPUS,Wang Tepus
 6204004_,Sg. Padang Terap di Kepala Batas
 25962,Stn. Keretapi Tunjang at Kedah
-6307180_,Empangan Ahning
 6205481_,Sg. Padang Terap di Kg. Kubu
 6306180_,Sg. Padang Sanai di Padang Sanai
 PADANGSANAI,Sg. Padang Sanai di Pdg. Sanai
@@ -109,7 +108,6 @@ JPSKULIM,JPS Kulim
 26330,Kedah Peak at Kedah
 26331,Workshop Sg. Petani
 5505413_,Sg. Muda di Pinang Tunggal
-5505033_,Rumah Pam Pinang Tunggal
 5504035_,Lahar Ikan Mati
 5404041_,Ladang Malakoff
 5503034_,Permatang Binjai
@@ -148,7 +146,6 @@ JELUTUNG,Sg. Jelutung di Jalan Gangsa
 4807016_,Bukit Larut
 TGPIANDANG,Tanjung Piandang
 5006021_,Kolam Air Bukit Merah
-5610063_,Kg. Lalang
 5513001_,Tasik Temengor di Banding
 5411066_,Sg. Perak di Kuala Kenderong
 5210069_,Lawin
@@ -185,7 +182,6 @@ SGRAIA,Sg. Raia di Keramat Pulai
 3416001_,Sg. Liam di Ulu Yam
 3416002_,Kg. Kalong Tengah
 3316029_,Sg. Serendah di Serendah
-3315040_,Sg. Guntong di Kg. Sungai Buaya
 KOMPLEKSPEGHULUULUBERNAM,Kompleks Penghulu Hulu Bernam
 3615003_,Sg. Bernam di Tanjung Malim
 3714080_,Sg. Bernam di Kg. Sg. Selisek
@@ -321,7 +317,6 @@ NSBN0034,Bandar Baru Nilai
 2720041_,Kg. Bahru Pantai
 2719044_,SMK Tunku Ampuan Najihah
 2719001_,Setor JPS Negeri Sembilan
-2618002_,Sendayan
 2619002_,Seremban 2
 2619402_,Sg. Linggi di Kg. Mantau
 2719003_,Sek. Keb. Tmn. Seri Pagi
@@ -352,6 +347,7 @@ _NJLB0008,Kg. Relai di Kg. Baharu
 2922018_,Ladang Pertang
 _NJLB0011,MARDI Jelebu
 3022431_,Sg. Triang di Kg. Juntai
+_NJLB0015,Ladang Glandle
 _NJPL0002,Sg. Serting di Kg. Datok Johan
 2923001_,Sg. Serting di Serting Ulu
 2824093_,Ladang Bahau
@@ -424,6 +420,7 @@ KGGATOM,Sg. Labis di Kg. Gatom
 2028001_,Sg. Muar di Bukit Kepong
 2127001_,Sg. Muar di Kg. Olak Sepam
 2127074_,Sg. Muar di Panchor
+2127026_,Lubuk Bakul
 26120,Kg. Parit Wahid
 26119,Sg. Terap
 25905,Air Hitam Bt. 15
@@ -561,7 +558,6 @@ _CMRN0027,Felda Kg. Awah
 _CMRN0036,Ladang Chenor
 _CMRN0147,Sek. Keb. Kuala Sentul
 _CMRN0025,Sg. Kundang di Jam. Sg. Kundang
-3527092_,Sg. Pahang di Lubuk Paku
 _CMRN0031,Pusat Latihan JAKOA KM. 56 (Bt. 34)
 _CPKN0040,Sg. Pahang di Kuala Sg. Chini
 3428001_,Sg. Pahang di Kuala Sg. Chini
@@ -588,6 +584,7 @@ _CPKN0002,Sg. Pahang di Paloh Hinai
 2636182_,Sg. Endau di Tanjung Gemuk
 222910501017,JPS Marang
 26491,Kalabe
+26492,Stesen Pertanian Ajil
 5424001_,Sg. Besut di Jambatan Keruak
 5524001_,Sg. Besut di Kg. La
 5625003_,Empangan Paya Peda
@@ -624,7 +621,6 @@ _TKTG0001,Sek. Keb. Kg. Gemuroh
 25823,Sg. Nerus di Kg. Jeram
 5031001_,Sg. Marang di Jambatan Pengkalan Berangan
 JPSMARANG,JPS Marang
-5131064_,Sek. Men. Bukit Sawa
 MERCHANG,Sek. Men. Keb.  Merchang
 5624002_,Sg. Dungun di Kg. Pasir Raja
 4730002_,Sg. Dungun di Kuala Jengai
@@ -688,9 +684,7 @@ _DKBR0007,Tambatan DRaja
 1401006_,Bau Bridge
 1402002_,Siniawan
 1402048_,Batu Kitang Telemetry
-1502005_,Batu Kawa Bridge
 1403001_,Kuching Airport
-1502003_,Kampung Sagah
 1503013_,Maong Tengah Kiri
 1503004_,Kuching Saberkas
 26125,Ulu Maong
@@ -800,6 +794,7 @@ KCHCITYSOUTH,Kuching City South
 2325039_,Sungai Arau
 2526001_,Ulu Sungai Pelagau
 2625002_,Nanga Lemai B
+2019024_,Julau
 1816029_,Pakan
 2116030_,Bintangor
 2115008_,Sarikei DID
@@ -819,7 +814,6 @@ KCHCITYSOUTH,Kuching City South
 3028001_,Kuala Tatau
 3330001,Sungai Sebatang
 2834001_,Panai Binion
-3137021_,Tubau
 2836001_,Bintulu/Belaga Road
 3034001_,Rumah Bansa
 3035001_,Kuala Binyo
@@ -881,7 +875,6 @@ KCHCITYSOUTH,Kuching City South
 26319,Kiulu At Sabah
 5261402_,Sg. Sook di Biah
 4658001_,Bakuku
-4959001_,Sg. Padas di Kemabong
 5357003_,Sg. Padas di Beaufort JPS
 5663002_,Sg. Pegalan di Keranaan
 STAM0002,Gunung Alab
