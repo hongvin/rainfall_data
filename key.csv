@@ -56,6 +56,7 @@ SEKKEBLAMDIN,Sek. Keb. Lamdin
 FELCRATAMPOI,Felcra Bukit Tampoi
 SEKKEBKGBUKIT,Sek. Keb. Kampung Bukit
 26048,Sg. Anak Bukit di Taman Aman
+6103147_,Rumah Pam Sg. Raja
 KUBURPANJANG,Sg. Titi Kerbau di Kubur Panjang
 5905181_,Sg. Pendang di Pondok Chegar
 PAYAMADINSON,Kg. Paya Mat Inson
@@ -132,6 +133,7 @@ BATUKAWAN,Stadium Batu Kawan
 5105051_,Kolam Takungan Bukit Panchor
 5105459_,Sg. Kecil
 BKTBENDERA,Bukit Bendera
+5302003_,Kolam Air Itam
 5302004_,Kolam Sg. Dondang
 5403001_,Lorong Batu Lanchang
 JLNSCOTLAND,Sg. Air Itam di Jalan Scotland
@@ -199,7 +201,6 @@ BGNNKOMAR,Bagan Nakhoda Omar
 SGBURUNGSGBESAR,Sg. Burung
 PARIT1SGBESAR,Parit Satu Sg. Besar
 TALIAIR9,Tali Air 9 Sg. Panjang
-FDCSEKINCHAN,FDC Sekinchan
 IBUBKLSGTENGI,Ibu Bekalan Sg. Tengi
 STORJPSTGKARANG,Stor JPS Tg. Karang
 PRT1SB,Parit 1 Sg. Burong
@@ -248,6 +249,7 @@ TAMANBOTANI,Taman Botani
 DESAKEMUNING,Sg. Rasau di Taman Desa Kemuning
 26038,Taman Sentosa
 3015089_,Sg. Rasau di Tugu Keris
+3014080_,Sg. Klang di Bandar Klang
 KGRANTAUPANJANG,Kg. Rantau Panjang
 SMKRAJALUMU,SMK Raja Lumu
 SELATMUARA,Sg. Klang di Selat Muara
@@ -293,6 +295,7 @@ KGTELUKPULAI,P/A Kg. Teluk Pulai
 LDGWEST,Ladang West Pulau Carey
 KELANANG,Pintu Air Kelanang
 2813401_,Bt. 7 Sijangkang
+25939,RS Batu 8
 2615180_,Sg. Kundang di Kg. Kundang
 26497,Kg. Berembang (SMART)
 26502,JPS Wilayah (PRAB Fasa 2)
@@ -336,6 +339,7 @@ NSBN0034,Bandar Baru Nilai
 2520032_,Sg. Pedas di Kg. Pilin
 2521050_,Chengkau
 2521001_,Pulau Mampat
+2521004_,Pekan Kota
 2420052_,Ladang Sg. Baru
 2421001_,Sg. Rembau di Titian Bintangor
 2421005_,Kg. Semerbok
@@ -345,6 +349,7 @@ _NJLB0003,Kg. Ulu Klawang
 _NJLB0008,Kg. Relai di Kg. Baharu
 3020016_,Kg. Chennah
 2922018_,Ladang Pertang
+_NJLB0011,MARDI Jelebu
 3022431_,Sg. Triang di Kg. Juntai
 _NJPL0002,Sg. Serting di Kg. Datok Johan
 2923001_,Sg. Serting di Serting Ulu
@@ -522,7 +527,6 @@ _CLPS0033,Balai Polis Merapoh
 _CLPS0015,Ladang Benta
 _CLPS0042,Hospital Lipis
 _CJRT0214,Kuala Tahan
-4324001_CJRT0003,Sg. Tembeling di Kuala Tahan
 _CJRT0041,Ulu Tekai A
 _CJRT0002,Sg. Tembeling di Kg. Merting
 _CJRT0039,Kg. Chebong
@@ -531,7 +535,6 @@ _CJRT0025,Kg. Bharu
 _CJRT0032,Sg. Pahang di Jerantut Feri
 _CJRT0022,Paya Gintong
 _CJRT0028,Kota Gelangi 1 & 3
-_CRAU0049,Felda Tersang 2
 _CRAU0046,Batu Malim
 4017001_,Sg. Lipis di Batu Malim
 3717001_,Peninjau
@@ -613,6 +616,7 @@ _TKTG0005,Sg. Terengganu di Rumah Pam Pulau Bahagia
 UMT,Universiti Malaysia Terengganu
 _TKTG0095,Universiti Malaysia Terengganu
 _TKTG0001,Sek. Keb. Kg. Gemuroh
+25823,Sg. Nerus di Kg. Jeram
 5031001_,Sg. Marang di Jambatan Pengkalan Berangan
 JPSMARANG,JPS Marang
 5131064_,Sek. Men. Bukit Sawa
@@ -785,6 +789,7 @@ KCHCITYSOUTH,Kuching City South
 2216001_,Lebaan
 2021001_,Renan Kemiding
 2323001_,Tusut
+2321001_,Stapang B
 2520052_,Tamin
 2325039_,Sungai Arau
 2526001_,Ulu Sungai Pelagau
@@ -843,6 +848,7 @@ KCHCITYSOUTH,Kuching City South
 3541033_,Long Jegan
 3842034_,Long Teru
 4143004_,Marudi
+3941001_,Beluru
 4442001,Tanjung Jaye
 4151017_,Long Napir
 4250001_,Setuan
@@ -859,8 +865,10 @@ KCHCITYSOUTH,Kuching City South
 4852002_,Sundar
 4955021_,Merapok
 4954001_,Kuala Lawas
+220609250509,Vulanut
 225709220509,Inanam Met. Stn. At Sabah
 26302,Beluran At Sabah
+26304,Basai At Sabah
 26309,Kaiduan At Sabah
 26310,Malangkap&
 26312,Sg. Moyog At Penampang
