@@ -187,6 +187,7 @@ SGRAIA,Sg. Raia di Keramat Pulai
 KOMPLEKSPEGHULUULUBERNAM,Kompleks Penghulu Hulu Bernam
 3615003_,Sg. Bernam di Tanjung Malim
 3714080_,Sg. Bernam di Kg. Sg. Selisek
+FELDAGEDANGSA,Felda Gedangsa
 25551,Ibu Bekalan Sg. Bernam
 KGBELIA2SGPANJANG,Kg. Belia Sg. Panjang
 25943,Sg. Bernam di Rimba KDR
@@ -227,6 +228,7 @@ BT10GOMBAK,Sg. Gombak di Batu 10
 3117080_,Bukit Antarabangsa
 3117081_,Puncak Atheneum
 KMSB,Kg. Melayu Sg. Buloh
+PAYAJARASHILIR,Paya Jaras Hilir
 3114087_,Empangan Tasik Subang Meru
 26039,Sg. Bakul di Kg. Budiman
 3017107_,Sg. Kuyoh di Seri Kembangan
@@ -246,7 +248,6 @@ TAMANBOTANI,Taman Botani
 DESAKEMUNING,Sg. Rasau di Taman Desa Kemuning
 26038,Taman Sentosa
 3015089_,Sg. Rasau di Tugu Keris
-3014080_,Sg. Klang di Bandar Klang
 KGRANTAUPANJANG,Kg. Rantau Panjang
 SMKRAJALUMU,SMK Raja Lumu
 SELATMUARA,Sg. Klang di Selat Muara
@@ -387,6 +388,7 @@ HOSPITALJASIN,Hospital Jasin
 2222007_,Cheng D/S
 2222033_,Sg. Melaka di Batu Hampar
 2222003_,Lencongan Sg. Malim di Klebang Besar U/S
+2222005_,Lencongan Sg. Malim di Klebang Besar D/S
 26334,Hospital Jasin at Melaka
 26210,Sg. Kesang Di Selandar
 26173,Sg. Putat di Kg. Sg. Putat
@@ -423,6 +425,7 @@ KGGATOM,Sg. Labis di Kg. Gatom
 26047,Parit Jawa
 2326025_,Gunung Ledang
 2326026_,Bukit Serampang
+PAYAMAS,Paya Mas
 SWHRING,Sawah Ring
 SIMP5DARAT,Sg. Belemang Besar di Simpang 5 Darat
 25907,Sg. Senduk
@@ -733,6 +736,7 @@ KCHCITYSOUTH,Kuching City South
 1114019_,Temudok
 1114028_,Melugu
 1214003_,Sri Aman Telemetry
+1313006_,Stumbin
 1014001_,Klauh
 1111008_,Pantu
 1311003_,Lingga
@@ -756,6 +760,7 @@ KCHCITYSOUTH,Kuching City South
 2737002_,Giam Pasang B
 2737103_,Belaga
 2333002_,Punan Bah B
+1544001_,Long Singut
 2036001_,Tunoh Scheme
 2134001_,Nanga Tiau
 1834002_,Gaat B
@@ -838,7 +843,6 @@ KCHCITYSOUTH,Kuching City South
 3541033_,Long Jegan
 3842034_,Long Teru
 4143004_,Marudi
-3941001_,Beluru
 4442001,Tanjung Jaye
 4151017_,Long Napir
 4250001_,Setuan
