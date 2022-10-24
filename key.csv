@@ -108,6 +108,7 @@ JPSKULIM,JPS Kulim
 26330,Kedah Peak at Kedah
 26331,Workshop Sg. Petani
 5505413_,Sg. Muda di Pinang Tunggal
+5505033_,Rumah Pam Pinang Tunggal
 5504035_,Lahar Ikan Mati
 5404041_,Ladang Malakoff
 5503034_,Permatang Binjai
@@ -317,6 +318,7 @@ NSBN0034,Bandar Baru Nilai
 2720041_,Kg. Bahru Pantai
 2719044_,SMK Tunku Ampuan Najihah
 2719001_,Setor JPS Negeri Sembilan
+2618002_,Sendayan
 2619002_,Seremban 2
 2619402_,Sg. Linggi di Kg. Mantau
 2719003_,Sek. Keb. Tmn. Seri Pagi
@@ -386,7 +388,6 @@ HOSPITALJASIN,Hospital Jasin
 2125002_,Sg. Kesang di Telok Rimba
 25754,"Tehel, Sg. Air Panas"
 25747,"Bukit Katil, Sg. Duyong"
-2223023_,Sg. Duyong
 2222006_,Cheng U/S
 2222007_,Cheng D/S
 2222033_,Sg. Melaka di Batu Hampar
@@ -418,6 +419,7 @@ KGGATOM,Sg. Labis di Kg. Gatom
 2130001_,Sg. Lenik di Ladang Chaah
 2231001_,Ladang Chan Wing
 2028001_,Sg. Muar di Bukit Kepong
+2227401_,Sg. Muar di Liang Batu
 2127001_,Sg. Muar di Kg. Olak Sepam
 2127074_,Sg. Muar di Panchor
 2127026_,Lubuk Bakul
@@ -558,6 +560,7 @@ _CMRN0027,Felda Kg. Awah
 _CMRN0036,Ladang Chenor
 _CMRN0147,Sek. Keb. Kuala Sentul
 _CMRN0025,Sg. Kundang di Jam. Sg. Kundang
+3527092_,Sg. Pahang di Lubuk Paku
 _CMRN0031,Pusat Latihan JAKOA KM. 56 (Bt. 34)
 _CPKN0040,Sg. Pahang di Kuala Sg. Chini
 3428001_,Sg. Pahang di Kuala Sg. Chini
@@ -684,7 +687,9 @@ _DKBR0007,Tambatan DRaja
 1401006_,Bau Bridge
 1402002_,Siniawan
 1402048_,Batu Kitang Telemetry
+1502005_,Batu Kawa Bridge
 1403001_,Kuching Airport
+1502003_,Kampung Sagah
 1503013_,Maong Tengah Kiri
 1503004_,Kuching Saberkas
 26125,Ulu Maong
@@ -814,6 +819,7 @@ KCHCITYSOUTH,Kuching City South
 3028001_,Kuala Tatau
 3330001,Sungai Sebatang
 2834001_,Panai Binion
+3137021_,Tubau
 2836001_,Bintulu/Belaga Road
 3034001_,Rumah Bansa
 3035001_,Kuala Binyo
