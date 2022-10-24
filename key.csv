@@ -48,7 +48,6 @@ WANGTEPUS,Wang Tepus
 PADANGSANAI,Sg. Padang Sanai di Pdg. Sanai
 K000007_,Sg. Sari di Kilang Gula Padang Terap
 26163,Tunnel Outfall
-SEKKEBLAMDIN,Sek. Keb. Lamdin
 6106180_,Sg. Naka di Naka
 26165,Sg. Tekai di Kg. Sireh
 6205180_,Sg. Padang Terap di Kuala Nerang
@@ -201,6 +200,7 @@ BGNNKOMAR,Bagan Nakhoda Omar
 SGBURUNGSGBESAR,Sg. Burung
 PARIT1SGBESAR,Parit Satu Sg. Besar
 TALIAIR9,Tali Air 9 Sg. Panjang
+FDCSEKINCHAN,FDC Sekinchan
 IBUBKLSGTENGI,Ibu Bekalan Sg. Tengi
 STORJPSTGKARANG,Stor JPS Tg. Karang
 PRT1SB,Parit 1 Sg. Burong
@@ -216,7 +216,6 @@ LDGBRAUNSTON,Ladang Braunston Jeram
 TMNTEMPLAR,Taman Templer
 3315042_,Sg. Rawang di Taman Tun Teja
 RAWANGTIN,Sg. Rawang di Rawang Tin
-TGARINGU,Taman Garing Utama
 JLN27,Sg. Gong di Jln. B27 Country Homes
 3315038_,Sg. Bakau di Country Homes Rawang
 KGSETIA,Kg. Setia Kuang
@@ -358,6 +357,7 @@ _NKPH0002,Sg. Lui Halt
 3023098_,Sg. Lui
 2725096_,Palong 9
 2625413_,Sg. Muar di Pekan Rompin
+2721074_,Kg. Talang
 2722002_,Kg. Sawah Lebar
 2723075_,Ladang Juasseh
 26076,Kg. Birah
@@ -527,6 +527,7 @@ _CLPS0033,Balai Polis Merapoh
 _CLPS0015,Ladang Benta
 _CLPS0042,Hospital Lipis
 _CJRT0214,Kuala Tahan
+4324001_CJRT0003,Sg. Tembeling di Kuala Tahan
 _CJRT0041,Ulu Tekai A
 _CJRT0002,Sg. Tembeling di Kg. Merting
 _CJRT0039,Kg. Chebong
@@ -535,6 +536,7 @@ _CJRT0025,Kg. Bharu
 _CJRT0032,Sg. Pahang di Jerantut Feri
 _CJRT0022,Paya Gintong
 _CJRT0028,Kota Gelangi 1 & 3
+_CRAU0049,Felda Tersang 2
 _CRAU0046,Batu Malim
 4017001_,Sg. Lipis di Batu Malim
 3717001_,Peninjau
@@ -560,6 +562,7 @@ _CMRN0025,Sg. Kundang di Jam. Sg. Kundang
 3527092_,Sg. Pahang di Lubuk Paku
 _CMRN0031,Pusat Latihan JAKOA KM. 56 (Bt. 34)
 _CPKN0040,Sg. Pahang di Kuala Sg. Chini
+3428001_,Sg. Pahang di Kuala Sg. Chini
 _CPKN0132,Batu Gong
 _CPKN0002,Sg. Pahang di Paloh Hinai
 3431099,Sg. Pahang di Paloh Inai
@@ -813,7 +816,6 @@ KCHCITYSOUTH,Kuching City South
 2828025_,Tatau Town
 3028001_,Kuala Tatau
 3330001,Sungai Sebatang
-2834001_,Panai Binion
 3137021_,Tubau
 2836001_,Bintulu/Belaga Road
 3034001_,Rumah Bansa
