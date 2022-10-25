@@ -662,14 +662,12 @@ _DJLI0006,Kg. Tg. Abd. Rahman Kuala Balah
 25932,Pej. Pertanian Btg. Merbau at Kelantan
 _DMCG0001,Kg. Temangan
 _DMCG0005,JPS Machang
-6021065_DPMS0001,Sg. Kelantan di Air Mulih
 25930,Rumah Pam Repek at Kelantan
 25931,Kg. Tandak (Bkt. P.Junu at Kelantan)
 25368,Emp. Bukit Kwong
 _DPMS0003,Rantau Panjang
 _DKBR0008,IPMI Zon Timur
 _DKBR0007,Tambatan DRaja
-6121068_DTPT0001,Tumpat
 25098,Pak Badol
 25881,Serdang at Gunong Barat Bachok
 25883,Tok Ajam at Kelantan
@@ -832,6 +830,7 @@ KCHCITYSOUTH,Kuching City South
 2530001,Rumah Maja
 2629401_,Muput
 2730001,Rumah Keseng
+2729055,Sangan
 2828025_,Tatau Town
 3028001_,Kuala Tatau
 3330001,Sungai Sebatang
@@ -840,6 +839,7 @@ KCHCITYSOUTH,Kuching City South
 2836001_,Bintulu/Belaga Road
 3034001_,Rumah Bansa
 3035001_,Kuala Binyo
+3236001_,Rumah Along
 2931001_,Rumah Luang
 3132023_,Sebauh
 3130005_,Bintulu Kastam Wharf
@@ -915,7 +915,6 @@ SKBU0001,Lawa Mondou
 4278005_,Kuhara
 25141,Sg. Bangat di Kg. Sg. Bangat
 25489,Empangan Sg. Pagar
-25140,Rancha-Rancha
 5352102_,Sek. Men. Pantai
 5352101_,Bukit Kuda
 5252101_,Kinabenua
