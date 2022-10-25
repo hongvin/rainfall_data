@@ -257,8 +257,6 @@ PEKANMERU,Sg. Binjai di Pekan Meru
 JLNBENTENGKAPAR,Jln. Benteng Kapar
 PANDAMARAN,P/A Pandamaran
 3117482_,Sg. Ampang di Kg. Lembah Jaya Utara
-3218101_,Sg. Langat di TNB Pangsun
-3118104_,Sg. Langat di Batu 20
 3017081_,Sg. Raya di Batu 9
 KGBARUBALAKONG,Sg. Balak di Kg. Baru Balakong
 TMNTTDIGROVEKAJANG,Sg. Jelok di Taman TTDI Grove
@@ -495,7 +493,6 @@ SGTIRAM,Sg. Tiram di Ulu Tiram
 LDGLIMLIM,Ladang Lim Lim
 1836001_,Ulu Sebol
 25925,Ladang Pekan
-1836146_,Sg. Linggiu di Linggiu
 1836147_,Sg. Sayong
 1737001_,Bukit Besar
 1838149_,Air Terjun Kota Tinggi
@@ -647,7 +644,6 @@ MERCHANG,Sek. Men. Keb.  Merchang
 4332001_,Sg. Tebak di Jambatan Tebak
 4232002_,Sg. Kemaman di Jambatan Air Putih
 4233453_,Sg. Kemaman di Rumah Pam Paya Paman
-4234109_,JPS Kemaman
 TKMN0007,Yak Yah
 4434093_,Sek. Men. Badrul Alam Shah
 223810321017,Ladang Mentara
@@ -662,12 +658,14 @@ _DJLI0006,Kg. Tg. Abd. Rahman Kuala Balah
 25932,Pej. Pertanian Btg. Merbau at Kelantan
 _DMCG0001,Kg. Temangan
 _DMCG0005,JPS Machang
+6021065_DPMS0001,Sg. Kelantan di Air Mulih
 25930,Rumah Pam Repek at Kelantan
 25931,Kg. Tandak (Bkt. P.Junu at Kelantan)
 25368,Emp. Bukit Kwong
 _DPMS0003,Rantau Panjang
 _DKBR0008,IPMI Zon Timur
 _DKBR0007,Tambatan DRaja
+6121068_DTPT0001,Tumpat
 25098,Pak Badol
 25881,Serdang at Gunong Barat Bachok
 25883,Tok Ajam at Kelantan
@@ -915,6 +913,7 @@ SKBU0001,Lawa Mondou
 4278005_,Kuhara
 25141,Sg. Bangat di Kg. Sg. Bangat
 25489,Empangan Sg. Pagar
+25140,Rancha-Rancha
 5352102_,Sek. Men. Pantai
 5352101_,Bukit Kuda
 5252101_,Kinabenua
