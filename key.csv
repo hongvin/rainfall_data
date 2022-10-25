@@ -1,5 +1,4 @@
 0,1
-26363,Sg. Arau di Felda
 26441,Sg. Perlis di Padang Katong
 26442,Sg. Perlis di Rumah Pam Kuala Perlis
 26361,Sg. Arau di Kolam Sg. Jernih
@@ -355,6 +354,7 @@ _NJLB0015,Ladang Glandle
 _NJPL0002,Sg. Serting di Kg. Datok Johan
 2923001_,Sg. Serting di Serting Ulu
 2824093_,Ladang Bahau
+_NKPH0001,Ladang Sg. Sabaling
 _NKPH0002,Sg. Lui Halt
 3023098_,Sg. Lui
 2725096_,Palong 9
@@ -444,6 +444,7 @@ SIMP5DARAT,Sg. Belemang Besar di Simpang 5 Darat
 25910,Ladang Lian Seng
 2030071_,Empangan Bekok
 LDGUNION,Ladang Union
+2130070_,Sg. Bekok di Bt. 77 Jln. Yong Peng
 2031069_,Ladang Yong Peng
 2031067_,Sg. Bekok di Bandar Yong Peng
 1931003_,Empangan Sembrong
@@ -522,6 +523,8 @@ JHR-STORJPSMERSING,Stor JPS Mersing
 4513033_,Brinchang
 _CCHG0014,Sg. Tringkap di Tringkap
 4414040_,MARDI CH
+C00001_,Sg. Bertam di SJK (C) Lembah Bertam
+C00002_,Sg. Bertam di Kg. Orang Asli Sg. Tiang
 _CLPS0029,Sg. Meldu
 _CLPS0026,Kuala Medang
 4218042_,Sg. Jelai di Kuala Medang
@@ -530,6 +533,7 @@ _CLPS0033,Balai Polis Merapoh
 4219001_CLPS0001,Sg. Jelai di Bukit Betong
 _CLPS0015,Ladang Benta
 _CLPS0042,Hospital Lipis
+_CJRT0045,Sek. Keb. Kg. Pagi
 _CJRT0214,Kuala Tahan
 4324001_CJRT0003,Sg. Tembeling di Kuala Tahan
 _CJRT0041,Ulu Tekai A
@@ -595,7 +599,6 @@ _CKTN0004,Ladang Ulu Lepar
 5424001_,Sg. Besut di Jambatan Keruak
 5524001_,Sg. Besut di Kg. La
 5625003_,Empangan Paya Peda
-5724003_,Sg. Besut di Jambatan Jerteh
 5626001_,Institut Pertanian Tok Dor
 5625011_,Sek. Keb. Kg. Jabi
 5328043_TSET0003,Kg. Pelong
@@ -651,16 +654,20 @@ TKMN0007,Yak Yah
 26296,Jambatan Melor
 4726001_DGMG0020,Gunung Gagau 1
 4824001_DGMG0021,Sg. Lebir di Kuala Koh
+4923001_DGMG0022,Kg. Aring
 _DGMG0104,Sek. Keb. Chalil
+_DJLI0006,Kg. Tg. Abd. Rahman Kuala Balah
 _DJLI0002,Air Bol
 25932,Pej. Pertanian Btg. Merbau at Kelantan
 _DMCG0001,Kg. Temangan
 _DMCG0005,JPS Machang
+6021065_DPMS0001,Sg. Kelantan di Air Mulih
 25930,Rumah Pam Repek at Kelantan
 25931,Kg. Tandak (Bkt. P.Junu at Kelantan)
 25368,Emp. Bukit Kwong
 _DPMS0003,Rantau Panjang
 _DKBR0008,IPMI Zon Timur
+_DKBR0007,Tambatan DRaja
 6121068_DTPT0001,Tumpat
 25098,Pak Badol
 25881,Serdang at Gunong Barat Bachok
