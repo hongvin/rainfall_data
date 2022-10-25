@@ -57,6 +57,7 @@ SEKKEBKGBUKIT,Sek. Keb. Kampung Bukit
 26048,Sg. Anak Bukit di Taman Aman
 6103147_,Rumah Pam Sg. Raja
 KUBURPANJANG,Sg. Titi Kerbau di Kubur Panjang
+5905180_,Sg. Pendang di Pekan Pendang
 5905181_,Sg. Pendang di Pondok Chegar
 PAYAMADINSON,Kg. Paya Mat Inson
 6108001_,Kompleks Empangan Muda
@@ -200,6 +201,7 @@ PARIT1SGBESAR,Parit Satu Sg. Besar
 TALIAIR9,Tali Air 9 Sg. Panjang
 FDCSEKINCHAN,FDC Sekinchan
 IBUBKLSGTENGI,Ibu Bekalan Sg. Tengi
+PATGKARANG,P/A Pekan Tg. Karang
 STORJPSTGKARANG,Stor JPS Tg. Karang
 PRT1SB,Parit 1 Sg. Burong
 3414032_,Sg. Selangor di Rantau Panjang
@@ -388,6 +390,7 @@ HOSPITALJASIN,Hospital Jasin
 2125002_,Sg. Kesang di Telok Rimba
 25754,"Tehel, Sg. Air Panas"
 25747,"Bukit Katil, Sg. Duyong"
+2223023_,Sg. Duyong
 2222006_,Cheng U/S
 2222007_,Cheng D/S
 2222033_,Sg. Melaka di Batu Hampar
@@ -569,6 +572,7 @@ _CPKN0002,Sg. Pahang di Paloh Hinai
 3431099,Sg. Pahang di Paloh Inai
 3533102_CPKN0003,Sg. Pahang Tua di Rumah Pam Pahang Tua
 3434001_CPKN0004,Sg. Pahang di Pekan
+_CKTN0004,Ladang Ulu Lepar
 3629103_,Sg. Lepar di Jambatan Gelugor
 3929001_,Sg. Lembing
 3930012_,PCCL Sg. Lembing
@@ -624,6 +628,7 @@ _TKTG0001,Sek. Keb. Kg. Gemuroh
 25823,Sg. Nerus di Kg. Jeram
 5031001_,Sg. Marang di Jambatan Pengkalan Berangan
 JPSMARANG,JPS Marang
+5131064_,Sek. Men. Bukit Sawa
 MERCHANG,Sek. Men. Keb.  Merchang
 5624002_,Sg. Dungun di Kg. Pasir Raja
 4730002_,Sg. Dungun di Kuala Jengai
@@ -646,20 +651,16 @@ TKMN0007,Yak Yah
 26296,Jambatan Melor
 4726001_DGMG0020,Gunung Gagau 1
 4824001_DGMG0021,Sg. Lebir di Kuala Koh
-4923001_DGMG0022,Kg. Aring
 _DGMG0104,Sek. Keb. Chalil
-_DJLI0006,Kg. Tg. Abd. Rahman Kuala Balah
 _DJLI0002,Air Bol
 25932,Pej. Pertanian Btg. Merbau at Kelantan
 _DMCG0001,Kg. Temangan
 _DMCG0005,JPS Machang
-6021065_DPMS0001,Sg. Kelantan di Air Mulih
 25930,Rumah Pam Repek at Kelantan
 25931,Kg. Tandak (Bkt. P.Junu at Kelantan)
 25368,Emp. Bukit Kwong
 _DPMS0003,Rantau Panjang
 _DKBR0008,IPMI Zon Timur
-_DKBR0007,Tambatan DRaja
 6121068_DTPT0001,Tumpat
 25098,Pak Badol
 25881,Serdang at Gunong Barat Bachok
@@ -885,6 +886,7 @@ KCHCITYSOUTH,Kuching City South
 5663002_,Sg. Pegalan di Keranaan
 STAM0002,Gunung Alab
 SKBU0001,Lawa Mondou
+5961002_,Inanam
 5861001_,Putatan
 5881001_,Sandakan
 5478003_,Sg. Kinabatangan di Barek Manis
