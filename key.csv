@@ -182,7 +182,6 @@ SGRAIA,Sg. Raia di Keramat Pulai
 3516026_,Sg. Kerling di Kerling
 3516025_,Sg. Selangor di Ampang Pecah
 3416027_,Sg. Batang Kali di Batang Kali
-3416001_,Sg. Liam di Ulu Yam
 3416002_,Kg. Kalong Tengah
 3316029_,Sg. Serendah di Serendah
 KOMPLEKSPEGHULUULUBERNAM,Kompleks Penghulu Hulu Bernam
@@ -418,7 +417,6 @@ REDONG,Felda Redong
 2426006_,Jementah
 KGGATOM,Sg. Labis di Kg. Gatom
 2330009_,LPP Labis
-2229001_,Felda Maokil
 2230001_,SMK Chaah
 2130002_,Sg. Lenik di Kangkar Chaah
 2130001_,Sg. Lenik di Ladang Chaah
@@ -447,7 +445,6 @@ SIMP5DARAT,Sg. Belemang Besar di Simpang 5 Darat
 2030071_,Empangan Bekok
 LDGUNION,Ladang Union
 2031069_,Ladang Yong Peng
-2031067_,Sg. Bekok di Bandar Yong Peng
 1931003_,Empangan Sembrong
 1931004_,Sg. Sembrong di Bt. 2 Sembrong
 1831480_,Sg. Sembrong di Parit Karjo
@@ -572,6 +569,7 @@ _CMRN0025,Sg. Kundang di Jam. Sg. Kundang
 _CMRN0031,Pusat Latihan JAKOA KM. 56 (Bt. 34)
 _CPKN0040,Sg. Pahang di Kuala Sg. Chini
 3428001_,Sg. Pahang di Kuala Sg. Chini
+_CPKN0042,Kg. Salong
 _CPKN0132,Batu Gong
 _CPKN0002,Sg. Pahang di Paloh Hinai
 3431099,Sg. Pahang di Paloh Inai
@@ -596,7 +594,6 @@ _CKTN0004,Ladang Ulu Lepar
 2636182_,Sg. Endau di Tanjung Gemuk
 222910501017,JPS Marang
 26491,Kalabe
-26492,Stesen Pertanian Ajil
 5424001_,Sg. Besut di Jambatan Keruak
 5524001_,Sg. Besut di Kg. La
 5625003_,Empangan Paya Peda
@@ -827,6 +824,7 @@ KCHCITYSOUTH,Kuching City South
 2721001_,Kampung Sunting
 2920005_,Mukah JKR
 2920037_,Mukah-Balingian OPS4
+2825001_,Sungai Bawan
 2823001_,Dana
 2530001,Rumah Maja
 2629401_,Muput
