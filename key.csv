@@ -1,19 +1,27 @@
 0,1
-26361,Sg. Arau di Kolam Sg. Jernih
 26363,Sg. Arau di Felda
 26441,Sg. Perlis di Padang Katong
 26442,Sg. Perlis di Rumah Pam Kuala Perlis
+26361,Sg. Arau di Kolam Sg. Jernih
 6601001_,Sg.Pelarit di Wang Kelian
 6602002_,Sg. Pelarit di Kaki Bukit
+6603002_,Padang Besar
 6602404_,Sg. Chuchoh di Kg. Chantik
 6602004_,Sg. Jarum di Kg. Masjid
+6502011_,Empangan Timah Tasuh
 6502010_,Bukit Temiang
 6502012_,Sg. Buluh di Kg. Batu Bertangkup
+25776,Sg. Panggas Besar di Tok Biduk
 25952,Sungai Gial at Kg Gial
 25940,Ngolong at Perlis
+6402009_,Sg. Arau di Kg. Kuala Tunggang
+25772,Ulu Pauh
+6402303_,Arau
 6501406_,Genting Kabu
 25773,Abi Kg. Baru
+6402010_,Sg. Perlis di Kg. Sg. Bakau
 25951,Kg. Behor Lateh at Perlis
+25941,Kuala Perlis at Perlis
 26335,Arau at Perlis
 25398,KAKI BUKIT AT PERLIS
 25400,PADANG BESAR AT PERLIS
@@ -26,6 +34,7 @@
 25728,Sg. Kuah
 6504180_,Bukit Kayu Hitam
 SEKBUKITTANGGA,Sek. Keb. Felda Bukit Tangga
+K000009_,Sg. Badak di Akademi Binaan Malaysia (ABM)
 SINTOK,Sg. Sintok di UUM Sintok
 6404010_,Sg. Laka di Kg. Padang Pasir
 MALAU,SK Malau
@@ -42,8 +51,8 @@ SEKKEBLAMDIN,Sek. Keb. Lamdin
 6106180_,Sg. Naka di Naka
 26165,Sg. Tekai di Kg. Sireh
 6205180_,Sg. Padang Terap di Kuala Nerang
-FELCRATAMPOI,Felcra Bukit Tampoi
 6306035_,Sg. Durian Burung di Durian Burung
+FELCRATAMPOI,Felcra Bukit Tampoi
 SEKKEBKGBUKIT,Sek. Keb. Kampung Bukit
 26048,Sg. Anak Bukit di Taman Aman
 6103147_,Rumah Pam Sg. Raja
@@ -86,6 +95,7 @@ JPSMEKANIKAL,Workshop Sg. Petani
 SINGKIRGENTING,Sg. Singkir di Kg. Singkir Genting
 5406078_,Ulu Paip
 25956,Ldg. Bagan Sena at Kedah
+5505084_,Ladang Henrieta
 SGULAR,Sg. Kulim di Sg. Ular
 25811,Sg. Wang Pinang
 JPSKULIM,JPS Kulim
@@ -225,7 +235,6 @@ PAYAJARASHILIR,Paya Jaras Hilir
 26039,Sg. Bakul di Kg. Budiman
 3017107_,Sg. Kuyoh di Seri Kembangan
 3016077_,Sg. Penchala di Jalan 222
-3016080_,Sg. Penchala di Kg. Gandhi
 3015440_,IOI Puchong Jaya
 USJ1,Sg. Klang di USJ 1
 3015001_,Sg. Klang di Puchong Drop
@@ -259,7 +268,6 @@ TMNWESTCOUNTRYKAJANG,Sg. Langat di Taman West Country Kajang
 JPSHLGT,JPS Hulu Langat
 3119104_,Genting Peres
 3018103_,Sg. Semenyih di Kg. Pasir
-2918080_,Sg. Semenyih di Jalan Seri Tanjung
 BANDARRINCHING,Bandar Rinching
 2918106_,Sg. Semenyih di Rinching
 2817180_,Sg. Semenyih di Pekan Bangi Lama
@@ -342,7 +350,6 @@ _NJLB0008,Kg. Relai di Kg. Baharu
 2922018_,Ladang Pertang
 _NJLB0011,MARDI Jelebu
 3022431_,Sg. Triang di Kg. Juntai
-_NJLB0015,Ladang Glandle
 _NJPL0002,Sg. Serting di Kg. Datok Johan
 2923001_,Sg. Serting di Serting Ulu
 2824093_,Ladang Bahau
@@ -389,6 +396,7 @@ HOSPITALJASIN,Hospital Jasin
 26334,Hospital Jasin at Melaka
 26210,Sg. Kesang Di Selandar
 26173,Sg. Putat di Kg. Sg. Putat
+2727001_,Balai Badang
 LDGSGSEGAMAT,Ladang Sg. Gemas
 25895,Sg. Muar di Muara Sg. Gemas
 2626003_,Sg. Muar di Kg. Awat
@@ -412,7 +420,6 @@ KGGATOM,Sg. Labis di Kg. Gatom
 2130001_,Sg. Lenik di Ladang Chaah
 2231001_,Ladang Chan Wing
 2028001_,Sg. Muar di Bukit Kepong
-2227401_,Sg. Muar di Liang Batu
 2127001_,Sg. Muar di Kg. Olak Sepam
 2127074_,Sg. Muar di Panchor
 2127026_,Lubuk Bakul
@@ -465,7 +472,6 @@ JHR-KGSRIPAYA,Sg. Pontian Besar di Kg. Sri Paya
 26007,Puncak Gunung Pulai
 KGKABONG,Sg. Pontian Besar di Kg. Kabong
 25919,Sg. Ayer Hitam di Kg. Paya Embun
-JHR-PPTSALLEH,Pintu Air Parit Salleh
 25918,PPPB Benut
 25750,Sg. Pulai di Kg. Ulu Pulai
 LADANGKUKUP,Ladang Kukup
@@ -733,6 +739,7 @@ KCHCITYSOUTH,Kuching City South
 1219024_,Nanga Tutong II
 1519001_,Bau Sungai
 1417001_,Nanga Entalau
+1018002_,Lubok Antu
 1316001_,Enteban 2
 26127,Engkilili JKR Wharf
 1015001_,Batu Lintang
@@ -829,7 +836,9 @@ KCHCITYSOUTH,Kuching City South
 2836001_,Bintulu/Belaga Road
 3034001_,Rumah Bansa
 3035001_,Kuala Binyo
+3236001_,Rumah Along
 2931001_,Rumah Luang
+3132023_,Sebauh
 3130005_,Bintulu Kastam Wharf
 3130001_,Sungai Sibiu
 26131,Bintulu New Airport
