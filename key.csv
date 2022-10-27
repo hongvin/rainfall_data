@@ -5,6 +5,7 @@
 26361,Sg. Arau di Kolam Sg. Jernih
 6601001_,Sg.Pelarit di Wang Kelian
 6602002_,Sg. Pelarit di Kaki Bukit
+6603002_,Padang Besar
 6602404_,Sg. Chuchoh di Kg. Chantik
 6602004_,Sg. Jarum di Kg. Masjid
 6502011_,Empangan Timah Tasuh
@@ -51,8 +52,8 @@ SEKKEBLAMDIN,Sek. Keb. Lamdin
 6106180_,Sg. Naka di Naka
 26165,Sg. Tekai di Kg. Sireh
 6205180_,Sg. Padang Terap di Kuala Nerang
-6306035_,Sg. Durian Burung di Durian Burung
 FELCRATAMPOI,Felcra Bukit Tampoi
+6306035_,Sg. Durian Burung di Durian Burung
 SEKKEBKGBUKIT,Sek. Keb. Kampung Bukit
 26048,Sg. Anak Bukit di Taman Aman
 6103147_,Rumah Pam Sg. Raja
@@ -232,6 +233,7 @@ BT10GOMBAK,Sg. Gombak di Batu 10
 3117080_,Bukit Antarabangsa
 3117081_,Puncak Atheneum
 KMSB,Kg. Melayu Sg. Buloh
+3115080_,Sg. Buloh di Paya Jaras
 PAYAJARASHILIR,Paya Jaras Hilir
 3114087_,Empangan Tasik Subang Meru
 26039,Sg. Bakul di Kg. Budiman
@@ -482,7 +484,6 @@ LADANGKUKUP,Ladang Kukup
 26006,Kangkar Pulai
 26050,Sg. Gelang Patah di Kg. Baru Muafakat
 ISKANDARPUTERI,Iskandar Puteri
-KGLAUT,Sg. Skudai di Kg. Laut
 1537001_,Sg. Tebrau di Kg. Maju Jaya
 25737,Sg. Tebrau di Kg. Sri Pandan
 1538001_,Sg. Plentong di Kg. Plentong Baru
@@ -569,7 +570,6 @@ _CMRN0025,Sg. Kundang di Jam. Sg. Kundang
 _CMRN0031,Pusat Latihan JAKOA KM. 56 (Bt. 34)
 _CPKN0040,Sg. Pahang di Kuala Sg. Chini
 3428001_,Sg. Pahang di Kuala Sg. Chini
-_CPKN0042,Kg. Salong
 _CPKN0132,Batu Gong
 _CPKN0002,Sg. Pahang di Paloh Hinai
 3431099,Sg. Pahang di Paloh Inai
@@ -578,6 +578,7 @@ _CPKN0047,Kg. Temai Hilir
 3434001_CPKN0004,Sg. Pahang di Pekan
 _CKTN0004,Ladang Ulu Lepar
 3629103_,Sg. Lepar di Jambatan Gelugor
+3929001_,Sg. Lembing
 3930012_,PCCL Sg. Lembing
 3831001_,Sg. Kuantan di Pasir Kemudi
 3832020_,Sg. Kuantan di Kuantan Bypass
@@ -657,11 +658,13 @@ _DGMG0104,Sek. Keb. Chalil
 25932,Pej. Pertanian Btg. Merbau at Kelantan
 _DMCG0001,Kg. Temangan
 _DMCG0005,JPS Machang
+6021065_DPMS0001,Sg. Kelantan di Air Mulih
 25930,Rumah Pam Repek at Kelantan
 25931,Kg. Tandak (Bkt. P.Junu at Kelantan)
 25368,Emp. Bukit Kwong
 _DPMS0003,Rantau Panjang
 _DKBR0008,IPMI Zon Timur
+6121068_DTPT0001,Tumpat
 25098,Pak Badol
 25881,Serdang at Gunong Barat Bachok
 25883,Tok Ajam at Kelantan
@@ -688,6 +691,7 @@ _DKBR0008,IPMI Zon Timur
 1401006_,Bau Bridge
 1402002_,Siniawan
 1402048_,Batu Kitang Telemetry
+1502005_,Batu Kawa Bridge
 1403001_,Kuching Airport
 1502003_,Kampung Sagah
 1503013_,Maong Tengah Kiri
@@ -697,6 +701,7 @@ _DKBR0008,IPMI Zon Timur
 1503014_,Padungan
 KCHCITYSOUTH,Kuching City South
 1503001_,Bako Causeway
+1603002_,Siol JPS
 1603001_,Semariang Fisheries
 1504001_,Barrage
 1502006_,Sungai Tengah
@@ -768,11 +773,9 @@ KCHCITYSOUTH,Kuching City South
 2737002_,Giam Pasang B
 2737103_,Belaga
 2333002_,Punan Bah B
-2230143_,Nanga Merit
 1544001_,Long Singut
 2036001_,Tunoh Scheme
 2134001_,Nanga Tiau
-1836042_,Nanga Entawau
 1834002_,Gaat B
 2029002_,Kapit New Headworks
 2029003_,Kapit Town
@@ -818,7 +821,6 @@ KCHCITYSOUTH,Kuching City South
 2530001,Rumah Maja
 2629401_,Muput
 2730001,Rumah Keseng
-2729055,Sangan
 2828025_,Tatau Town
 3028001_,Kuala Tatau
 3330001,Sungai Sebatang
@@ -827,13 +829,11 @@ KCHCITYSOUTH,Kuching City South
 2836001_,Bintulu/Belaga Road
 3034001_,Rumah Bansa
 3035001_,Kuala Binyo
-3236001_,Rumah Along
 2931001_,Rumah Luang
 3132023_,Sebauh
 3130005_,Bintulu Kastam Wharf
 3130001_,Sungai Sibiu
 26131,Bintulu New Airport
-3130003,JPS Bintulu
 3334001,Similajau Estate
 3635001_,Kuala Tutong
 3738001_,Subis 1
@@ -855,8 +855,6 @@ KCHCITYSOUTH,Kuching City South
 3547001_,Long Luteng
 3744009_,Long Lama
 4043059,Benawa
-3243071_,Long Aton
-3342032_,Long Subing
 3441001_,Long Bantan
 3541033_,Long Jegan
 3842034_,Long Teru
