@@ -57,7 +57,6 @@ SEKKEBKGBUKIT,Sek. Keb. Kampung Bukit
 26048,Sg. Anak Bukit di Taman Aman
 6103147_,Rumah Pam Sg. Raja
 KUBURPANJANG,Sg. Titi Kerbau di Kubur Panjang
-5905180_,Sg. Pendang di Pekan Pendang
 5905181_,Sg. Pendang di Pondok Chegar
 PAYAMADINSON,Kg. Paya Mat Inson
 6108001_,Kompleks Empangan Muda
@@ -123,7 +122,6 @@ LIMBUNGAN,Rumah Pam Taman Limbungan
 25963,Kolam Air Chrk. To' Kun At P.Pinang
 5304044_,Sg. Juru di Empangan Juru
 5305318_,Macang Bubuk
-5204423_,Sg. Junjung di Simpang Empat
 5204048_,Sg. Simpang Ampat
 25965,Ldg. Batu Kawan at P.Pinang
 BATUKAWAN,Stadium Batu Kawan
@@ -352,10 +350,12 @@ _NJLB0008,Kg. Relai di Kg. Baharu
 2922018_,Ladang Pertang
 _NJLB0011,MARDI Jelebu
 3022431_,Sg. Triang di Kg. Juntai
+_NJLB0015,Ladang Glandle
 _NJPL0002,Sg. Serting di Kg. Datok Johan
 2923001_,Sg. Serting di Serting Ulu
 2824093_,Ladang Bahau
 _NKPH0001,Ladang Sg. Sabaling
+3023098_,Sg. Lui
 2725096_,Palong 9
 2625413_,Sg. Muar di Pekan Rompin
 2721074_,Kg. Talang
@@ -572,7 +572,6 @@ _CPKN0042,Kg. Salong
 _CPKN0132,Batu Gong
 _CPKN0002,Sg. Pahang di Paloh Hinai
 3431099,Sg. Pahang di Paloh Inai
-_CPKN0047,Kg. Temai Hilir
 3533102_CPKN0003,Sg. Pahang Tua di Rumah Pam Pahang Tua
 3434001_CPKN0004,Sg. Pahang di Pekan
 _CKTN0004,Ladang Ulu Lepar
@@ -678,7 +677,6 @@ _DKBR0008,IPMI Zon Timur
 1201076_,Semban
 1102019_,Padawan
 1102002_,Aman 5 Bridge
-1200001_,Pang Tebang
 1200002_,Sungai Pedid
 1301001_,Kampung Monggak
 1302078_,Kampung Git
@@ -757,6 +755,7 @@ KCHCITYSOUTH,Kuching City South
 1415004_,Betong
 1514001_,Debak
 26129,Pusa
+1611001_,JPS Beladin
 26128,Kaki Wong
 1713005_,Saratok DID
 1812001_,Roban
@@ -900,7 +899,6 @@ KCHCITYSOUTH,Kuching City South
 26312,Sg. Moyog At Penampang
 26316,Matungong
 26319,Kiulu At Sabah
-5261402_,Sg. Sook di Biah
 4658001_,Bakuku
 5357003_,Sg. Padas di Beaufort JPS
 5663002_,Sg. Pegalan di Keranaan
