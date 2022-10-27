@@ -407,7 +407,6 @@ LDGSGSEGAMAT,Ladang Sg. Gemas
 2627001_,Sek. Keb. Spang Loi
 25893,Kg. Bangas
 25894,Felda Pemanis
-LDGPAYALANG,Ladang Paya Lang
 2526004_,Sg. Muar di Buloh Kasap
 JHR-AIRPANAS,Air Panas
 REDONG,Felda Redong
@@ -479,7 +478,6 @@ KGKABONG,Sg. Pontian Besar di Kg. Kabong
 25918,PPPB Benut
 25750,Sg. Pulai di Kg. Ulu Pulai
 LADANGKUKUP,Ladang Kukup
-26006,Kangkar Pulai
 26050,Sg. Gelang Patah di Kg. Baru Muafakat
 ISKANDARPUTERI,Iskandar Puteri
 KGLAUT,Sg. Skudai di Kg. Laut
@@ -534,6 +532,7 @@ _CLPS0015,Ladang Benta
 _CLPS0042,Hospital Lipis
 _CJRT0045,Sek. Keb. Kg. Pagi
 _CJRT0214,Kuala Tahan
+4324001_CJRT0003,Sg. Tembeling di Kuala Tahan
 _CJRT0041,Ulu Tekai A
 _CJRT0002,Sg. Tembeling di Kg. Merting
 _CJRT0039,Kg. Chebong
@@ -541,7 +540,6 @@ _CJRT0039,Kg. Chebong
 _CJRT0025,Kg. Bharu
 _CJRT0032,Sg. Pahang di Jerantut Feri
 _CJRT0022,Paya Gintong
-_CJRT0028,Kota Gelangi 1 & 3
 _CRAU0049,Felda Tersang 2
 _CRAU0046,Batu Malim
 4017001_,Sg. Lipis di Batu Malim
@@ -857,7 +855,6 @@ KCHCITYSOUTH,Kuching City South
 4339005_,Miri Airport
 4339001_,Miri Municipal Car Park
 3754007_,Bario
-3752001_,Pa Tik
 4048001_,Mulu Airport
 3847035_,Long Atip
 3946001_,Long Terawan
