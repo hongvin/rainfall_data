@@ -58,7 +58,6 @@ SEKKEBKGBUKIT,Sek. Keb. Kampung Bukit
 26048,Sg. Anak Bukit di Taman Aman
 6103147_,Rumah Pam Sg. Raja
 KUBURPANJANG,Sg. Titi Kerbau di Kubur Panjang
-5905180_,Sg. Pendang di Pekan Pendang
 5905181_,Sg. Pendang di Pondok Chegar
 PAYAMADINSON,Kg. Paya Mat Inson
 6108001_,Kompleks Empangan Muda
@@ -484,6 +483,7 @@ LADANGKUKUP,Ladang Kukup
 26006,Kangkar Pulai
 26050,Sg. Gelang Patah di Kg. Baru Muafakat
 ISKANDARPUTERI,Iskandar Puteri
+KGLAUT,Sg. Skudai di Kg. Laut
 1537001_,Sg. Tebrau di Kg. Maju Jaya
 25737,Sg. Tebrau di Kg. Sri Pandan
 1538001_,Sg. Plentong di Kg. Plentong Baru
@@ -504,7 +504,6 @@ PASAK,Pasak
 1738132_,Ladang Nam Heng
 1542001_,Bandar Penawar
 SILICA,Johor Silica
-BKTPELALI,Bukit Pelali
 25923,Felda Lok Heng
 25927,Sg. Sedili Kecil di Sedili Kecil
 25926,Sg. Sedili Besar di Kg. Mawai
@@ -534,7 +533,6 @@ _CLPS0033,Balai Polis Merapoh
 _CLPS0015,Ladang Benta
 _CLPS0042,Hospital Lipis
 _CJRT0045,Sek. Keb. Kg. Pagi
-_CJRT0214,Kuala Tahan
 4324001_CJRT0003,Sg. Tembeling di Kuala Tahan
 _CJRT0041,Ulu Tekai A
 _CJRT0002,Sg. Tembeling di Kg. Merting
@@ -834,6 +832,7 @@ KCHCITYSOUTH,Kuching City South
 3130005_,Bintulu Kastam Wharf
 3130001_,Sungai Sibiu
 26131,Bintulu New Airport
+3130003,JPS Bintulu
 3334001,Similajau Estate
 3635001_,Kuala Tutong
 3738001_,Subis 1
