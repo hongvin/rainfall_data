@@ -37,6 +37,7 @@ SEKBUKITTANGGA,Sek. Keb. Felda Bukit Tangga
 K000009_,Sg. Badak di Akademi Binaan Malaysia (ABM)
 SINTOK,Sg. Sintok di UUM Sintok
 6404010_,Sg. Laka di Kg. Padang Pasir
+MALAU,SK Malau
 6204180_,Sg. Bata di Kg. Bata
 WANGTEPUS,Wang Tepus
 6204004_,Sg. Padang Terap di Kepala Batas
@@ -250,6 +251,7 @@ KOTADAMANSARA,Kota Damansara
 TAMANBOTANI,Taman Botani
 3015084_,Sg. Klang di Taman Sri Muda
 DESAKEMUNING,Sg. Rasau di Taman Desa Kemuning
+3015088_,Sg. Kandis di Kg. Jawa
 26038,Taman Sentosa
 3015089_,Sg. Rasau di Tugu Keris
 3014080_,Sg. Klang di Bandar Klang
@@ -412,6 +414,7 @@ LDGSGSEGAMAT,Ladang Sg. Gemas
 2627001_,Sek. Keb. Spang Loi
 25893,Kg. Bangas
 25894,Felda Pemanis
+LDGPAYALANG,Ladang Paya Lang
 2526004_,Sg. Muar di Buloh Kasap
 2430002_,Empangan Juaseh
 JHR-AIRPANAS,Air Panas
@@ -654,6 +657,7 @@ TKMN0007,Yak Yah
 223810321017,Ladang Mentara
 26286,Rumah Pam JPS Meranti
 26292,Kg. Pulau Lima
+26296,Jambatan Melor
 _DGMG0014,Kg. Pulai
 4726001_DGMG0020,Gunung Gagau 1
 4824001_DGMG0021,Sg. Lebir di Kuala Koh
@@ -814,7 +818,6 @@ KCHCITYSOUTH,Kuching City South
 2115008_,Sarikei DID
 2213001_,Sungai Maleng
 2412001_,Paloh Bangau
-2615009_,Matu
 2817001_,Igan
 2321066_,Sekuau
 2819001_,Sungai Talau
