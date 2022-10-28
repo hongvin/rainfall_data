@@ -37,7 +37,6 @@ SEKBUKITTANGGA,Sek. Keb. Felda Bukit Tangga
 K000009_,Sg. Badak di Akademi Binaan Malaysia (ABM)
 SINTOK,Sg. Sintok di UUM Sintok
 6404010_,Sg. Laka di Kg. Padang Pasir
-MALAU,SK Malau
 6204180_,Sg. Bata di Kg. Bata
 WANGTEPUS,Wang Tepus
 6204004_,Sg. Padang Terap di Kepala Batas
@@ -58,7 +57,6 @@ SEKKEBKGBUKIT,Sek. Keb. Kampung Bukit
 26048,Sg. Anak Bukit di Taman Aman
 6103147_,Rumah Pam Sg. Raja
 KUBURPANJANG,Sg. Titi Kerbau di Kubur Panjang
-5905180_,Sg. Pendang di Pekan Pendang
 5905181_,Sg. Pendang di Pondok Chegar
 PAYAMADINSON,Kg. Paya Mat Inson
 6108001_,Kompleks Empangan Muda
@@ -415,6 +413,7 @@ LDGSGSEGAMAT,Ladang Sg. Gemas
 25893,Kg. Bangas
 25894,Felda Pemanis
 2526004_,Sg. Muar di Buloh Kasap
+2430002_,Empangan Juaseh
 JHR-AIRPANAS,Air Panas
 REDONG,Felda Redong
 2530001_,Sg. Segamat di Segamat Kecil
@@ -575,13 +574,13 @@ _CMRN0025,Sg. Kundang di Jam. Sg. Kundang
 _CMRN0031,Pusat Latihan JAKOA KM. 56 (Bt. 34)
 _CPKN0040,Sg. Pahang di Kuala Sg. Chini
 3428001_,Sg. Pahang di Kuala Sg. Chini
+_CPKN0042,Kg. Salong
 _CPKN0132,Batu Gong
 _CPKN0002,Sg. Pahang di Paloh Hinai
 3431099,Sg. Pahang di Paloh Inai
 _CPKN0047,Kg. Temai Hilir
 3533102_CPKN0003,Sg. Pahang Tua di Rumah Pam Pahang Tua
 3434001_CPKN0004,Sg. Pahang di Pekan
-_CKTN0004,Ladang Ulu Lepar
 3629103_,Sg. Lepar di Jambatan Gelugor
 3929001_,Sg. Lembing
 3930012_,PCCL Sg. Lembing
@@ -627,6 +626,7 @@ _THTG0001,Sg. Telemong di Kenyir Elephant Village
 TOKADIS,Kg. Tok Adis
 _TKTG0002,Bukit Tumbuh
 5331010_,Sg. Terengganu di Bukit Tumbuh
+5331048_TKTG0004,Stor JPS Kuala Terengganu
 _TKTG0005,Sg. Terengganu di Rumah Pam Pulau Bahagia
 UMT,Universiti Malaysia Terengganu
 _TKTG0095,Universiti Malaysia Terengganu
@@ -654,7 +654,7 @@ TKMN0007,Yak Yah
 223810321017,Ladang Mentara
 26286,Rumah Pam JPS Meranti
 26292,Kg. Pulau Lima
-26296,Jambatan Melor
+_DGMG0014,Kg. Pulai
 4726001_DGMG0020,Gunung Gagau 1
 4824001_DGMG0021,Sg. Lebir di Kuala Koh
 4923001_DGMG0022,Kg. Aring
