@@ -273,7 +273,6 @@ JPSHLGT,JPS Hulu Langat
 3119104_,Genting Peres
 3018103_,Sg. Semenyih di Kg. Pasir
 2918080_,Sg. Semenyih di Jalan Seri Tanjung
-BANDARRINCHING,Bandar Rinching
 2918106_,Sg. Semenyih di Rinching
 2817180_,Sg. Semenyih di Pekan Bangi Lama
 BERANANG,Sg. Beranang di Pekan Beranang
@@ -391,6 +390,7 @@ DRTUNGGAL,Sg. Melaka di Durian Tunggal (Upstream)
 25749,Ldg. Bkt. Asahan at Melaka
 HOSPITALJASIN,Hospital Jasin
 2225044_,Chohong
+2125002_,Sg. Kesang di Telok Rimba
 25754,"Tehel, Sg. Air Panas"
 25747,"Bukit Katil, Sg. Duyong"
 2223023_,Sg. Duyong
@@ -567,7 +567,6 @@ _CBER0030,Ladang Karmen
 2924096_,Glendale
 _CBER0021,Pos Iskandar
 _CMRN0027,Felda Kg. Awah
-_CMRN0036,Ladang Chenor
 _CMRN0147,Sek. Keb. Kuala Sentul
 _CMRN0025,Sg. Kundang di Jam. Sg. Kundang
 3527092_,Sg. Pahang di Lubuk Paku
@@ -578,12 +577,14 @@ _CPKN0042,Kg. Salong
 _CPKN0132,Batu Gong
 _CPKN0002,Sg. Pahang di Paloh Hinai
 3431099,Sg. Pahang di Paloh Inai
+_CPKN0047,Kg. Temai Hilir
 3533102_CPKN0003,Sg. Pahang Tua di Rumah Pam Pahang Tua
 3434001_CPKN0004,Sg. Pahang di Pekan
 3629103_,Sg. Lepar di Jambatan Gelugor
 3929001_,Sg. Lembing
 3930012_,PCCL Sg. Lembing
 3831001_,Sg. Kuantan di Pasir Kemudi
+3832020_,Sg. Kuantan di Kuantan Bypass
 3833002_,Kuantan
 3432001_,Sg. Belat di Sri Damai
 2630001_,Sg. Pukin
@@ -656,6 +657,7 @@ _DGMG0014,Kg. Pulai
 4726001_DGMG0020,Gunung Gagau 1
 4824001_DGMG0021,Sg. Lebir di Kuala Koh
 4923001_DGMG0022,Kg. Aring
+_DGMG0104,Sek. Keb. Chalil
 _DTMH0002,Ladang Kerilla
 25932,Pej. Pertanian Btg. Merbau at Kelantan
 _DMCG0001,Kg. Temangan
@@ -675,6 +677,7 @@ _DKBR0008,IPMI Zon Timur
 26285,SM Cherang Ruku
 1599001_,Ulu Batang Kayan
 1698007_,Lundu
+1996090_,Samunsam
 1897016_,Sematan
 26124,Sampadi Laut
 1201076_,Semban
@@ -723,6 +726,7 @@ KCHCITYSOUTH,Kuching City South
 1003031_,Tebedu
 1004001_,Krusen
 26130,Tebakang
+1105035_,Semuja Nonok
 907001_,Krangan Trusan
 1105027_,Serian
 1007040_,Balai Ringin
@@ -753,6 +757,7 @@ KCHCITYSOUTH,Kuching City South
 1014001_,Klauh
 1111008_,Pantu
 1311003_,Lingga
+1616021_,Nanga Tiga
 1415001_,Nanga Lubau
 1615023_,Batu Danau
 1415004_,Betong
@@ -772,13 +777,17 @@ KCHCITYSOUTH,Kuching City South
 26140,Long Jawe
 2843001_,Long Jek
 2442001_,Long Laku
+3041002_,Long Urun
 2939045_,Long Sambop
+2939002_,Sambop B
 2737002_,Giam Pasang B
 2737103_,Belaga
 2333002_,Punan Bah B
+2230143_,Nanga Merit
 1544001_,Long Singut
 2036001_,Tunoh Scheme
 2134001_,Nanga Tiau
+1836042_,Nanga Entawau
 1834002_,Gaat B
 2029002_,Kapit New Headworks
 2029003_,Kapit Town
@@ -814,6 +823,7 @@ KCHCITYSOUTH,Kuching City South
 1816029_,Pakan
 2116030_,Bintangor
 2115008_,Sarikei DID
+2516001_,Sungai Dausan
 2213001_,Sungai Maleng
 2412001_,Paloh Bangau
 2514005_,Daro
@@ -839,12 +849,14 @@ KCHCITYSOUTH,Kuching City South
 2836001_,Bintulu/Belaga Road
 3034001_,Rumah Bansa
 3035001_,Kuala Binyo
+3236001_,Rumah Along
 2931001_,Rumah Luang
 3132023_,Sebauh
 3130005_,Bintulu Kastam Wharf
 3130001_,Sungai Sibiu
 26131,Bintulu New Airport
 3130003,JPS Bintulu
+3533001_,Kuala Similajau
 3334001,Similajau Estate
 3635001_,Kuala Tutong
 3738001_,Subis 1
@@ -854,19 +866,25 @@ KCHCITYSOUTH,Kuching City South
 4038006_,Bekenu
 2318006_,Permy Jaya
 4440060_,Miri DID
+4339005_,Miri Airport
 4339001_,Miri Municipal Car Park
 3754007_,Bario
+3752001_,Pa Tik
 3950020_,Long Seridan
+4048001_,Mulu Airport
 3847035_,Long Atip
 3946001_,Long Terawan
 3945017_,Long Panai
 3152011_,Lio Matu
 3050015_,Long Moh
 2949001_,Long Jee
+3048026_,Long Anap
 3347003_,Long Akah
 3547001_,Long Luteng
 3744009_,Long Lama
 4043059,Benawa
+3243071_,Long Aton
+3342032_,Long Subing
 3441001_,Long Bantan
 3541033_,Long Jegan
 3842034_,Long Teru
