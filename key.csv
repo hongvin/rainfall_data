@@ -177,7 +177,6 @@ SGRAIA,Sg. Raia di Keramat Pulai
 25813,Sg. Perak di Kg. Terengganu
 3814160_,Ulu Slim
 3814158_,Sg. Bil
-3814159_,Sg. Slim di Slim River
 3717101_,Bukit Fraser
 3517022_,Kg. Pertak
 3516022_,Loji Air KKB
@@ -299,6 +298,7 @@ KGTELUKPULAI,P/A Kg. Teluk Pulai
 LDGWEST,Ladang West Pulau Carey
 KELANANG,Pintu Air Kelanang
 2813401_,Bt. 7 Sijangkang
+25939,RS Batu 8
 2615180_,Sg. Kundang di Kg. Kundang
 26497,Kg. Berembang (SMART)
 26502,JPS Wilayah (PRAB Fasa 2)
@@ -351,7 +351,6 @@ _NJLB0003,Kg. Ulu Klawang
 2920032_,Sg. Triang di Kg. Chenor
 _NJLB0008,Kg. Relai di Kg. Baharu
 3020016_,Kg. Chennah
-2922018_,Ladang Pertang
 _NJLB0011,MARDI Jelebu
 3022431_,Sg. Triang di Kg. Juntai
 _NJPL0002,Sg. Serting di Kg. Datok Johan
@@ -503,7 +502,6 @@ LDGLIMLIM,Ladang Lim Lim
 1737001_,Bukit Besar
 1838149_,Air Terjun Kota Tinggi
 25924,Kg. Semanggar
-1738001_,Sg. Johor di Kota Tinggi
 PASAK,Pasak
 1738132_,Ladang Nam Heng
 1542001_,Bandar Penawar
@@ -541,6 +539,7 @@ _CJRT0045,Sek. Keb. Kg. Pagi
 4324001_CJRT0003,Sg. Tembeling di Kuala Tahan
 _CJRT0041,Ulu Tekai A
 _CJRT0002,Sg. Tembeling di Kg. Merting
+_CJRT0039,Kg. Chebong
 4023001_CJRT0001,Sg. Pahang di Sg. Yap
 _CJRT0025,Kg. Bharu
 _CJRT0032,Sg. Pahang di Jerantut Feri
@@ -647,7 +646,6 @@ MERCHANG,Sek. Men. Keb.  Merchang
 4233453_,Sg. Kemaman di Rumah Pam Paya Paman
 4234109_,JPS Kemaman
 TKMN0007,Yak Yah
-4434093_,Sek. Men. Badrul Alam Shah
 223810321017,Ladang Mentara
 26286,Rumah Pam JPS Meranti
 26296,Jambatan Melor
@@ -727,7 +725,6 @@ KCHCITYSOUTH,Kuching City South
 26130,Tebakang
 1105035_,Semuja Nonok
 907001_,Krangan Trusan
-1105027_,Serian
 1007040_,Balai Ringin
 1503009_,Mid Sungai Kuap
 1404049_,Paya Paloh
