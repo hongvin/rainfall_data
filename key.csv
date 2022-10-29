@@ -1,8 +1,8 @@
 0,1
-26361,Sg. Arau di Kolam Sg. Jernih
 26363,Sg. Arau di Felda
 26441,Sg. Perlis di Padang Katong
 26442,Sg. Perlis di Rumah Pam Kuala Perlis
+26361,Sg. Arau di Kolam Sg. Jernih
 6601001_,Sg.Pelarit di Wang Kelian
 6602002_,Sg. Pelarit di Kaki Bukit
 6603002_,Padang Besar
@@ -22,9 +22,9 @@
 6402010_,Sg. Perlis di Kg. Sg. Bakau
 25951,Kg. Behor Lateh at Perlis
 25941,Kuala Perlis at Perlis
-26335,Arau at Perlis
 25398,KAKI BUKIT AT PERLIS
 25400,PADANG BESAR AT PERLIS
+26335,Arau at Perlis
 6398141_,Gunung Raya
 6397116_,Hulu Empangan Saga
 6397112_,Empangan Padang Saga
@@ -58,6 +58,7 @@ SEKKEBKGBUKIT,Sek. Keb. Kampung Bukit
 26048,Sg. Anak Bukit di Taman Aman
 6103147_,Rumah Pam Sg. Raja
 KUBURPANJANG,Sg. Titi Kerbau di Kubur Panjang
+5905180_,Sg. Pendang di Pekan Pendang
 5905181_,Sg. Pendang di Pondok Chegar
 PAYAMADINSON,Kg. Paya Mat Inson
 6108001_,Kompleks Empangan Muda
@@ -193,7 +194,6 @@ FELDAGEDANGSA,Felda Gedangsa
 25551,Ibu Bekalan Sg. Bernam
 KGBELIA2SGPANJANG,Kg. Belia Sg. Panjang
 25943,Sg. Bernam di Rimba KDR
-RPJPSBGNTERAP,Rumah Pam JPS Bagan Terap
 PEKANSABAKBERNAM,Pekan Sabak Bernam
 3808001_,Sg. Bernam di Sg. Air Tawar
 ILDASSGAIRTAWAR,ILDAS Sg. Air Tawar
@@ -203,7 +203,6 @@ PARIT1SGBESAR,Parit Satu Sg. Besar
 TALIAIR9,Tali Air 9 Sg. Panjang
 FDCSEKINCHAN,FDC Sekinchan
 IBUBKLSGTENGI,Ibu Bekalan Sg. Tengi
-PATGKARANG,P/A Pekan Tg. Karang
 STORJPSTGKARANG,Stor JPS Tg. Karang
 PRT1SB,Parit 1 Sg. Burong
 3414032_,Sg. Selangor di Rantau Panjang
@@ -273,6 +272,7 @@ JPSHLGT,JPS Hulu Langat
 3119104_,Genting Peres
 3018103_,Sg. Semenyih di Kg. Pasir
 2918080_,Sg. Semenyih di Jalan Seri Tanjung
+BANDARRINCHING,Bandar Rinching
 2918106_,Sg. Semenyih di Rinching
 2817180_,Sg. Semenyih di Pekan Bangi Lama
 BERANANG,Sg. Beranang di Pekan Beranang
@@ -354,7 +354,6 @@ _NJLB0008,Kg. Relai di Kg. Baharu
 2922018_,Ladang Pertang
 _NJLB0011,MARDI Jelebu
 3022431_,Sg. Triang di Kg. Juntai
-_NJLB0015,Ladang Glandle
 _NJPL0002,Sg. Serting di Kg. Datok Johan
 2923001_,Sg. Serting di Serting Ulu
 2824093_,Ladang Bahau
@@ -524,7 +523,6 @@ JHR-STORJPSMERSING,Stor JPS Mersing
 26154,Hulu Sg. Ringlet
 26157,Middle Sg. Ringlet
 26159,Sg. Ringlet di Pekan Ringlet
-4514035_CCHG0001,Sg. Ikan
 4513033_,Brinchang
 _CCHG0014,Sg. Tringkap di Tringkap
 4414040_,MARDI CH
@@ -792,6 +790,7 @@ KCHCITYSOUTH,Kuching City South
 2029002_,Kapit New Headworks
 2029003_,Kapit Town
 2026001_,Nanga Sebatu
+1726041_,Nanga Bangkit
 2025012_,Song B
 1521001_,Sungai Nawang
 1823001_,Nanga Jagau
