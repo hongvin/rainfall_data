@@ -42,6 +42,7 @@ MALAU,SK Malau
 WANGTEPUS,Wang Tepus
 6204004_,Sg. Padang Terap di Kepala Batas
 25962,Stn. Keretapi Tunjang at Kedah
+6307180_,Empangan Ahning
 6205481_,Sg. Padang Terap di Kg. Kubu
 6306180_,Sg. Padang Sanai di Padang Sanai
 PADANGSANAI,Sg. Padang Sanai di Pdg. Sanai
@@ -67,6 +68,7 @@ PAYAMADINSON,Kg. Paya Mat Inson
 5908001_,Batu Seketul
 BERIS,Empangan Beris (State)
 5907401_,Empangan Beris (RTB)
+5807068_,Klinik Desa Kg. Chong
 5808071_,Bendang Man
 5706002_,Sg. Chepir di Bt. 5
 6368743_,Sg. Ketil Hulu di Tanjung Pari
@@ -109,7 +111,6 @@ JPSKULIM,JPS Kulim
 5505413_,Sg. Muda di Pinang Tunggal
 5505033_,Rumah Pam Pinang Tunggal
 5504035_,Lahar Ikan Mati
-5503042_,Bakar Kapor
 5404041_,Ladang Malakoff
 5503034_,Permatang Binjai
 26186,Permatang Tok Jaya
@@ -120,7 +121,6 @@ LIMBUNGAN,Rumah Pam Taman Limbungan
 5304045_,Pusat Kesihatan Bukit Berapit
 5304046_,Permatang Rawa
 25963,Kolam Air Chrk. To' Kun At P.Pinang
-5304044_,Sg. Juru di Empangan Juru
 5305318_,Macang Bubuk
 5204423_,Sg. Junjung di Simpang Empat
 5204048_,Sg. Simpang Ampat
@@ -229,7 +229,6 @@ BT10GOMBAK,Sg. Gombak di Batu 10
 3117080_,Bukit Antarabangsa
 3117081_,Puncak Atheneum
 KMSB,Kg. Melayu Sg. Buloh
-3115080_,Sg. Buloh di Paya Jaras
 PAYAJARASHILIR,Paya Jaras Hilir
 3114087_,Empangan Tasik Subang Meru
 26039,Sg. Bakul di Kg. Budiman
@@ -249,6 +248,7 @@ TAMANBOTANI,Taman Botani
 3015084_,Sg. Klang di Taman Sri Muda
 DESAKEMUNING,Sg. Rasau di Taman Desa Kemuning
 3015088_,Sg. Kandis di Kg. Jawa
+2414401_,SMK Jalan Kebun
 26038,Taman Sentosa
 3015089_,Sg. Rasau di Tugu Keris
 3014080_,Sg. Klang di Bandar Klang
@@ -653,7 +653,6 @@ TKMN0007,Yak Yah
 4434093_,Sek. Men. Badrul Alam Shah
 223810321017,Ladang Mentara
 26286,Rumah Pam JPS Meranti
-26292,Kg. Pulau Lima
 26296,Jambatan Melor
 _DGMG0014,Kg. Pulai
 4726001_DGMG0020,Gunung Gagau 1
@@ -672,7 +671,6 @@ _DPMS0003,Rantau Panjang
 _DKBR0008,IPMI Zon Timur
 6121068_DTPT0001,Tumpat
 25098,Pak Badol
-25881,Serdang at Gunong Barat Bachok
 25883,Tok Ajam at Kelantan
 25882,Kg. Wakaf Raja at Kelantan
 26281,Kg. Air Satan
