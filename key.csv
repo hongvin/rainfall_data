@@ -1,8 +1,8 @@
 0,1
-26361,Sg. Arau di Kolam Sg. Jernih
 26363,Sg. Arau di Felda
 26441,Sg. Perlis di Padang Katong
 26442,Sg. Perlis di Rumah Pam Kuala Perlis
+26361,Sg. Arau di Kolam Sg. Jernih
 6601001_,Sg.Pelarit di Wang Kelian
 6602002_,Sg. Pelarit di Kaki Bukit
 6603002_,Padang Besar
@@ -11,7 +11,6 @@
 6502011_,Empangan Timah Tasuh
 6502010_,Bukit Temiang
 6502012_,Sg. Buluh di Kg. Batu Bertangkup
-25776,Sg. Panggas Besar di Tok Biduk
 25952,Sungai Gial at Kg Gial
 25940,Ngolong at Perlis
 6402009_,Sg. Arau di Kg. Kuala Tunggang
@@ -32,6 +31,7 @@
 6397111_,Sg. Melaka di Padang Matsirat
 25958,Ldg. Sungai Raya at Kedah
 25728,Sg. Kuah
+6504180_,Bukit Kayu Hitam
 SEKBUKITTANGGA,Sek. Keb. Felda Bukit Tangga
 K000009_,Sg. Badak di Akademi Binaan Malaysia (ABM)
 SINTOK,Sg. Sintok di UUM Sintok
@@ -42,7 +42,6 @@ WANGTEPUS,Wang Tepus
 6204004_,Sg. Padang Terap di Kepala Batas
 25962,Stn. Keretapi Tunjang at Kedah
 6307180_,Empangan Ahning
-6205481_,Sg. Padang Terap di Kg. Kubu
 6306180_,Sg. Padang Sanai di Padang Sanai
 PADANGSANAI,Sg. Padang Sanai di Pdg. Sanai
 K000007_,Sg. Sari di Kilang Gula Padang Terap
@@ -51,8 +50,8 @@ SEKKEBLAMDIN,Sek. Keb. Lamdin
 6106180_,Sg. Naka di Naka
 26165,Sg. Tekai di Kg. Sireh
 6205180_,Sg. Padang Terap di Kuala Nerang
-6306035_,Sg. Durian Burung di Durian Burung
 FELCRATAMPOI,Felcra Bukit Tampoi
+6306035_,Sg. Durian Burung di Durian Burung
 SEKKEBKGBUKIT,Sek. Keb. Kampung Bukit
 26048,Sg. Anak Bukit di Taman Aman
 6103147_,Rumah Pam Sg. Raja
@@ -557,7 +556,6 @@ _CRAU0039,Kg. Cheroh
 _CRAU0042,Sg. Dong di Kg. Peruas
 3519125_CBTG0002,Sg. Bentong di Kuala Marong
 _CBTG0024,Pos Sungai Dua
-_CBTG0017,JKR Kg. Manchis
 3420132_CBTG0001,Sg. Semantan di Kg. Lengkong
 _CTMH0049,"Sg. Terbol, Jenderak"
 _CTMH0370,Ladang Sg. Mai
@@ -587,6 +585,7 @@ _CPKN0047,Kg. Temai Hilir
 3832020_,Sg. Kuantan di Kuantan Bypass
 3833002_,Kuantan
 3432001_,Sg. Belat di Sri Damai
+3133001_,Sg. Cherating di Cherating
 2630001_,Sg. Pukin
 25090,Ulu Sg. Chanis di Pahang
 25830,Kg. Gambir at Pahang
@@ -662,7 +661,6 @@ _DTMH0002,Ladang Kerilla
 25932,Pej. Pertanian Btg. Merbau at Kelantan
 _DMCG0001,Kg. Temangan
 _DMCG0005,JPS Machang
-6021065_DPMS0001,Sg. Kelantan di Air Mulih
 25930,Rumah Pam Repek at Kelantan
 25931,Kg. Tandak (Bkt. P.Junu at Kelantan)
 25368,Emp. Bukit Kwong
