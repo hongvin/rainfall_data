@@ -1,8 +1,8 @@
 0,1
+26361,Sg. Arau di Kolam Sg. Jernih
 26363,Sg. Arau di Felda
 26441,Sg. Perlis di Padang Katong
 26442,Sg. Perlis di Rumah Pam Kuala Perlis
-26361,Sg. Arau di Kolam Sg. Jernih
 6601001_,Sg.Pelarit di Wang Kelian
 6602002_,Sg. Pelarit di Kaki Bukit
 6603002_,Padang Besar
@@ -32,7 +32,6 @@
 6397111_,Sg. Melaka di Padang Matsirat
 25958,Ldg. Sungai Raya at Kedah
 25728,Sg. Kuah
-6504180_,Bukit Kayu Hitam
 SEKBUKITTANGGA,Sek. Keb. Felda Bukit Tangga
 K000009_,Sg. Badak di Akademi Binaan Malaysia (ABM)
 SINTOK,Sg. Sintok di UUM Sintok
@@ -112,7 +111,6 @@ JPSKULIM,JPS Kulim
 5505413_,Sg. Muda di Pinang Tunggal
 5505033_,Rumah Pam Pinang Tunggal
 5504035_,Lahar Ikan Mati
-5503042_,Bakar Kapor
 5404041_,Ladang Malakoff
 5503034_,Permatang Binjai
 26186,Permatang Tok Jaya
@@ -151,6 +149,7 @@ JELUTUNG,Sg. Jelutung di Jalan Gangsa
 4807016_,Bukit Larut
 TGPIANDANG,Tanjung Piandang
 5006021_,Kolam Air Bukit Merah
+5610063_,Kg. Lalang
 5513001_,Tasik Temengor di Banding
 5411066_,Sg. Perak di Kuala Kenderong
 5210069_,Lawin
@@ -203,6 +202,7 @@ PARIT1SGBESAR,Parit Satu Sg. Besar
 TALIAIR9,Tali Air 9 Sg. Panjang
 FDCSEKINCHAN,FDC Sekinchan
 IBUBKLSGTENGI,Ibu Bekalan Sg. Tengi
+PATGKARANG,P/A Pekan Tg. Karang
 STORJPSTGKARANG,Stor JPS Tg. Karang
 PRT1SB,Parit 1 Sg. Burong
 3414032_,Sg. Selangor di Rantau Panjang
@@ -263,6 +263,7 @@ PANDAMARAN,P/A Pandamaran
 3117482_,Sg. Ampang di Kg. Lembah Jaya Utara
 3218101_,Sg. Langat di TNB Pangsun
 3118104_,Sg. Langat di Batu 20
+3018104_,Sg. Langat di Batu 15
 3017081_,Sg. Raya di Batu 9
 KGBARUBALAKONG,Sg. Balak di Kg. Baru Balakong
 TMNTTDIGROVEKAJANG,Sg. Jelok di Taman TTDI Grove
@@ -348,7 +349,6 @@ NSBN0034,Bandar Baru Nilai
 2421001_,Sg. Rembau di Titian Bintangor
 2421005_,Kg. Semerbok
 _NJLB0003,Kg. Ulu Klawang
-2820011_,Kg. Ulu Klawang
 2920032_,Sg. Triang di Kg. Chenor
 _NJLB0008,Kg. Relai di Kg. Baharu
 3020016_,Kg. Chennah
@@ -499,10 +499,12 @@ SGTIRAM,Sg. Tiram di Ulu Tiram
 LDGLIMLIM,Ladang Lim Lim
 1836001_,Ulu Sebol
 25925,Ladang Pekan
+1836146_,Sg. Linggiu di Linggiu
 1836147_,Sg. Sayong
 1737001_,Bukit Besar
 1838149_,Air Terjun Kota Tinggi
 25924,Kg. Semanggar
+1738001_,Sg. Johor di Kota Tinggi
 PASAK,Pasak
 1738132_,Ladang Nam Heng
 1542001_,Bandar Penawar
@@ -572,7 +574,6 @@ _CMRN0025,Sg. Kundang di Jam. Sg. Kundang
 _CMRN0031,Pusat Latihan JAKOA KM. 56 (Bt. 34)
 _CPKN0040,Sg. Pahang di Kuala Sg. Chini
 3428001_,Sg. Pahang di Kuala Sg. Chini
-_CPKN0042,Kg. Salong
 _CPKN0132,Batu Gong
 _CPKN0002,Sg. Pahang di Paloh Hinai
 3431099,Sg. Pahang di Paloh Inai
@@ -770,6 +771,7 @@ KCHCITYSOUTH,Kuching City South
 1812001_,Roban
 1911001_,Sessang II (Alit)
 1811007_,Kabong
+1737001,Telok Ngelengkung
 1947001_,Long Unai
 2346001_,Long Lidam
 1834001_,Long Busang
