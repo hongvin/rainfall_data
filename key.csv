@@ -1,8 +1,8 @@
 0,1
-26361,Sg. Arau di Kolam Sg. Jernih
 26363,Sg. Arau di Felda
 26441,Sg. Perlis di Padang Katong
 26442,Sg. Perlis di Rumah Pam Kuala Perlis
+26361,Sg. Arau di Kolam Sg. Jernih
 6601001_,Sg.Pelarit di Wang Kelian
 6602002_,Sg. Pelarit di Kaki Bukit
 6603002_,Padang Besar
@@ -230,6 +230,7 @@ BT10GOMBAK,Sg. Gombak di Batu 10
 3117080_,Bukit Antarabangsa
 3117081_,Puncak Atheneum
 KMSB,Kg. Melayu Sg. Buloh
+3115080_,Sg. Buloh di Paya Jaras
 PAYAJARASHILIR,Paya Jaras Hilir
 3114087_,Empangan Tasik Subang Meru
 26039,Sg. Bakul di Kg. Budiman
@@ -351,6 +352,7 @@ _NJLB0003,Kg. Ulu Klawang
 2920032_,Sg. Triang di Kg. Chenor
 _NJLB0008,Kg. Relai di Kg. Baharu
 3020016_,Kg. Chennah
+2922018_,Ladang Pertang
 _NJLB0011,MARDI Jelebu
 3022431_,Sg. Triang di Kg. Juntai
 _NJPL0002,Sg. Serting di Kg. Datok Johan
@@ -497,7 +499,6 @@ SGTIRAM,Sg. Tiram di Ulu Tiram
 LDGLIMLIM,Ladang Lim Lim
 1836001_,Ulu Sebol
 25925,Ladang Pekan
-1836146_,Sg. Linggiu di Linggiu
 1836147_,Sg. Sayong
 1737001_,Bukit Besar
 1838149_,Air Terjun Kota Tinggi
@@ -563,6 +564,7 @@ _CTMH0370,Ladang Sg. Mai
 _CBER0030,Ladang Karmen
 2924096_,Glendale
 _CBER0021,Pos Iskandar
+_CBER0023,Pej. Ramsar
 _CMRN0027,Felda Kg. Awah
 _CMRN0147,Sek. Keb. Kuala Sentul
 _CMRN0025,Sg. Kundang di Jam. Sg. Kundang
@@ -646,6 +648,7 @@ MERCHANG,Sek. Men. Keb.  Merchang
 4233453_,Sg. Kemaman di Rumah Pam Paya Paman
 4234109_,JPS Kemaman
 TKMN0007,Yak Yah
+4434093_,Sek. Men. Badrul Alam Shah
 223810321017,Ladang Mentara
 26286,Rumah Pam JPS Meranti
 26296,Jambatan Melor
@@ -725,6 +728,7 @@ KCHCITYSOUTH,Kuching City South
 26130,Tebakang
 1105035_,Semuja Nonok
 907001_,Krangan Trusan
+1105027_,Serian
 1007040_,Balai Ringin
 1503009_,Mid Sungai Kuap
 1404049_,Paya Paloh
@@ -764,8 +768,8 @@ KCHCITYSOUTH,Kuching City South
 26128,Kaki Wong
 1713005_,Saratok DID
 1812001_,Roban
+1911001_,Sessang II (Alit)
 1811007_,Kabong
-1737001,Telok Ngelengkung
 1947001_,Long Unai
 2346001_,Long Lidam
 1834001_,Long Busang
@@ -826,7 +830,6 @@ KCHCITYSOUTH,Kuching City South
 2412001_,Paloh Bangau
 2514005_,Daro
 2615009_,Matu
-2817001_,Igan
 2321066_,Sekuau
 2819001_,Sungai Talau
 2323002_,Rumah Jugah
