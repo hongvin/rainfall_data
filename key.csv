@@ -52,8 +52,8 @@ SEKKEBLAMDIN,Sek. Keb. Lamdin
 6106180_,Sg. Naka di Naka
 26165,Sg. Tekai di Kg. Sireh
 6205180_,Sg. Padang Terap di Kuala Nerang
-FELCRATAMPOI,Felcra Bukit Tampoi
 6306035_,Sg. Durian Burung di Durian Burung
+FELCRATAMPOI,Felcra Bukit Tampoi
 SEKKEBKGBUKIT,Sek. Keb. Kampung Bukit
 26048,Sg. Anak Bukit di Taman Aman
 6103147_,Rumah Pam Sg. Raja
@@ -79,7 +79,6 @@ BERIS,Empangan Beris (State)
 26145,Sg. Ketil di Jambatan Titian Ilham
 5508001_,Kg. Iboi Kupang
 5608073_,Sg. Ketil di Kuala Pegang
-5607002_,Sg. Ketil di Kg. Padang Pulai
 5607001_,SMK Parit Panjang
 5606001_,Sg. Sedim di Kg. Sedim
 26144,Sg. Muda di Jambatan Jeniang
@@ -146,7 +145,6 @@ JELUTUNG,Sg. Jelutung di Jalan Gangsa
 26188,Sg. Teluk Kumbar di Teluk Kumbar
 26337,Klinik Bkt. Bendera at P. Pinang
 5108005_,Sg. Ijok di Bekalan Ijok
-4907020_,Sg. Kurau di Bt. 14 Batu Kurau
 4807016_,Bukit Larut
 TGPIANDANG,Tanjung Piandang
 5006021_,Kolam Air Bukit Merah
@@ -226,6 +224,7 @@ KGSETIA,Kg. Setia Kuang
 TMNDESAKUNDANG,Taman Desa Kundang
 BATUARANG,Batu Arang
 3216066_,Selayang Baru
+3216067_,Sg. Batu di Batu Caves
 BT10GOMBAK,Sg. Gombak di Batu 10
 3117080_,Bukit Antarabangsa
 3117081_,Puncak Atheneum
@@ -414,7 +413,6 @@ LDGSGSEGAMAT,Ladang Sg. Gemas
 25894,Felda Pemanis
 LDGPAYALANG,Ladang Paya Lang
 2526004_,Sg. Muar di Buloh Kasap
-2430002_,Empangan Juaseh
 JHR-AIRPANAS,Air Panas
 REDONG,Felda Redong
 2530001_,Sg. Segamat di Segamat Kecil
@@ -499,7 +497,6 @@ SGTIRAM,Sg. Tiram di Ulu Tiram
 LDGLIMLIM,Ladang Lim Lim
 1836001_,Ulu Sebol
 25925,Ladang Pekan
-1836146_,Sg. Linggiu di Linggiu
 1836147_,Sg. Sayong
 1737001_,Bukit Besar
 1838149_,Air Terjun Kota Tinggi
@@ -659,6 +656,7 @@ _DGMG0014,Kg. Pulai
 4923001_DGMG0022,Kg. Aring
 _DGMG0104,Sek. Keb. Chalil
 _DTMH0002,Ladang Kerilla
+_DMCG0215,Kusial
 25932,Pej. Pertanian Btg. Merbau at Kelantan
 _DMCG0001,Kg. Temangan
 _DMCG0005,JPS Machang
