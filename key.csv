@@ -1,8 +1,8 @@
 0,1
+26361,Sg. Arau di Kolam Sg. Jernih
 26363,Sg. Arau di Felda
 26441,Sg. Perlis di Padang Katong
 26442,Sg. Perlis di Rumah Pam Kuala Perlis
-26361,Sg. Arau di Kolam Sg. Jernih
 6601001_,Sg.Pelarit di Wang Kelian
 6602002_,Sg. Pelarit di Kaki Bukit
 6603002_,Padang Besar
@@ -79,6 +79,7 @@ BERIS,Empangan Beris (State)
 26145,Sg. Ketil di Jambatan Titian Ilham
 5508001_,Kg. Iboi Kupang
 5608073_,Sg. Ketil di Kuala Pegang
+5607002_,Sg. Ketil di Kg. Padang Pulai
 5607001_,SMK Parit Panjang
 5606001_,Sg. Sedim di Kg. Sedim
 26144,Sg. Muda di Jambatan Jeniang
@@ -105,7 +106,6 @@ JPSKULIM,JPS Kulim
 5307101_,Sg. Kerian di Mahang
 5206105_,Pekan Serdang
 25959,Rumah Penjaga Jps at Parit Nibong Kedah
-25662,Empangan Padang Saga
 26330,Kedah Peak at Kedah
 26331,Workshop Sg. Petani
 5505413_,Sg. Muda di Pinang Tunggal
@@ -229,7 +229,6 @@ BT10GOMBAK,Sg. Gombak di Batu 10
 3117080_,Bukit Antarabangsa
 3117081_,Puncak Atheneum
 KMSB,Kg. Melayu Sg. Buloh
-3115080_,Sg. Buloh di Paya Jaras
 PAYAJARASHILIR,Paya Jaras Hilir
 3114087_,Empangan Tasik Subang Meru
 26039,Sg. Bakul di Kg. Budiman
@@ -497,6 +496,7 @@ SGTIRAM,Sg. Tiram di Ulu Tiram
 LDGLIMLIM,Ladang Lim Lim
 1836001_,Ulu Sebol
 25925,Ladang Pekan
+1836146_,Sg. Linggiu di Linggiu
 1836147_,Sg. Sayong
 1737001_,Bukit Besar
 1838149_,Air Terjun Kota Tinggi
@@ -758,13 +758,11 @@ KCHCITYSOUTH,Kuching City South
 1111008_,Pantu
 1311003_,Lingga
 1616021_,Nanga Tiga
-1415001_,Nanga Lubau
 1615023_,Batu Danau
 1415004_,Betong
 1514001_,Debak
 26129,Pusa
 1611001_,JPS Beladin
-1610001_,Maludam
 26128,Kaki Wong
 1713005_,Saratok DID
 1812001_,Roban
@@ -792,13 +790,10 @@ KCHCITYSOUTH,Kuching City South
 1834002_,Gaat B
 2029002_,Kapit New Headworks
 2029003_,Kapit Town
-2026001_,Nanga Sebatu
 1726041_,Nanga Bangkit
 2025012_,Song B
-1521001_,Sungai Nawang
 1624001_,Rumah Andau
 1823001_,Nanga Jagau
-1821001_,Uka
 2023001_,Nanga Kabah
 2121001_,Kanowit Town
 2119001_,Durin Water Works
@@ -815,7 +810,6 @@ KCHCITYSOUTH,Kuching City South
 2218008_,Sungai Bidut
 2216001_,Lebaan
 2021001_,Renan Kemiding
-2024001_,Nanga Ngemah
 2323001_,Tusut
 2321001_,Stapang B
 2520052_,Tamin
@@ -830,7 +824,6 @@ KCHCITYSOUTH,Kuching City South
 2213001_,Sungai Maleng
 2412001_,Paloh Bangau
 2514005_,Daro
-2615009_,Matu
 2321066_,Sekuau
 2819001_,Sungai Talau
 2323002_,Rumah Jugah
@@ -838,11 +831,9 @@ KCHCITYSOUTH,Kuching City South
 2920005_,Mukah JKR
 2920037_,Mukah-Balingian OPS4
 2823001_,Dana
-3025001_,Kuala Balingian
 2530001,Rumah Maja
 2629401_,Muput
 2730001,Rumah Keseng
-2729055,Sangan
 2828025_,Tatau Town
 3028001_,Kuala Tatau
 3330001,Sungai Sebatang
@@ -872,13 +863,11 @@ KCHCITYSOUTH,Kuching City South
 4339001_,Miri Municipal Car Park
 3754007_,Bario
 3752001_,Pa Tik
-3950020_,Long Seridan
 4048001_,Mulu Airport
 3847035_,Long Atip
 3946001_,Long Terawan
 3945017_,Long Panai
 3152011_,Lio Matu
-3050015_,Long Moh
 2949001_,Long Jee
 3048026_,Long Anap
 3347003_,Long Akah
@@ -906,6 +895,7 @@ KCHCITYSOUTH,Kuching City South
 4653001_,Long Tengoa
 4752023_,Trusan
 4852002_,Sundar
+4854009_,Lawas Airfield
 4955021_,Merapok
 4954001_,Kuala Lawas
 220609250509,Vulanut
