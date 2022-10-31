@@ -52,13 +52,12 @@ SEKKEBLAMDIN,Sek. Keb. Lamdin
 6106180_,Sg. Naka di Naka
 26165,Sg. Tekai di Kg. Sireh
 6205180_,Sg. Padang Terap di Kuala Nerang
-FELCRATAMPOI,Felcra Bukit Tampoi
 6306035_,Sg. Durian Burung di Durian Burung
+FELCRATAMPOI,Felcra Bukit Tampoi
 SEKKEBKGBUKIT,Sek. Keb. Kampung Bukit
 26048,Sg. Anak Bukit di Taman Aman
 6103147_,Rumah Pam Sg. Raja
 KUBURPANJANG,Sg. Titi Kerbau di Kubur Panjang
-5905180_,Sg. Pendang di Pekan Pendang
 5905181_,Sg. Pendang di Pondok Chegar
 PAYAMADINSON,Kg. Paya Mat Inson
 6108001_,Kompleks Empangan Muda
@@ -202,7 +201,6 @@ PARIT1SGBESAR,Parit Satu Sg. Besar
 TALIAIR9,Tali Air 9 Sg. Panjang
 FDCSEKINCHAN,FDC Sekinchan
 IBUBKLSGTENGI,Ibu Bekalan Sg. Tengi
-PATGKARANG,P/A Pekan Tg. Karang
 STORJPSTGKARANG,Stor JPS Tg. Karang
 PRT1SB,Parit 1 Sg. Burong
 3414032_,Sg. Selangor di Rantau Panjang
@@ -311,6 +309,7 @@ KELANANG,Pintu Air Kelanang
 3114005_,Sg. Klang di Lembah Keramat
 3116074_,Sg. Klang di Leboh Pasar
 3016002_,Sg. Klang di Jambatan Petaling
+3117120_,Sg. Kerayong di Kg. Cheras Baru
 3016103_,Taman Desa (SMART)
 25701,Sg. Anak Gajah
 25083,Sg. Limau Manis
@@ -454,6 +453,7 @@ SMKMUNSHI,SMK Munshi Sulaiman
 25901,Sg. Paloh di Pekan Paloh
 2033003_,Sg. Mengkibol di Bandar Kluang
 SMKKAHANG,SMK Kahang
+1834125_,Ladang Renggam
 2230190_,Layang-Layang
 1932001_,Felda Air Hitam
 1832001_,Empangan Machap
@@ -467,6 +467,7 @@ JHR-KGSRIPAYA,Sg. Pontian Besar di Kg. Sri Paya
 26007,Puncak Gunung Pulai
 KGKABONG,Sg. Pontian Besar di Kg. Kabong
 25919,Sg. Ayer Hitam di Kg. Paya Embun
+JHR-PPTSALLEH,Pintu Air Parit Salleh
 25918,PPPB Benut
 25750,Sg. Pulai di Kg. Ulu Pulai
 LADANGKUKUP,Ladang Kukup
@@ -657,7 +658,6 @@ _DPMS0003,Rantau Panjang
 _DKBR0008,IPMI Zon Timur
 _DKBR0007,Tambatan DRaja
 6121068_DTPT0001,Tumpat
-_DPMS0008,Kg. Jambu (Kuala Jambu)
 25098,Pak Badol
 25881,Serdang at Gunong Barat Bachok
 25883,Tok Ajam at Kelantan
@@ -869,7 +869,6 @@ KCHCITYSOUTH,Kuching City South
 4854009_,Lawas Airfield
 4955021_,Merapok
 4954001_,Kuala Lawas
-220609250509,Vulanut
 225709220509,Inanam Met. Stn. At Sabah
 26302,Beluran At Sabah
 26304,Basai At Sabah
@@ -898,5 +897,6 @@ SKBU0001,Lawa Mondou
 5352101_,Bukit Kuda
 5252101_,Kinabenua
 25267,Ganggarak
+5255105_,Waterfront
 5351001_,Sg. Lada
 LLBN0010,Empangan Kerupang
