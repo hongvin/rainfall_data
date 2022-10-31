@@ -1,9 +1,9 @@
 0,1
+26361,Sg. Arau di Kolam Sg. Jernih
 26363,Sg. Arau di Felda
 26441,Sg. Perlis di Padang Katong
 26442,Sg. Perlis di Rumah Pam Kuala Perlis
-26361,Sg. Arau di Kolam Sg. Jernih
-6601001_,Sg.Pelarit di Wang Kelian
+6601001_,Sg. Pelarit di Wang Kelian
 6602002_,Sg. Pelarit di Kaki Bukit
 6603002_,Padang Besar
 6602404_,Sg. Chuchoh di Kg. Chantik
@@ -52,8 +52,8 @@ SEKKEBLAMDIN,Sek. Keb. Lamdin
 6106180_,Sg. Naka di Naka
 26165,Sg. Tekai di Kg. Sireh
 6205180_,Sg. Padang Terap di Kuala Nerang
-6306035_,Sg. Durian Burung di Durian Burung
 FELCRATAMPOI,Felcra Bukit Tampoi
+6306035_,Sg. Durian Burung di Durian Burung
 SEKKEBKGBUKIT,Sek. Keb. Kampung Bukit
 26048,Sg. Anak Bukit di Taman Aman
 6103147_,Rumah Pam Sg. Raja
@@ -406,6 +406,7 @@ REDONG,Felda Redong
 2529001_,Sg. Juaseh di Felda Kemelah
 2528002_,Sg. Segamat di Bandar Segamat
 25896,Sg. Genuang
+2426006_,Jementah
 KGGATOM,Sg. Labis di Kg. Gatom
 2330009_,LPP Labis
 2229001_,Felda Maokil
@@ -557,6 +558,7 @@ _CMRN0025,Sg. Kundang di Jam. Sg. Kundang
 _CMRN0031,Pusat Latihan JAKOA KM. 56 (Bt. 34)
 _CPKN0040,Sg. Pahang di Kuala Sg. Chini
 3428001_,Sg. Pahang di Kuala Sg. Chini
+_CPKN0042,Kg. Salong
 _CPKN0132,Batu Gong
 _CPKN0002,Sg. Pahang di Paloh Hinai
 3431099,Sg. Pahang di Paloh Inai
@@ -574,12 +576,12 @@ _CPKN0047,Kg. Temai Hilir
 2630001_,Sg. Pukin
 25090,Ulu Sg. Chanis di Pahang
 25830,Kg. Gambir at Pahang
+25885,Sg. Keratong at Jam. Bahau Keratong
 25093,Sg. Kepasing di Pahang
 26114,Balai Bomba Muadzam Shah
 25835,S.K. Leban Chondong at Pahang
 25874,Emp. Pontian Pahang
 2636182_,Sg. Endau di Tanjung Gemuk
-222910501017,JPS Marang
 26491,Kalabe
 26492,Stesen Pertanian Ajil
 5424001_,Sg. Besut di Jambatan Keruak
@@ -751,6 +753,7 @@ KCHCITYSOUTH,Kuching City South
 26128,Kaki Wong
 1713005_,Saratok DID
 1812001_,Roban
+1911001_,Sessang II (Alit)
 1811007_,Kabong
 1737001,Telok Ngelengkung
 1947001_,Long Unai
@@ -769,9 +772,7 @@ KCHCITYSOUTH,Kuching City South
 1834002_,Gaat B
 2029002_,Kapit New Headworks
 2029003_,Kapit Town
-1726041_,Nanga Bangkit
 2025012_,Song B
-1624001_,Rumah Andau
 1823001_,Nanga Jagau
 2023001_,Nanga Kabah
 2121001_,Kanowit Town
@@ -842,7 +843,6 @@ KCHCITYSOUTH,Kuching City South
 3945017_,Long Panai
 3152011_,Lio Matu
 2949001_,Long Jee
-3048026_,Long Anap
 3347003_,Long Akah
 3547001_,Long Luteng
 3744009_,Long Lama
@@ -854,6 +854,7 @@ KCHCITYSOUTH,Kuching City South
 3941001_,Beluru
 4442001,Tanjung Jaye
 4151017_,Long Napir
+4250001_,Setuan
 4248001_,Ulu Medalam
 4448001_,Nanga Insungai
 25538,Nanga Medamit
@@ -897,6 +898,5 @@ SKBU0001,Lawa Mondou
 5352101_,Bukit Kuda
 5252101_,Kinabenua
 25267,Ganggarak
-5255105_,Waterfront
 5351001_,Sg. Lada
 LLBN0010,Empangan Kerupang
