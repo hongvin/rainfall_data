@@ -1,9 +1,4 @@
 0,1
-26363,Sg. Arau di Felda
-26441,Sg. Perlis di Padang Katong
-26442,Sg. Perlis di Rumah Pam Kuala Perlis
-26443,Lubuk Sireh
-26361,Sg. Arau di Kolam Sg. Jernih
 6601001_,Sg. Pelarit di Wang Kelian
 6602002_,Sg. Pelarit di Kaki Bukit
 6603002_,Padang Besar
@@ -23,9 +18,14 @@
 6402010_,Sg. Perlis di Kg. Sg. Bakau
 25951,Kg. Behor Lateh at Perlis
 25941,Kuala Perlis at Perlis
-26335,Arau at Perlis
-25398,KAKI BUKIT AT PERLIS
+26443,Lubuk Sireh
 25400,PADANG BESAR AT PERLIS
+25398,KAKI BUKIT AT PERLIS
+26441,Sg. Perlis di Padang Katong
+26442,Sg. Perlis di Rumah Pam Kuala Perlis
+26361,Sg. Arau di Kolam Sg. Jernih
+26335,Arau at Perlis
+26363,Sg. Arau di Felda
 6398141_,Gunung Raya
 6397116_,Hulu Empangan Saga
 6397112_,Empangan Padang Saga
@@ -107,9 +107,9 @@ JPSKULIM,JPS Kulim
 5307101_,Sg. Kerian di Mahang
 5206105_,Pekan Serdang
 25959,Rumah Penjaga Jps at Parit Nibong Kedah
-26330,Kedah Peak at Kedah
-26331,Workshop Sg. Petani
 25662,Empangan Padang Saga
+26331,Workshop Sg. Petani
+26330,Kedah Peak at Kedah
 5505413_,Sg. Muda di Pinang Tunggal
 5505033_,Rumah Pam Pinang Tunggal
 5504035_,Lahar Ikan Mati
@@ -307,7 +307,6 @@ KELANANG,Pintu Air Kelanang
 2813401_,Bt. 7 Sijangkang
 25939,RS Batu 8
 2615180_,Sg. Kundang di Kg. Kundang
-26497,Kg. Berembang (SMART)
 3317004_,Genting Sempah
 3117180_,Gombak Simpang 3
 3217117_,Lembah Jaya
@@ -319,6 +318,7 @@ KELANANG,Pintu Air Kelanang
 3016002_,Sg. Klang di Jambatan Petaling
 3117120_,Sg. Kerayong di Kg. Cheras Baru
 3016103_,Taman Desa (SMART)
+26497,Kg. Berembang (SMART)
 25701,Sg. Anak Gajah
 25083,Sg. Limau Manis
 2522007_,Felcra Lenggeng
@@ -446,13 +446,13 @@ _CLPS0033,Balai Polis Merapoh
 4219001_CLPS0001,Sg. Jelai di Bukit Betong
 _CLPS0015,Ladang Benta
 _CLPS0042,Hospital Lipis
+_CJRT0045,Sek. Keb. Kg. Pagi
 4324001_CJRT0003,Sg. Tembeling di Kuala Tahan
 _CJRT0041,Ulu Tekai A
 _CJRT0002,Sg. Tembeling di Kg. Merting
 _CJRT0039,Kg. Chebong
 4023001_CJRT0001,Sg. Pahang di Sg. Yap
 _CJRT0025,Kg. Bharu
-_CJRT0032,Sg. Pahang di Jerantut Feri
 _CJRT0022,Paya Gintong
 _CRAU0049,Felda Tersang 2
 _CRAU0046,Batu Malim
@@ -504,8 +504,6 @@ _CKTN0004,Ladang Ulu Lepar
 25835,S.K. Leban Chondong at Pahang
 25874,Emp. Pontian Pahang
 2636182_,Sg. Endau di Tanjung Gemuk
-26491,Kalabe
-26492,Stesen Pertanian Ajil
 5424001_,Sg. Besut di Jambatan Keruak
 5524001_,Sg. Besut di Kg. La
 5625003_,Empangan Paya Peda
@@ -557,10 +555,8 @@ MERCHANG,Sek. Men. Keb.  Merchang
 4234109_,JPS Kemaman
 TKMN0007,Yak Yah
 4434093_,Sek. Men. Badrul Alam Shah
-223810321017,Ladang Mentara
-26286,Rumah Pam JPS Meranti
-26292,Kg. Pulau Lima
-26296,Jambatan Melor
+26491,Kalabe
+26492,Stesen Pertanian Ajil
 _DGMG0014,Kg. Pulai
 _DGMG0018,Upper Chiku
 4726001_DGMG0020,Gunung Gagau 1
@@ -576,20 +572,22 @@ _DMCG0215,Kusial
 25932,Pej. Pertanian Btg. Merbau at Kelantan
 _DMCG0001,Kg. Temangan
 _DMCG0005,JPS Machang
-6021065_DPMS0001,Sg. Kelantan di Air Mulih
 25930,Rumah Pam Repek at Kelantan
 25931,Kg. Tandak (Bkt. P.Junu at Kelantan)
 25368,Emp. Bukit Kwong
 _DPMS0003,Rantau Panjang
 _DKBR0008,IPMI Zon Timur
 _DKBR0007,Tambatan DRaja
-6121068_DTPT0001,Tumpat
 25098,Pak Badol
 25881,Serdang at Gunong Barat Bachok
 25883,Tok Ajam at Kelantan
 25882,Kg. Wakaf Raja at Kelantan
-26281,Kg. Air Satan
 26285,SM Cherang Ruku
+223810321017,Ladang Mentara
+26281,Kg. Air Satan
+26286,Rumah Pam JPS Meranti
+26296,Jambatan Melor
+26292,Kg. Pulau Lima
 1599001_,Ulu Batang Kayan
 1698007_,Lundu
 1996090_,Samunsam
@@ -611,9 +609,7 @@ _DKBR0007,Tambatan DRaja
 1401006_,Bau Bridge
 1402002_,Siniawan
 1402048_,Batu Kitang Telemetry
-1502005_,Batu Kawa Bridge
 1403001_,Kuching Airport
-1502003_,Kampung Sagah
 1503013_,Maong Tengah Kiri
 1503004_,Kuching Saberkas
 26125,Ulu Maong
@@ -624,7 +620,6 @@ KCHCITYSOUTH,Kuching City South
 1603002_,Siol JPS
 1603001_,Semariang Fisheries
 1504001_,Barrage
-1502006_,Sungai Tengah
 1502004_,Malihah
 1502026,Matang
 1502001_,Sebubut
@@ -693,6 +688,7 @@ KCHCITYSOUTH,Kuching City South
 2442001_,Long Laku
 3041002_,Long Urun
 2939045_,Long Sambop
+2939002_,Sambop B
 2737002_,Giam Pasang B
 2737103_,Belaga
 2333002_,Punan Bah B
@@ -703,12 +699,11 @@ KCHCITYSOUTH,Kuching City South
 1836042_,Nanga Entawau
 1731001_,Nanga Balang
 1834002_,Gaat B
-2029002_,Kapit New Headworks
-2029003_,Kapit Town
 2026001_,Nanga Sebatu
 1726041_,Nanga Bangkit
 2025012_,Song B
 1521001_,Sungai Nawang
+1624001_,Rumah Andau
 1823001_,Nanga Jagau
 1821001_,Uka
 2023001_,Nanga Kabah
@@ -822,16 +817,6 @@ KCHCITYSOUTH,Kuching City South
 4854009_,Lawas Airfield
 4955021_,Merapok
 4954001_,Kuala Lawas
-220609250509,Vulanut
-225709220509,Inanam Met. Stn. At Sabah
-26302,Beluran At Sabah
-26304,Basai At Sabah
-26309,Kaiduan At Sabah
-26310,Malangkap&
-26312,Sg. Moyog At Penampang
-26316,Matungong
-26319,Kiulu At Sabah
-5261402_,Sg. Sook di Biah
 4658001_,Bakuku
 5357003_,Sg. Padas di Beaufort JPS
 5663002_,Sg. Pegalan di Keranaan
@@ -843,6 +828,16 @@ SKBU0001,Lawa Mondou
 5478003_,Sg. Kinabatangan di Barek Manis
 5083001_,Lahad Datu
 4278005_,Kuhara
+26304,Basai At Sabah
+26302,Beluran At Sabah
+5261402_,Sg. Sook di Biah
+26310,Malangkap&
+225709220509,Inanam Met. Stn. At Sabah
+26316,Matungong
+26309,Kaiduan At Sabah
+26312,Sg. Moyog At Penampang
+220609250509,Vulanut
+26319,Kiulu At Sabah
 25141,Sg. Bangat di Kg. Sg. Bangat
 25489,Empangan Sg. Pagar
 25140,Rancha-Rancha
