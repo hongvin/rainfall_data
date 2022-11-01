@@ -57,7 +57,6 @@ SEKKEBLAMDIN,Sek. Keb. Lamdin
 FELCRATAMPOI,Felcra Bukit Tampoi
 SEKKEBKGBUKIT,Sek. Keb. Kampung Bukit
 26048,Sg. Anak Bukit di Taman Aman
-6103147_,Rumah Pam Sg. Raja
 KUBURPANJANG,Sg. Titi Kerbau di Kubur Panjang
 5905180_,Sg. Pendang di Pekan Pendang
 5905181_,Sg. Pendang di Pondok Chegar
@@ -153,7 +152,6 @@ SGDUA,Sg. Dua di Kg. Dua Bukit
 4807016_,Bukit Larut
 TGPIANDANG,Tanjung Piandang
 5006021_,Kolam Air Bukit Merah
-5610063_,Kg. Lalang
 5513001_,Tasik Temengor di Banding
 5411066_,Sg. Perak di Kuala Kenderong
 5210069_,Lawin
@@ -420,7 +418,6 @@ JHR-PPTSALLEH,Pintu Air Parit Salleh
 26050,Sg. Gelang Patah di Kg. Baru Muafakat
 SGMASAI,Sg. Masai di Masai
 SGTIRAM,Sg. Tiram di Ulu Tiram
-1836146_,Sg. Linggiu di Linggiu
 1836147_,Sg. Sayong
 1838149_,Air Terjun Kota Tinggi
 1738132_,Ladang Nam Heng
@@ -557,6 +554,7 @@ TKMN0007,Yak Yah
 4434093_,Sek. Men. Badrul Alam Shah
 26491,Kalabe
 26492,Stesen Pertanian Ajil
+222910501017,JPS Marang
 _DGMG0014,Kg. Pulai
 _DGMG0018,Upper Chiku
 4726001_DGMG0020,Gunung Gagau 1
@@ -572,12 +570,14 @@ _DMCG0215,Kusial
 25932,Pej. Pertanian Btg. Merbau at Kelantan
 _DMCG0001,Kg. Temangan
 _DMCG0005,JPS Machang
+6021065_DPMS0001,Sg. Kelantan di Air Mulih
 25930,Rumah Pam Repek at Kelantan
 25931,Kg. Tandak (Bkt. P.Junu at Kelantan)
 25368,Emp. Bukit Kwong
 _DPMS0003,Rantau Panjang
 _DKBR0008,IPMI Zon Timur
 _DKBR0007,Tambatan DRaja
+6121068_DTPT0001,Tumpat
 25098,Pak Badol
 25881,Serdang at Gunong Barat Bachok
 25883,Tok Ajam at Kelantan
@@ -606,10 +606,11 @@ _DKBR0007,Tambatan DRaja
 1400002_,Sungai Opar
 1401005_,Bau
 1605001_,Kampung Similang
-1401006_,Bau Bridge
 1402002_,Siniawan
 1402048_,Batu Kitang Telemetry
+1502005_,Batu Kawa Bridge
 1403001_,Kuching Airport
+1502003_,Kampung Sagah
 1503013_,Maong Tengah Kiri
 1503004_,Kuching Saberkas
 26125,Ulu Maong
@@ -620,6 +621,7 @@ KCHCITYSOUTH,Kuching City South
 1603002_,Siol JPS
 1603001_,Semariang Fisheries
 1504001_,Barrage
+1502006_,Sungai Tengah
 1502004_,Malihah
 1502026,Matang
 1502001_,Sebubut
@@ -699,6 +701,8 @@ KCHCITYSOUTH,Kuching City South
 1836042_,Nanga Entawau
 1731001_,Nanga Balang
 1834002_,Gaat B
+2029002_,Kapit New Headworks
+2029003_,Kapit Town
 2026001_,Nanga Sebatu
 1726041_,Nanga Bangkit
 2025012_,Song B
@@ -753,7 +757,6 @@ KCHCITYSOUTH,Kuching City South
 2729055,Sangan
 2828025_,Tatau Town
 3028001_,Kuala Tatau
-3330001,Sungai Sebatang
 2834001_,Panai Binion
 3137021_,Tubau
 2836001_,Bintulu/Belaga Road
