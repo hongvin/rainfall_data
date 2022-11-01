@@ -43,6 +43,7 @@ MALAU,SK Malau
 WANGTEPUS,Wang Tepus
 6204004_,Sg. Padang Terap di Kepala Batas
 25962,Stn. Keretapi Tunjang at Kedah
+6307180_,Empangan Ahning
 6205481_,Sg. Padang Terap di Kg. Kubu
 6306180_,Sg. Padang Sanai di Padang Sanai
 PADANGSANAI,Sg. Padang Sanai di Pdg. Sanai
@@ -106,9 +107,9 @@ JPSKULIM,JPS Kulim
 5307101_,Sg. Kerian di Mahang
 5206105_,Pekan Serdang
 25959,Rumah Penjaga Jps at Parit Nibong Kedah
-25662,Empangan Padang Saga
 26330,Kedah Peak at Kedah
 26331,Workshop Sg. Petani
+25662,Empangan Padang Saga
 5505413_,Sg. Muda di Pinang Tunggal
 5505033_,Rumah Pam Pinang Tunggal
 5504035_,Lahar Ikan Mati
@@ -134,6 +135,7 @@ BATUKAWAN,Stadium Batu Kawan
 19340,Kolam Takungan Bukit Panchor
 5105051_,Kolam Takungan Bukit Panchor
 5105459_,Sg. Kecil
+BKTBENDERA,Bukit Bendera
 5302003_,Kolam Air Itam
 5302004_,Kolam Sg. Dondang
 5403001_,Lorong Batu Lanchang
@@ -141,6 +143,7 @@ JLNSCOTLAND,Sg. Air Itam di Jalan Scotland
 5403043_,Sg. Pinang di Jalan P. Ramlee
 JELUTUNG,Sg. Jelutung di Jalan Gangsa
 SGDUA,Sg. Dua di Kg. Dua Bukit
+5302407_,Sg. Ara
 5402003_,Empangan Teluk Bahang
 26189,Sg. Burong di Politeknik Balik Pulau
 26188,Sg. Teluk Kumbar di Teluk Kumbar
@@ -176,6 +179,7 @@ SGRAIA,Sg. Raia di Keramat Pulai
 25813,Sg. Perak di Kg. Terengganu
 3814160_,Ulu Slim
 3814158_,Sg. Bil
+3814159_,Sg. Slim di Slim River
 3717101_,Bukit Fraser
 3517022_,Kg. Pertak
 3516022_,Loji Air KKB
@@ -183,6 +187,7 @@ SGRAIA,Sg. Raia di Keramat Pulai
 3516025_,Sg. Selangor di Ampang Pecah
 3416027_,Sg. Batang Kali di Batang Kali
 3416001_,Sg. Liam di Ulu Yam
+3416002_,Kg. Kalong Tengah
 3316029_,Sg. Serendah di Serendah
 KOMPLEKSPEGHULUULUBERNAM,Kompleks Penghulu Hulu Bernam
 3615003_,Sg. Bernam di Tanjung Malim
@@ -206,6 +211,7 @@ STORJPSTGKARANG,Stor JPS Tg. Karang
 PRT1SB,Parit 1 Sg. Burong
 3414032_,Sg. Selangor di Rantau Panjang
 RPJS,Rumah Pam Jaya Setia
+KGASAHAN,Sg. Selangor di Kg. Asahan
 3312046_,Teluk Penyamun (Pintu Air)
 PASGYU1,P/A Sg. Yu 1
 3214056_,Sg. Buloh di Sri Aman
@@ -272,6 +278,7 @@ JPSHLGT,JPS Hulu Langat
 3119104_,Genting Peres
 3018103_,Sg. Semenyih di Kg. Pasir
 2918080_,Sg. Semenyih di Jalan Seri Tanjung
+BANDARRINCHING,Bandar Rinching
 2918106_,Sg. Semenyih di Rinching
 2817180_,Sg. Semenyih di Pekan Bangi Lama
 BERANANG,Sg. Beranang di Pekan Beranang
@@ -391,117 +398,32 @@ HOSPITALJASIN,Hospital Jasin
 2222003_,Lencongan Sg. Malim di Klebang Besar U/S
 2222005_,Lencongan Sg. Malim di Klebang Besar D/S
 2727001_,Balai Badang
-LDGSGSEGAMAT,Ladang Sg. Gemas
 25895,Sg. Muar di Muara Sg. Gemas
-2626003_,Sg. Muar di Kg. Awat
 2627001_,Sek. Keb. Spang Loi
 25893,Kg. Bangas
 25894,Felda Pemanis
-LDGPAYALANG,Ladang Paya Lang
-2526004_,Sg. Muar di Buloh Kasap
-JHR-AIRPANAS,Air Panas
-REDONG,Felda Redong
 2530001_,Sg. Segamat di Segamat Kecil
-2529001_,Sg. Juaseh di Felda Kemelah
-2528002_,Sg. Segamat di Bandar Segamat
-25896,Sg. Genuang
 2426006_,Jementah
-KGGATOM,Sg. Labis di Kg. Gatom
-2330009_,LPP Labis
 2229001_,Felda Maokil
-2230001_,SMK Chaah
-2130002_,Sg. Lenik di Kangkar Chaah
-2130001_,Sg. Lenik di Ladang Chaah
-2231001_,Ladang Chan Wing
-2028001_,Sg. Muar di Bukit Kepong
-2127001_,Sg. Muar di Kg. Olak Sepam
 2127074_,Sg. Muar di Panchor
 2127026_,Lubuk Bakul
-26120,Kg. Parit Wahid
 26119,Sg. Terap
-25905,Air Hitam Bt. 15
-26121,Kg. Parit Tengah
-25906,Ladang Air Manis
-26047,Parit Jawa
-2326025_,Gunung Ledang
 2326026_,Bukit Serampang
-PAYAMAS,Paya Mas
-SWHRING,Sawah Ring
-SIMP5DARAT,Sg. Belemang Besar di Simpang 5 Darat
 25907,Sg. Senduk
-25909,Pintu Air Tanjung Agas
-2225001_,Sg. Tangkak di Kg. Seri Makmur
-25908,Pintu Air Kesang
 25910,Ladang Lian Seng
-2030071_,Empangan Bekok
-LDGUNION,Ladang Union
-2130070_,Sg. Bekok di Bt. 77 Jln. Yong Peng
-2031069_,Ladang Yong Peng
-2031067_,Sg. Bekok di Bandar Yong Peng
-1931003_,Empangan Sembrong
-1931004_,Sg. Sembrong di Bt. 2 Sembrong
-1831480_,Sg. Sembrong di Parit Karjo
-25914,Sg. Simpang Kanan di Parit Besar
-25913,Sg. Simpang Kanan di Parit Belemam
-1929065_,Sg. Simpang Kiri di Sri Medan
-25916,Sg. Simpang Kiri di Parit Sulong
-25917,Sg. Simpang Kiri di Tebing Tinggi
-SMKMUNSHI,SMK Munshi Sulaiman
-1829078_,Sg. Batu Pahat di JPS Batu Pahat
-1730082_,Sg. Senggarang di Senggarang
-25912,Sg. Rengit di Rengit
-25901,Sg. Paloh di Pekan Paloh
-2033003_,Sg. Mengkibol di Bandar Kluang
-SMKKAHANG,SMK Kahang
 1834125_,Ladang Renggam
-2230190_,Layang-Layang
-1932001_,Felda Air Hitam
-1832001_,Empangan Machap
-1833124_,Sg. Benut di Simpang Renggam
 25902,Sg. Siam di Kg. Sg. Siam
 JHR-KGMURNIJAYA,Sg. Siku di Kg. Murni Jaya
-LADANGSEDENAK,Ladang Sedenak
-1636002_,Sg. Skudai di Kg. Separa
-25904,Sg. Skudai di Taman Aman
 JHR-KGSRIPAYA,Sg. Pontian Besar di Kg. Sri Paya
-26007,Puncak Gunung Pulai
-KGKABONG,Sg. Pontian Besar di Kg. Kabong
-25919,Sg. Ayer Hitam di Kg. Paya Embun
 JHR-PPTSALLEH,Pintu Air Parit Salleh
-25918,PPPB Benut
-25750,Sg. Pulai di Kg. Ulu Pulai
-LADANGKUKUP,Ladang Kukup
-26006,Kangkar Pulai
 26050,Sg. Gelang Patah di Kg. Baru Muafakat
-ISKANDARPUTERI,Iskandar Puteri
-KGLAUT,Sg. Skudai di Kg. Laut
-1537001_,Sg. Tebrau di Kg. Maju Jaya
-25737,Sg. Tebrau di Kg. Sri Pandan
-1538001_,Sg. Plentong di Kg. Plentong Baru
-1437116_,JPS Larkin
-25928,Pintu Air Kolam Air
 SGMASAI,Sg. Masai di Masai
 SGTIRAM,Sg. Tiram di Ulu Tiram
-LDGLIMLIM,Ladang Lim Lim
-1836001_,Ulu Sebol
 1836146_,Sg. Linggiu di Linggiu
 1836147_,Sg. Sayong
-1737001_,Bukit Besar
 1838149_,Air Terjun Kota Tinggi
-25924,Kg. Semanggar
-1738001_,Sg. Johor di Kota Tinggi
-PASAK,Pasak
 1738132_,Ladang Nam Heng
 1542001_,Bandar Penawar
-SILICA,Johor Silica
-BKTPELALI,Bukit Pelali
-25923,Felda Lok Heng
-25927,Sg. Sedili Kecil di Sedili Kecil
-25926,Sg. Sedili Besar di Kg. Mawai
-SKSEMPANG,Sek. Keb. Sempang
-2636170_,Stor JPS Endau
-WAKSALAM,Loji Air Wak Salam
-KGJEMARI,Jemari
 JHR-PENGBATU,Pengkalan Batu
 JHR-STORJPSMERSING,Stor JPS Mersing
 26149,Jalan Simpang Pulai
@@ -521,6 +443,7 @@ _CLPS0026,Kuala Medang
 _CLPS0033,Balai Polis Merapoh
 4620046_,Merapoh
 4219001_CLPS0001,Sg. Jelai di Bukit Betong
+_CLPS0015,Ladang Benta
 _CLPS0042,Hospital Lipis
 _CJRT0045,Sek. Keb. Kg. Pagi
 4324001_CJRT0003,Sg. Tembeling di Kuala Tahan
@@ -643,6 +566,7 @@ _DGMG0014,Kg. Pulai
 4923001_DGMG0022,Kg. Aring
 _DGMG0104,Sek. Keb. Chalil
 5621071_DJLI0001,Batu 13
+_DJLI0007,Kg. Lawar
 _DTMH0002,Ladang Kerilla
 _DMCG0215,Kusial
 25932,Pej. Pertanian Btg. Merbau at Kelantan
@@ -650,6 +574,7 @@ _DMCG0001,Kg. Temangan
 _DMCG0005,JPS Machang
 6021065_DPMS0001,Sg. Kelantan di Air Mulih
 25930,Rumah Pam Repek at Kelantan
+25931,Kg. Tandak (Bkt. P.Junu at Kelantan)
 25368,Emp. Bukit Kwong
 _DPMS0003,Rantau Panjang
 _DKBR0008,IPMI Zon Timur
@@ -735,6 +660,7 @@ KCHCITYSOUTH,Kuching City South
 1018002_,Lubok Antu
 1316001_,Enteban 2
 26127,Engkilili JKR Wharf
+1015001_,Batu Lintang
 1114019_,Temudok
 1114028_,Melugu
 1214003_,Sri Aman Telemetry
@@ -743,15 +669,16 @@ KCHCITYSOUTH,Kuching City South
 1111008_,Pantu
 1311003_,Lingga
 1616021_,Nanga Tiga
+1415001_,Nanga Lubau
 1615023_,Batu Danau
 1415004_,Betong
 1514001_,Debak
 26129,Pusa
 1611001_,JPS Beladin
+1610001_,Maludam
 26128,Kaki Wong
 1713005_,Saratok DID
 1812001_,Roban
-1911001_,Sessang II (Alit)
 1811007_,Kabong
 1737001,Telok Ngelengkung
 1947001_,Long Unai
@@ -773,7 +700,10 @@ KCHCITYSOUTH,Kuching City South
 1834002_,Gaat B
 2029002_,Kapit New Headworks
 2029003_,Kapit Town
+2026001_,Nanga Sebatu
+1726041_,Nanga Bangkit
 2025012_,Song B
+1521001_,Sungai Nawang
 1823001_,Nanga Jagau
 1821001_,Uka
 2023001_,Nanga Kabah
@@ -807,6 +737,7 @@ KCHCITYSOUTH,Kuching City South
 2213001_,Sungai Maleng
 2412001_,Paloh Bangau
 2514005_,Daro
+2615009_,Matu
 2321066_,Sekuau
 2819001_,Sungai Talau
 2323002_,Rumah Jugah
@@ -814,9 +745,11 @@ KCHCITYSOUTH,Kuching City South
 2920005_,Mukah JKR
 2920037_,Mukah-Balingian OPS4
 2823001_,Dana
+3025001_,Kuala Balingian
 2530001,Rumah Maja
 2629401_,Muput
 2730001,Rumah Keseng
+2729055,Sangan
 2828025_,Tatau Town
 3028001_,Kuala Tatau
 3330001,Sungai Sebatang
@@ -846,12 +779,15 @@ KCHCITYSOUTH,Kuching City South
 4339001_,Miri Municipal Car Park
 3754007_,Bario
 3752001_,Pa Tik
+3950020_,Long Seridan
 4048001_,Mulu Airport
 3847035_,Long Atip
 3946001_,Long Terawan
 3945017_,Long Panai
 3152011_,Lio Matu
+3050015_,Long Moh
 2949001_,Long Jee
+3048026_,Long Anap
 3347003_,Long Akah
 3547001_,Long Luteng
 3744009_,Long Lama
