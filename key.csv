@@ -145,6 +145,7 @@ JELUTUNG,Sg. Jelutung di Jalan Gangsa
 SGDUA,Sg. Dua di Kg. Dua Bukit
 5302407_,Sg. Ara
 5402003_,Empangan Teluk Bahang
+5302002_,Pintu Air Bagan Air Itam
 26189,Sg. Burong di Politeknik Balik Pulau
 26188,Sg. Teluk Kumbar di Teluk Kumbar
 26337,Klinik Bkt. Bendera at P. Pinang
@@ -445,7 +446,6 @@ _CLPS0033,Balai Polis Merapoh
 4219001_CLPS0001,Sg. Jelai di Bukit Betong
 _CLPS0015,Ladang Benta
 _CLPS0042,Hospital Lipis
-_CJRT0045,Sek. Keb. Kg. Pagi
 4324001_CJRT0003,Sg. Tembeling di Kuala Tahan
 _CJRT0041,Ulu Tekai A
 _CJRT0002,Sg. Tembeling di Kg. Merting
@@ -559,14 +559,18 @@ TKMN0007,Yak Yah
 4434093_,Sek. Men. Badrul Alam Shah
 223810321017,Ladang Mentara
 26286,Rumah Pam JPS Meranti
+26292,Kg. Pulau Lima
 26296,Jambatan Melor
 _DGMG0014,Kg. Pulai
+_DGMG0018,Upper Chiku
 4726001_DGMG0020,Gunung Gagau 1
 4824001_DGMG0021,Sg. Lebir di Kuala Koh
 4923001_DGMG0022,Kg. Aring
 _DGMG0104,Sek. Keb. Chalil
 5621071_DJLI0001,Batu 13
 _DJLI0007,Kg. Lawar
+_DJLI0002,Air Bol
+_DJLI0011,Sg. Lanas di Air Lanas
 _DTMH0002,Ladang Kerilla
 _DMCG0215,Kusial
 25932,Pej. Pertanian Btg. Merbau at Kelantan
@@ -696,6 +700,7 @@ KCHCITYSOUTH,Kuching City South
 1544001_,Long Singut
 2036001_,Tunoh Scheme
 2134001_,Nanga Tiau
+1836042_,Nanga Entawau
 1731001_,Nanga Balang
 1834002_,Gaat B
 2029002_,Kapit New Headworks
@@ -722,6 +727,7 @@ KCHCITYSOUTH,Kuching City South
 2218008_,Sungai Bidut
 2216001_,Lebaan
 2021001_,Renan Kemiding
+2024001_,Nanga Ngemah
 2323001_,Tusut
 2321001_,Stapang B
 2520052_,Tamin
