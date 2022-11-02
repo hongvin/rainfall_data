@@ -61,7 +61,6 @@ SEKKEBKGBUKIT,Sek. Keb. Kampung Bukit
 KUBURPANJANG,Sg. Titi Kerbau di Kubur Panjang
 5905180_,Sg. Pendang di Pekan Pendang
 5905181_,Sg. Pendang di Pondok Chegar
-PAYAMADINSON,Kg. Paya Mat Inson
 6108001_,Kompleks Empangan Muda
 6108180_,Empangan Muda
 6007064_,Sg. Muda di Titi Nami
@@ -149,6 +148,7 @@ SGDUA,Sg. Dua di Kg. Dua Bukit
 5302002_,Pintu Air Bagan Air Itam
 26189,Sg. Burong di Politeknik Balik Pulau
 26188,Sg. Teluk Kumbar di Teluk Kumbar
+26337,Klinik Bkt. Bendera at P. Pinang
 5108005_,Sg. Ijok di Bekalan Ijok
 4907020_,Sg. Kurau di Bt. 14 Batu Kurau
 4807016_,Bukit Larut
@@ -392,7 +392,6 @@ DRTUNGGAL,Sg. Melaka di Durian Tunggal (Upstream)
 2222412_,Sg. Melaka di Durian Tunggal (Downstream)
 HOSPITALJASIN,Hospital Jasin
 2225044_,Chohong
-2125002_,Sg. Kesang di Telok Rimba
 2223023_,Sg. Duyong
 2222006_,Cheng U/S
 2222007_,Cheng D/S
@@ -440,6 +439,7 @@ _CCHG0014,Sg. Tringkap di Tringkap
 C00001_,Sg. Bertam di SJK (C) Lembah Bertam
 C00002_,Sg. Bertam di Kg. Orang Asli Sg. Tiang
 _CLPS0029,Sg. Meldu
+_CLPS0026,Kuala Medang
 4218042_,Sg. Jelai di Kuala Medang
 _CLPS0033,Balai Polis Merapoh
 4620046_,Merapoh
@@ -529,6 +529,7 @@ _THTG0001,Sg. Telemong di Kenyir Elephant Village
 TOKADIS,Kg. Tok Adis
 _TKTG0002,Bukit Tumbuh
 5331010_,Sg. Terengganu di Bukit Tumbuh
+5331048_TKTG0004,Stor JPS Kuala Terengganu
 _TKTG0005,Sg. Terengganu di Rumah Pam Pulau Bahagia
 UMT,Universiti Malaysia Terengganu
 _TKTG0095,Universiti Malaysia Terengganu
