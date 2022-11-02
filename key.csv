@@ -57,8 +57,8 @@ SEKKEBLAMDIN,Sek. Keb. Lamdin
 FELCRATAMPOI,Felcra Bukit Tampoi
 SEKKEBKGBUKIT,Sek. Keb. Kampung Bukit
 26048,Sg. Anak Bukit di Taman Aman
+6103147_,Rumah Pam Sg. Raja
 KUBURPANJANG,Sg. Titi Kerbau di Kubur Panjang
-5905180_,Sg. Pendang di Pekan Pendang
 5905181_,Sg. Pendang di Pondok Chegar
 PAYAMADINSON,Kg. Paya Mat Inson
 6108001_,Kompleks Empangan Muda
@@ -134,6 +134,7 @@ BATUKAWAN,Stadium Batu Kawan
 19340,Kolam Takungan Bukit Panchor
 5105051_,Kolam Takungan Bukit Panchor
 5105459_,Sg. Kecil
+26185,"Lengkok Sg. Emas, Batu Feringghi"
 BKTBENDERA,Bukit Bendera
 5302003_,Kolam Air Itam
 5302004_,Kolam Sg. Dondang
@@ -152,6 +153,7 @@ SGDUA,Sg. Dua di Kg. Dua Bukit
 4807016_,Bukit Larut
 TGPIANDANG,Tanjung Piandang
 5006021_,Kolam Air Bukit Merah
+5610063_,Kg. Lalang
 5513001_,Tasik Temengor di Banding
 5411066_,Sg. Perak di Kuala Kenderong
 5210069_,Lawin
@@ -325,7 +327,6 @@ KELANANG,Pintu Air Kelanang
 NSBN0034,Bandar Baru Nilai
 2720041_,Kg. Bahru Pantai
 2719044_,SMK Tunku Ampuan Najihah
-2719001_,Setor JPS Negeri Sembilan
 2618002_,Sendayan
 2619002_,Seremban 2
 2619402_,Sg. Linggi di Kg. Mantau
@@ -418,6 +419,7 @@ JHR-PPTSALLEH,Pintu Air Parit Salleh
 26050,Sg. Gelang Patah di Kg. Baru Muafakat
 SGMASAI,Sg. Masai di Masai
 SGTIRAM,Sg. Tiram di Ulu Tiram
+1836146_,Sg. Linggiu di Linggiu
 1836147_,Sg. Sayong
 1838149_,Air Terjun Kota Tinggi
 1738132_,Ladang Nam Heng
@@ -553,13 +555,11 @@ MERCHANG,Sek. Men. Keb.  Merchang
 TKMN0007,Yak Yah
 4434093_,Sek. Men. Badrul Alam Shah
 26491,Kalabe
-26492,Stesen Pertanian Ajil
 222910501017,JPS Marang
 _DGMG0014,Kg. Pulai
 _DGMG0018,Upper Chiku
 4726001_DGMG0020,Gunung Gagau 1
 4824001_DGMG0021,Sg. Lebir di Kuala Koh
-4923001_DGMG0022,Kg. Aring
 _DGMG0104,Sek. Keb. Chalil
 5621071_DJLI0001,Batu 13
 _DJLI0007,Kg. Lawar
@@ -606,6 +606,7 @@ _DKBR0007,Tambatan DRaja
 1400002_,Sungai Opar
 1401005_,Bau
 1605001_,Kampung Similang
+1401006_,Bau Bridge
 1402002_,Siniawan
 1402048_,Batu Kitang Telemetry
 1502005_,Batu Kawa Bridge
@@ -757,6 +758,7 @@ KCHCITYSOUTH,Kuching City South
 2729055,Sangan
 2828025_,Tatau Town
 3028001_,Kuala Tatau
+3330001,Sungai Sebatang
 2834001_,Panai Binion
 3137021_,Tubau
 2836001_,Bintulu/Belaga Road
@@ -781,7 +783,6 @@ KCHCITYSOUTH,Kuching City South
 4440060_,Miri DID
 4339005_,Miri Airport
 4339001_,Miri Municipal Car Park
-3754007_,Bario
 3752001_,Pa Tik
 3950020_,Long Seridan
 4048001_,Mulu Airport
@@ -801,7 +802,6 @@ KCHCITYSOUTH,Kuching City South
 3441001_,Long Bantan
 3541033_,Long Jegan
 3842034_,Long Teru
-4143004_,Marudi
 3941001_,Beluru
 4442001,Tanjung Jaye
 4151017_,Long Napir
