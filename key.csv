@@ -279,7 +279,6 @@ JPSHLGT,JPS Hulu Langat
 3119104_,Genting Peres
 3018103_,Sg. Semenyih di Kg. Pasir
 2918080_,Sg. Semenyih di Jalan Seri Tanjung
-BANDARRINCHING,Bandar Rinching
 2918106_,Sg. Semenyih di Rinching
 2817180_,Sg. Semenyih di Pekan Bangi Lama
 BERANANG,Sg. Beranang di Pekan Beranang
@@ -510,7 +509,6 @@ _CKTN0004,Ladang Ulu Lepar
 5625011_,Sek. Keb. Kg. Jabi
 5328043_TSET0003,Kg. Pelong
 5428040_TSET0001,Sg. Nerus di Kg. Langkap
-_TSET0008,Kg. Bukit
 KGBUKIT,Sg. Nerus di Kg. Bukit
 5426003_,Sg. Setiu di Kg. Besut
 5527024_,Sg. Setiu di Jambatan Permaisuri
@@ -521,7 +519,6 @@ _THTG0004,Jambatan Kuala Berang
 5229048_THTG0002,Sg. Telemong di Kuala Ping
 4930038_THTG0008,Sg. Berang di Kg. Menerong
 MENGKAWAN,Sg. Peneh di Felda Mengkawang
-_THTG0009,Kg. Felda Mengkawang
 _THTG0006,Hulu Sg. Tersat
 4929001_,Kg. Embong
 5031062_,Kg. Bukit Diman
@@ -535,7 +532,6 @@ _TKTG0005,Sg. Terengganu di Rumah Pam Pulau Bahagia
 UMT,Universiti Malaysia Terengganu
 _TKTG0095,Universiti Malaysia Terengganu
 _TKTG0001,Sek. Keb. Kg. Gemuroh
-25823,Sg. Nerus di Kg. Jeram
 5031001_,Sg. Marang di Jambatan Pengkalan Berangan
 JPSMARANG,JPS Marang
 MERCHANG,Sek. Men. Keb.  Merchang
@@ -543,7 +539,6 @@ MERCHANG,Sek. Men. Keb.  Merchang
 4730002_,Sg. Dungun di Kuala Jengai
 4832011_,Sg. Dungun di Jambatan Jerangau
 4734079_,Sek. Men. Sultan Omar
-26009,JPS Dungun
 4634085_,Pusat Kesihatan Paka
 3933001_,Hulu Jabor
 4131001_,Sg. Cherul di Jambatan Ban Ho
@@ -561,7 +556,6 @@ _DGMG0018,Upper Chiku
 4726001_DGMG0020,Gunung Gagau 1
 4824001_DGMG0021,Sg. Lebir di Kuala Koh
 _DGMG0104,Sek. Keb. Chalil
-5621071_DJLI0001,Batu 13
 _DJLI0007,Kg. Lawar
 _DJLI0002,Air Bol
 _DJLI0011,Sg. Lanas di Air Lanas
@@ -783,6 +777,7 @@ KCHCITYSOUTH,Kuching City South
 4440060_,Miri DID
 4339005_,Miri Airport
 4339001_,Miri Municipal Car Park
+3754007_,Bario
 3752001_,Pa Tik
 3950020_,Long Seridan
 4048001_,Mulu Airport
