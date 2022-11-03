@@ -10,7 +10,6 @@
 25776,Sg. Panggas Besar di Tok Biduk
 25952,Sungai Gial at Kg Gial
 25940,Ngolong at Perlis
-6402009_,Sg. Arau di Kg. Kuala Tunggang
 25772,Ulu Pauh
 6402303_,Arau
 6501406_,Genting Kabu
@@ -18,14 +17,9 @@
 6402010_,Sg. Perlis di Kg. Sg. Bakau
 25951,Kg. Behor Lateh at Perlis
 25941,Kuala Perlis at Perlis
-26443,Lubuk Sireh
 25400,PADANG BESAR AT PERLIS
 25398,KAKI BUKIT AT PERLIS
-26441,Sg. Perlis di Padang Katong
-26442,Sg. Perlis di Rumah Pam Kuala Perlis
-26361,Sg. Arau di Kolam Sg. Jernih
 26335,Arau at Perlis
-26363,Sg. Arau di Felda
 6398141_,Gunung Raya
 6397116_,Hulu Empangan Saga
 6397112_,Empangan Padang Saga
@@ -44,6 +38,7 @@ WANGTEPUS,Wang Tepus
 6204004_,Sg. Padang Terap di Kepala Batas
 25962,Stn. Keretapi Tunjang at Kedah
 6307180_,Empangan Ahning
+6205481_,Sg. Padang Terap di Kg. Kubu
 6306180_,Sg. Padang Sanai di Padang Sanai
 PADANGSANAI,Sg. Padang Sanai di Pdg. Sanai
 K000007_,Sg. Sari di Kilang Gula Padang Terap
@@ -66,6 +61,7 @@ PAYAMADINSON,Kg. Paya Mat Inson
 6007064_,Sg. Muda di Titi Nami
 6006001_,SK Sg. Siput
 6008001_,SK Gulau
+5908001_,Batu Seketul
 BERIS,Empangan Beris (State)
 5907401_,Empangan Beris (RTB)
 5807068_,Klinik Desa Kg. Chong
@@ -101,7 +97,6 @@ SGULAR,Sg. Kulim di Sg. Ular
 JPSKULIM,JPS Kulim
 25734,Sg. Kulim di Kg. Dusun
 26054,SMK Lunas
-25957,Kelang Baharu at Kulim Kedah
 5307101_,Sg. Kerian di Mahang
 5206105_,Pekan Serdang
 25959,Rumah Penjaga Jps at Parit Nibong Kedah
@@ -370,6 +365,7 @@ _NKPH0001,Ladang Sg. Sabaling
 2723075_,Ladang Juasseh
 26076,Kg. Birah
 2622080_,Kg. Dangi
+2422062_,Pekan Tampin
 25796,Ldg. Repah at Negeri Sembilan
 2523001_,Ulu Rokan
 2524001_,Ladang Gan Kee
@@ -447,7 +443,6 @@ _CJRT0041,Ulu Tekai A
 3420132_CBTG0001,Sg. Semantan di Kg. Lengkong
 3224033_CBER0002,Sg. Triang di Triang
 2924096_,Glendale
-3725001_CMRN0001,Sg. Pahang di Kg. Chenor
 3527092_,Sg. Pahang di Lubuk Paku
 3428001_,Sg. Pahang di Kuala Sg. Chini
 3431099,Sg. Pahang di Paloh Inai
@@ -458,7 +453,6 @@ _CJRT0041,Ulu Tekai A
 3832020_,Sg. Kuantan di Kuantan Bypass
 3833002_,Kuantan
 3432001_,Sg. Belat di Sri Damai
-3133001_,Sg. Cherating di Cherating
 2630001_,Sg. Pukin
 25090,Ulu Sg. Chanis di Pahang
 25885,Sg. Keratong at Jam. Bahau Keratong
@@ -488,6 +482,7 @@ TOKADIS,Kg. Tok Adis
 5331010_,Sg. Terengganu di Bukit Tumbuh
 5331048_TKTG0004,Stor JPS Kuala Terengganu
 UMT,Universiti Malaysia Terengganu
+25823,Sg. Nerus di Kg. Jeram
 5031001_,Sg. Marang di Jambatan Pengkalan Berangan
 JPSMARANG,JPS Marang
 5131064_,Sek. Men. Bukit Sawa
@@ -528,6 +523,7 @@ _DPMS0003,Rantau Panjang
 _DKBR0008,IPMI Zon Timur
 _DKBR0007,Tambatan DRaja
 6121068_DTPT0001,Tumpat
+_DPMS0008,Kg. Jambu (Kuala Jambu)
 6024074_DBCK0001,Bachok
 25098,Pak Badol
 25881,Serdang at Gunong Barat Bachok
@@ -550,6 +546,7 @@ _DKBR0007,Tambatan DRaja
 1200001_,Pang Tebang
 1200002_,Sungai Pedid
 1301001_,Kampung Monggak
+1302078_,Kampung Git
 1302001_,Upper Sungai Staat
 1301002_,Buan Bidi
 1400001_,Kampung Opar
@@ -569,7 +566,6 @@ _DKBR0007,Tambatan DRaja
 1503014_,Padungan
 KCHCITYSOUTH,Kuching City South
 1503001_,Bako Causeway
-1603002_,Siol JPS
 1603001_,Semariang Fisheries
 1504001_,Barrage
 1502006_,Sungai Tengah
@@ -606,7 +602,6 @@ KCHCITYSOUTH,Kuching City South
 1307018_,Simunjan
 1507093_,Sadong Jaya
 1220025_,Nanga Delok
-1219024_,Nanga Tutong II
 1519001_,Bau Sungai
 1417001_,Nanga Entalau
 1018002_,Lubok Antu
