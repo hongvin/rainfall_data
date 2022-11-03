@@ -2,7 +2,6 @@
 6601001_,Sg. Pelarit di Wang Kelian
 6602002_,Sg. Pelarit di Kaki Bukit
 6603002_,Padang Besar
-6602404_,Sg. Chuchoh di Kg. Chantik
 6602004_,Sg. Jarum di Kg. Masjid
 6502011_,Empangan Timah Tasuh
 6502010_,Bukit Temiang
@@ -14,12 +13,16 @@
 6402303_,Arau
 6501406_,Genting Kabu
 25773,Abi Kg. Baru
+6402436_,Sg. Repoh di Kg. Repoh
 6402010_,Sg. Perlis di Kg. Sg. Bakau
 25951,Kg. Behor Lateh at Perlis
 25941,Kuala Perlis at Perlis
 25400,PADANG BESAR AT PERLIS
 25398,KAKI BUKIT AT PERLIS
+26441,Sg. Perlis di Padang Katong
+26442,Sg. Perlis di Rumah Pam Kuala Perlis
 26335,Arau at Perlis
+26363,Sg. Arau di Felda
 6398141_,Gunung Raya
 6397116_,Hulu Empangan Saga
 6397112_,Empangan Padang Saga
@@ -53,7 +56,6 @@ SEKKEBKGBUKIT,Sek. Keb. Kampung Bukit
 26048,Sg. Anak Bukit di Taman Aman
 6103147_,Rumah Pam Sg. Raja
 KUBURPANJANG,Sg. Titi Kerbau di Kubur Panjang
-5905180_,Sg. Pendang di Pekan Pendang
 5905181_,Sg. Pendang di Pondok Chegar
 PAYAMADINSON,Kg. Paya Mat Inson
 6108001_,Kompleks Empangan Muda
@@ -97,6 +99,7 @@ SGULAR,Sg. Kulim di Sg. Ular
 JPSKULIM,JPS Kulim
 25734,Sg. Kulim di Kg. Dusun
 26054,SMK Lunas
+25957,Kelang Baharu at Kulim Kedah
 5307101_,Sg. Kerian di Mahang
 5206105_,Pekan Serdang
 25959,Rumah Penjaga Jps at Parit Nibong Kedah
@@ -313,8 +316,6 @@ KELANANG,Pintu Air Kelanang
 3016103_,Taman Desa (SMART)
 26497,Kg. Berembang (SMART)
 26377,Sentul Park
-25701,Sg. Anak Gajah
-25083,Sg. Limau Manis
 2522007_,Felcra Lenggeng
 2819002_,Setul Mantin
 25800,Ldg. Labu at Negeri Sembilan
@@ -443,6 +444,7 @@ _CJRT0041,Ulu Tekai A
 3420132_CBTG0001,Sg. Semantan di Kg. Lengkong
 3224033_CBER0002,Sg. Triang di Triang
 2924096_,Glendale
+3725001_CMRN0001,Sg. Pahang di Kg. Chenor
 3527092_,Sg. Pahang di Lubuk Paku
 3428001_,Sg. Pahang di Kuala Sg. Chini
 3431099,Sg. Pahang di Paloh Inai
@@ -453,6 +455,7 @@ _CJRT0041,Ulu Tekai A
 3832020_,Sg. Kuantan di Kuantan Bypass
 3833002_,Kuantan
 3432001_,Sg. Belat di Sri Damai
+3133001_,Sg. Cherating di Cherating
 2630001_,Sg. Pukin
 25090,Ulu Sg. Chanis di Pahang
 25885,Sg. Keratong at Jam. Bahau Keratong
@@ -602,6 +605,7 @@ KCHCITYSOUTH,Kuching City South
 1307018_,Simunjan
 1507093_,Sadong Jaya
 1220025_,Nanga Delok
+1219024_,Nanga Tutong II
 1519001_,Bau Sungai
 1417001_,Nanga Entalau
 1018002_,Lubok Antu
@@ -738,6 +742,7 @@ KCHCITYSOUTH,Kuching City South
 3946001_,Long Terawan
 3945017_,Long Panai
 3152011_,Lio Matu
+3451028_,Long Lellang
 3050015_,Long Moh
 2949001_,Long Jee
 3048026_,Long Anap
