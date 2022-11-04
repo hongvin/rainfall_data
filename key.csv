@@ -1,21 +1,11 @@
 0,1
-6601001_,Sg. Pelarit di Wang Kelian
 6602002_,Sg. Pelarit di Kaki Bukit
-6603002_,Padang Besar
 6602404_,Sg. Chuchoh di Kg. Chantik
-6602004_,Sg. Jarum di Kg. Masjid
-6502011_,Empangan Timah Tasuh
-6502010_,Bukit Temiang
 6502012_,Sg. Buluh di Kg. Batu Bertangkup
-25776,Sg. Panggas Besar di Tok Biduk
 25952,Sungai Gial at Kg Gial
 25940,Ngolong at Perlis
-25772,Ulu Pauh
-6402303_,Arau
 6501406_,Genting Kabu
-25773,Abi Kg. Baru
 6402436_,Sg. Repoh di Kg. Repoh
-6402010_,Sg. Perlis di Kg. Sg. Bakau
 25951,Kg. Behor Lateh at Perlis
 25941,Kuala Perlis at Perlis
 25400,PADANG BESAR AT PERLIS
@@ -51,8 +41,8 @@ SEKKEBLAMDIN,Sek. Keb. Lamdin
 6106180_,Sg. Naka di Naka
 26165,Sg. Tekai di Kg. Sireh
 6205180_,Sg. Padang Terap di Kuala Nerang
-6306035_,Sg. Durian Burung di Durian Burung
 FELCRATAMPOI,Felcra Bukit Tampoi
+6306035_,Sg. Durian Burung di Durian Burung
 SEKKEBKGBUKIT,Sek. Keb. Kampung Bukit
 26048,Sg. Anak Bukit di Taman Aman
 6103147_,Rumah Pam Sg. Raja
@@ -359,6 +349,7 @@ _NJLB0008,Kg. Relai di Kg. Baharu
 2922018_,Ladang Pertang
 _NJLB0011,MARDI Jelebu
 3022431_,Sg. Triang di Kg. Juntai
+_NJLB0015,Ladang Glandle
 _NJPL0002,Sg. Serting di Kg. Datok Johan
 2923001_,Sg. Serting di Serting Ulu
 2824093_,Ladang Bahau
@@ -399,6 +390,7 @@ HOSPITALJASIN,Hospital Jasin
 2222033_,Sg. Melaka di Batu Hampar
 2222003_,Lencongan Sg. Malim di Klebang Besar U/S
 2222005_,Lencongan Sg. Malim di Klebang Besar D/S
+26205,Sg. Melaka Di Pantai Belimbing
 26210,Sg. Kesang Di Selandar
 2727001_,Balai Badang
 25895,Sg. Muar di Muara Sg. Gemas
@@ -479,6 +471,7 @@ _CMRN0025,Sg. Kundang di Jam. Sg. Kundang
 3527092_,Sg. Pahang di Lubuk Paku
 _CMRN0031,Pusat Latihan JAKOA KM. 56 (Bt. 34)
 3428001_,Sg. Pahang di Kuala Sg. Chini
+_CPKN0042,Kg. Salong
 _CPKN0002,Sg. Pahang di Paloh Hinai
 3431099,Sg. Pahang di Paloh Inai
 _CPKN0047,Kg. Temai Hilir
