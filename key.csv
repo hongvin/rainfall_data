@@ -2,6 +2,7 @@
 6601001_,Sg. Pelarit di Wang Kelian
 6602002_,Sg. Pelarit di Kaki Bukit
 6603002_,Padang Besar
+6602404_,Sg. Chuchoh di Kg. Chantik
 6602004_,Sg. Jarum di Kg. Masjid
 6502011_,Empangan Timah Tasuh
 6502010_,Bukit Temiang
@@ -50,12 +51,13 @@ SEKKEBLAMDIN,Sek. Keb. Lamdin
 6106180_,Sg. Naka di Naka
 26165,Sg. Tekai di Kg. Sireh
 6205180_,Sg. Padang Terap di Kuala Nerang
-6306035_,Sg. Durian Burung di Durian Burung
 FELCRATAMPOI,Felcra Bukit Tampoi
+6306035_,Sg. Durian Burung di Durian Burung
 SEKKEBKGBUKIT,Sek. Keb. Kampung Bukit
 26048,Sg. Anak Bukit di Taman Aman
 6103147_,Rumah Pam Sg. Raja
 KUBURPANJANG,Sg. Titi Kerbau di Kubur Panjang
+5905180_,Sg. Pendang di Pekan Pendang
 5905181_,Sg. Pendang di Pondok Chegar
 PAYAMADINSON,Kg. Paya Mat Inson
 6108001_,Kompleks Empangan Muda
@@ -95,7 +97,6 @@ SINGKIRGENTING,Sg. Singkir di Kg. Singkir Genting
 25956,Ldg. Bagan Sena at Kedah
 5505084_,Ladang Henrieta
 SGULAR,Sg. Kulim di Sg. Ular
-25811,Sg. Wang Pinang
 JPSKULIM,JPS Kulim
 25734,Sg. Kulim di Kg. Dusun
 26054,SMK Lunas
@@ -119,6 +120,7 @@ LIMBUNGAN,Rumah Pam Taman Limbungan
 5304045_,Pusat Kesihatan Bukit Berapit
 5304046_,Permatang Rawa
 25963,Kolam Air Chrk. To' Kun At P.Pinang
+5304044_,Sg. Juru di Empangan Juru
 5305318_,Macang Bubuk
 5204423_,Sg. Junjung di Simpang Empat
 5204048_,Sg. Simpang Ampat
@@ -128,7 +130,6 @@ BATUKAWAN,Stadium Batu Kawan
 5205052_,Bagan Buaya
 19340,Kolam Takungan Bukit Panchor
 5105051_,Kolam Takungan Bukit Panchor
-5105459_,Sg. Kecil
 26185,"Lengkok Sg. Emas, Batu Feringghi"
 BKTBENDERA,Bukit Bendera
 5302003_,Kolam Air Itam
@@ -204,6 +205,7 @@ PARIT1SGBESAR,Parit Satu Sg. Besar
 TALIAIR9,Tali Air 9 Sg. Panjang
 FDCSEKINCHAN,FDC Sekinchan
 IBUBKLSGTENGI,Ibu Bekalan Sg. Tengi
+PATGKARANG,P/A Pekan Tg. Karang
 STORJPSTGKARANG,Stor JPS Tg. Karang
 PRT1SB,Parit 1 Sg. Burong
 3414032_,Sg. Selangor di Rantau Panjang
@@ -316,6 +318,8 @@ KELANANG,Pintu Air Kelanang
 3016103_,Taman Desa (SMART)
 26497,Kg. Berembang (SMART)
 26377,Sentul Park
+25701,Sg. Anak Gajah
+25083,Sg. Limau Manis
 2522007_,Felcra Lenggeng
 2819002_,Setul Mantin
 25800,Ldg. Labu at Negeri Sembilan
@@ -409,7 +413,6 @@ HOSPITALJASIN,Hospital Jasin
 25907,Sg. Senduk
 25910,Ladang Lian Seng
 1834125_,Ladang Renggam
-25902,Sg. Siam di Kg. Sg. Siam
 JHR-KGMURNIJAYA,Sg. Siku di Kg. Murni Jaya
 JHR-KGSRIPAYA,Sg. Pontian Besar di Kg. Sri Paya
 JHR-PPTSALLEH,Pintu Air Parit Salleh
@@ -774,6 +777,7 @@ KCHCITYSOUTH,Kuching City South
 4854009_,Lawas Airfield
 4955021_,Merapok
 4954001_,Kuala Lawas
+4658001_,Bakuku
 5357003_,Sg. Padas di Beaufort JPS
 5663002_,Sg. Pegalan di Keranaan
 STAM0002,Gunung Alab
