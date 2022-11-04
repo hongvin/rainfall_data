@@ -51,8 +51,8 @@ SEKKEBLAMDIN,Sek. Keb. Lamdin
 6106180_,Sg. Naka di Naka
 26165,Sg. Tekai di Kg. Sireh
 6205180_,Sg. Padang Terap di Kuala Nerang
-FELCRATAMPOI,Felcra Bukit Tampoi
 6306035_,Sg. Durian Burung di Durian Burung
+FELCRATAMPOI,Felcra Bukit Tampoi
 SEKKEBKGBUKIT,Sek. Keb. Kampung Bukit
 26048,Sg. Anak Bukit di Taman Aman
 6103147_,Rumah Pam Sg. Raja
@@ -97,6 +97,7 @@ SINGKIRGENTING,Sg. Singkir di Kg. Singkir Genting
 25956,Ldg. Bagan Sena at Kedah
 5505084_,Ladang Henrieta
 SGULAR,Sg. Kulim di Sg. Ular
+25811,Sg. Wang Pinang
 JPSKULIM,JPS Kulim
 25734,Sg. Kulim di Kg. Dusun
 26054,SMK Lunas
@@ -398,6 +399,7 @@ HOSPITALJASIN,Hospital Jasin
 2222033_,Sg. Melaka di Batu Hampar
 2222003_,Lencongan Sg. Malim di Klebang Besar U/S
 2222005_,Lencongan Sg. Malim di Klebang Besar D/S
+26210,Sg. Kesang Di Selandar
 2727001_,Balai Badang
 25895,Sg. Muar di Muara Sg. Gemas
 2627001_,Sek. Keb. Spang Loi
@@ -413,6 +415,7 @@ HOSPITALJASIN,Hospital Jasin
 25907,Sg. Senduk
 25910,Ladang Lian Seng
 1834125_,Ladang Renggam
+25902,Sg. Siam di Kg. Sg. Siam
 JHR-KGMURNIJAYA,Sg. Siku di Kg. Murni Jaya
 JHR-KGSRIPAYA,Sg. Pontian Besar di Kg. Sri Paya
 JHR-PPTSALLEH,Pintu Air Parit Salleh
@@ -431,26 +434,56 @@ JHR-STORJPSMERSING,Stor JPS Mersing
 26154,Hulu Sg. Ringlet
 26157,Middle Sg. Ringlet
 26159,Sg. Ringlet di Pekan Ringlet
+4514035_CCHG0001,Sg. Ikan
 4513033_,Brinchang
+_CCHG0014,Sg. Tringkap di Tringkap
 4414040_,MARDI CH
 C00001_,Sg. Bertam di SJK (C) Lembah Bertam
 C00002_,Sg. Bertam di Kg. Orang Asli Sg. Tiang
 _CLPS0029,Sg. Meldu
 4218042_,Sg. Jelai di Kuala Medang
+_CLPS0033,Balai Polis Merapoh
 4620046_,Merapoh
+4219001_CLPS0001,Sg. Jelai di Bukit Betong
+_CLPS0015,Ladang Benta
+_CJRT0045,Sek. Keb. Kg. Pagi
 4324001_CJRT0003,Sg. Tembeling di Kuala Tahan
 _CJRT0041,Ulu Tekai A
+_CJRT0002,Sg. Tembeling di Kg. Merting
+_CJRT0039,Kg. Chebong
 4023001_CJRT0001,Sg. Pahang di Sg. Yap
+_CJRT0025,Kg. Bharu
+_CJRT0022,Paya Gintong
+_CRAU0049,Felda Tersang 2
+_CRAU0046,Batu Malim
 4017001_,Sg. Lipis di Batu Malim
 3717001_,Peninjau
+_CRAU0031,Sg. Chalit
+_CRAU0033,JPS Stor Raub
+_CRAU0039,Kg. Cheroh
+_CRAU0042,Sg. Dong di Kg. Peruas
 3519125_CBTG0002,Sg. Bentong di Kuala Marong
+_CBTG0024,Pos Sungai Dua
 3420132_CBTG0001,Sg. Semantan di Kg. Lengkong
+_CTMH0049,"Sg. Terbol, Jenderak"
+3424081_CTMH0001,Sg. Pahang di Temerloh (Lubuk Pasu)
 3224033_CBER0002,Sg. Triang di Triang
+_CBER0030,Ladang Karmen
 2924096_,Glendale
+_CBER0021,Pos Iskandar
+_CBER0023,Pej. Ramsar
+_CMRN0027,Felda Kg. Awah
 3725001_CMRN0001,Sg. Pahang di Kg. Chenor
+_CMRN0147,Sek. Keb. Kuala Sentul
+_CMRN0025,Sg. Kundang di Jam. Sg. Kundang
 3527092_,Sg. Pahang di Lubuk Paku
+_CMRN0031,Pusat Latihan JAKOA KM. 56 (Bt. 34)
 3428001_,Sg. Pahang di Kuala Sg. Chini
+_CPKN0002,Sg. Pahang di Paloh Hinai
 3431099,Sg. Pahang di Paloh Inai
+_CPKN0047,Kg. Temai Hilir
+3533102_CPKN0003,Sg. Pahang Tua di Rumah Pam Pahang Tua
+3434001_CPKN0004,Sg. Pahang di Pekan
 3629103_,Sg. Lepar di Jambatan Gelugor
 3929001_,Sg. Lembing
 3930012_,PCCL Sg. Lembing
@@ -461,7 +494,9 @@ _CJRT0041,Ulu Tekai A
 3133001_,Sg. Cherating di Cherating
 2630001_,Sg. Pukin
 25090,Ulu Sg. Chanis di Pahang
+25830,Kg. Gambir at Pahang
 25885,Sg. Keratong at Jam. Bahau Keratong
+25093,Sg. Kepasing di Pahang
 26114,Balai Bomba Muadzam Shah
 25835,S.K. Leban Chondong at Pahang
 25874,Emp. Pontian Pahang
@@ -572,6 +607,7 @@ _DPMS0008,Kg. Jambu (Kuala Jambu)
 1503014_,Padungan
 KCHCITYSOUTH,Kuching City South
 1503001_,Bako Causeway
+1603002_,Siol JPS
 1603001_,Semariang Fisheries
 1504001_,Barrage
 1502006_,Sungai Tengah
@@ -634,7 +670,6 @@ KCHCITYSOUTH,Kuching City South
 26128,Kaki Wong
 1713005_,Saratok DID
 1812001_,Roban
-1911001_,Sessang II (Alit)
 1811007_,Kabong
 1737001,Telok Ngelengkung
 1947001_,Long Unai
