@@ -1,9 +1,11 @@
 0,1
 6602002_,Sg. Pelarit di Kaki Bukit
 6602404_,Sg. Chuchoh di Kg. Chantik
+6502011_,Empangan Timah Tasuh
 6502012_,Sg. Buluh di Kg. Batu Bertangkup
 25952,Sungai Gial at Kg Gial
 25940,Ngolong at Perlis
+6402009_,Sg. Arau di Kg. Kuala Tunggang
 6501406_,Genting Kabu
 6402436_,Sg. Repoh di Kg. Repoh
 25951,Kg. Behor Lateh at Perlis
@@ -12,6 +14,7 @@
 25398,KAKI BUKIT AT PERLIS
 26441,Sg. Perlis di Padang Katong
 26442,Sg. Perlis di Rumah Pam Kuala Perlis
+26361,Sg. Arau di Kolam Sg. Jernih
 26335,Arau at Perlis
 26363,Sg. Arau di Felda
 6398141_,Gunung Raya
@@ -41,8 +44,8 @@ SEKKEBLAMDIN,Sek. Keb. Lamdin
 6106180_,Sg. Naka di Naka
 26165,Sg. Tekai di Kg. Sireh
 6205180_,Sg. Padang Terap di Kuala Nerang
-FELCRATAMPOI,Felcra Bukit Tampoi
 6306035_,Sg. Durian Burung di Durian Burung
+FELCRATAMPOI,Felcra Bukit Tampoi
 SEKKEBKGBUKIT,Sek. Keb. Kampung Bukit
 26048,Sg. Anak Bukit di Taman Aman
 6103147_,Rumah Pam Sg. Raja
@@ -743,11 +746,13 @@ KCHCITYSOUTH,Kuching City South
 3028001_,Kuala Tatau
 3330001,Sungai Sebatang
 2834001_,Panai Binion
+3137021_,Tubau
 2836001_,Bintulu/Belaga Road
 3034001_,Rumah Bansa
 3035001_,Kuala Binyo
 3236001_,Rumah Along
 2931001_,Rumah Luang
+3132023_,Sebauh
 3130005_,Bintulu Kastam Wharf
 3130001_,Sungai Sibiu
 26131,Bintulu New Airport
@@ -763,7 +768,6 @@ KCHCITYSOUTH,Kuching City South
 2318006_,Permy Jaya
 4440060_,Miri DID
 4339005_,Miri Airport
-4339001_,Miri Municipal Car Park
 3754007_,Bario
 3752001_,Pa Tik
 3950020_,Long Seridan
