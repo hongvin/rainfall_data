@@ -1,7 +1,6 @@
 0,1
 6602002_,Sg. Pelarit di Kaki Bukit
 6602404_,Sg. Chuchoh di Kg. Chantik
-6502012_,Sg. Buluh di Kg. Batu Bertangkup
 25952,Sungai Gial at Kg Gial
 25940,Ngolong at Perlis
 6501406_,Genting Kabu
@@ -40,9 +39,8 @@ K000007_,Sg. Sari di Kilang Gula Padang Terap
 SEKKEBLAMDIN,Sek. Keb. Lamdin
 6106180_,Sg. Naka di Naka
 26165,Sg. Tekai di Kg. Sireh
-6205180_,Sg. Padang Terap di Kuala Nerang
-FELCRATAMPOI,Felcra Bukit Tampoi
 6306035_,Sg. Durian Burung di Durian Burung
+FELCRATAMPOI,Felcra Bukit Tampoi
 SEKKEBKGBUKIT,Sek. Keb. Kampung Bukit
 26048,Sg. Anak Bukit di Taman Aman
 6103147_,Rumah Pam Sg. Raja
@@ -158,7 +156,6 @@ SGRAIA,Sg. Raia di Keramat Pulai
 25969,Kg. Baru Kuala Dipang
 4411120_,Gua Tempurung
 4312001_,Kg. Sahom
-4409092_,Sg. Perak di Parit
 4209093_,Sg. Perak di Teluk Sena
 4109094_,Sg. Perak di Kg. Gajah
 25970,Ldg. Sg. Klah at Perak
@@ -472,6 +469,7 @@ _CMRN0025,Sg. Kundang di Jam. Sg. Kundang
 _CMRN0031,Pusat Latihan JAKOA KM. 56 (Bt. 34)
 3428001_,Sg. Pahang di Kuala Sg. Chini
 _CPKN0042,Kg. Salong
+_CPKN0132,Batu Gong
 _CPKN0002,Sg. Pahang di Paloh Hinai
 3431099,Sg. Pahang di Paloh Inai
 _CPKN0047,Kg. Temai Hilir
@@ -516,7 +514,6 @@ TOKADIS,Kg. Tok Adis
 5331010_,Sg. Terengganu di Bukit Tumbuh
 5331048_TKTG0004,Stor JPS Kuala Terengganu
 UMT,Universiti Malaysia Terengganu
-25823,Sg. Nerus di Kg. Jeram
 5031001_,Sg. Marang di Jambatan Pengkalan Berangan
 JPSMARANG,JPS Marang
 5131064_,Sek. Men. Bukit Sawa
@@ -587,7 +584,6 @@ _DPMS0008,Kg. Jambu (Kuala Jambu)
 1400002_,Sungai Opar
 1401005_,Bau
 1605001_,Kampung Similang
-1401006_,Bau Bridge
 1402002_,Siniawan
 1402048_,Batu Kitang Telemetry
 1502005_,Batu Kawa Bridge
@@ -663,6 +659,7 @@ KCHCITYSOUTH,Kuching City South
 26128,Kaki Wong
 1713005_,Saratok DID
 1812001_,Roban
+1911001_,Sessang II (Alit)
 1811007_,Kabong
 1737001,Telok Ngelengkung
 1947001_,Long Unai
