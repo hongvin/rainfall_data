@@ -1,6 +1,7 @@
 0,1
 6602002_,Sg. Pelarit di Kaki Bukit
 6602404_,Sg. Chuchoh di Kg. Chantik
+6502012_,Sg. Buluh di Kg. Batu Bertangkup
 25952,Sungai Gial at Kg Gial
 25940,Ngolong at Perlis
 6501406_,Genting Kabu
@@ -39,8 +40,9 @@ K000007_,Sg. Sari di Kilang Gula Padang Terap
 SEKKEBLAMDIN,Sek. Keb. Lamdin
 6106180_,Sg. Naka di Naka
 26165,Sg. Tekai di Kg. Sireh
-6306035_,Sg. Durian Burung di Durian Burung
+6205180_,Sg. Padang Terap di Kuala Nerang
 FELCRATAMPOI,Felcra Bukit Tampoi
+6306035_,Sg. Durian Burung di Durian Burung
 SEKKEBKGBUKIT,Sek. Keb. Kampung Bukit
 26048,Sg. Anak Bukit di Taman Aman
 6103147_,Rumah Pam Sg. Raja
@@ -156,6 +158,7 @@ SGRAIA,Sg. Raia di Keramat Pulai
 25969,Kg. Baru Kuala Dipang
 4411120_,Gua Tempurung
 4312001_,Kg. Sahom
+4409092_,Sg. Perak di Parit
 4209093_,Sg. Perak di Teluk Sena
 4109094_,Sg. Perak di Kg. Gajah
 25970,Ldg. Sg. Klah at Perak
@@ -418,7 +421,6 @@ SGTIRAM,Sg. Tiram di Ulu Tiram
 1542001_,Bandar Penawar
 JHR-PENGBATU,Pengkalan Batu
 JHR-STORJPSMERSING,Stor JPS Mersing
-26149,Jalan Simpang Pulai
 26158,Hulu Sg. Merah
 26154,Hulu Sg. Ringlet
 26157,Middle Sg. Ringlet
@@ -514,6 +516,7 @@ TOKADIS,Kg. Tok Adis
 5331010_,Sg. Terengganu di Bukit Tumbuh
 5331048_TKTG0004,Stor JPS Kuala Terengganu
 UMT,Universiti Malaysia Terengganu
+25823,Sg. Nerus di Kg. Jeram
 5031001_,Sg. Marang di Jambatan Pengkalan Berangan
 JPSMARANG,JPS Marang
 5131064_,Sek. Men. Bukit Sawa
@@ -584,6 +587,7 @@ _DPMS0008,Kg. Jambu (Kuala Jambu)
 1400002_,Sungai Opar
 1401005_,Bau
 1605001_,Kampung Similang
+1401006_,Bau Bridge
 1402002_,Siniawan
 1402048_,Batu Kitang Telemetry
 1502005_,Batu Kawa Bridge
@@ -739,13 +743,11 @@ KCHCITYSOUTH,Kuching City South
 3028001_,Kuala Tatau
 3330001,Sungai Sebatang
 2834001_,Panai Binion
-3137021_,Tubau
 2836001_,Bintulu/Belaga Road
 3034001_,Rumah Bansa
 3035001_,Kuala Binyo
 3236001_,Rumah Along
 2931001_,Rumah Luang
-3132023_,Sebauh
 3130005_,Bintulu Kastam Wharf
 3130001_,Sungai Sibiu
 26131,Bintulu New Airport
@@ -770,7 +772,6 @@ KCHCITYSOUTH,Kuching City South
 3946001_,Long Terawan
 3945017_,Long Panai
 3152011_,Lio Matu
-3451028_,Long Lellang
 3050015_,Long Moh
 2949001_,Long Jee
 3048026_,Long Anap
