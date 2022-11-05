@@ -10,6 +10,7 @@
 6402436_,Sg. Repoh di Kg. Repoh
 25951,Kg. Behor Lateh at Perlis
 25941,Kuala Perlis at Perlis
+26443,Lubuk Sireh
 25400,PADANG BESAR AT PERLIS
 25398,KAKI BUKIT AT PERLIS
 26441,Sg. Perlis di Padang Katong
@@ -245,7 +246,6 @@ KOTADAMANSARA,Kota Damansara
 3015087_,Sg. Damansara di Batu 3
 TAMANBOTANI,Taman Botani
 3015084_,Sg. Klang di Taman Sri Muda
-DESAKEMUNING,Sg. Rasau di Taman Desa Kemuning
 3015088_,Sg. Kandis di Kg. Jawa
 2414401_,SMK Jalan Kebun
 26038,Taman Sentosa
@@ -282,6 +282,7 @@ JENDERAMHILIR,Sg. Langat di Jenderam Hilir
 PUNCAKNIAGA,Puncak Niaga Putrajaya
 LDGBUTE,Ladang Bute
 TMNDESAMERPATI,Sg. Jijan di Taman Desa Merpati
+2717134_,Sg. Labu di Kg. Salak Tinggi
 2816113_,Sg. Labu di Kg. Labu Lanjut (Masjid KLIA)
 2816041_,Sg. Langat di Dengkil
 AGROTEKSEPANG,Agrotek Sepang
@@ -393,7 +394,6 @@ HOSPITALJASIN,Hospital Jasin
 2222003_,Lencongan Sg. Malim di Klebang Besar U/S
 2222005_,Lencongan Sg. Malim di Klebang Besar D/S
 26205,Sg. Melaka Di Pantai Belimbing
-26210,Sg. Kesang Di Selandar
 2727001_,Balai Badang
 25895,Sg. Muar di Muara Sg. Gemas
 2627001_,Sek. Keb. Spang Loi
@@ -421,6 +421,7 @@ SGTIRAM,Sg. Tiram di Ulu Tiram
 1838149_,Air Terjun Kota Tinggi
 1738132_,Ladang Nam Heng
 1542001_,Bandar Penawar
+26008,Sg. Pungai di Punggai
 JHR-PENGBATU,Pengkalan Batu
 JHR-STORJPSMERSING,Stor JPS Mersing
 26158,Hulu Sg. Merah
@@ -479,6 +480,7 @@ _CPKN0002,Sg. Pahang di Paloh Hinai
 _CPKN0047,Kg. Temai Hilir
 3533102_CPKN0003,Sg. Pahang Tua di Rumah Pam Pahang Tua
 3434001_CPKN0004,Sg. Pahang di Pekan
+_CKTN0004,Ladang Ulu Lepar
 3629103_,Sg. Lepar di Jambatan Gelugor
 3929001_,Sg. Lembing
 3930012_,PCCL Sg. Lembing
@@ -538,8 +540,10 @@ MERCHANG,Sek. Men. Keb.  Merchang
 TKMN0007,Yak Yah
 4434093_,Sek. Men. Badrul Alam Shah
 26491,Kalabe
+26492,Stesen Pertanian Ajil
 222910501017,JPS Marang
 _DGMG0014,Kg. Pulai
+4819027_DGMG0015,Gua Musang
 _DGMG0018,Upper Chiku
 4726001_DGMG0020,Gunung Gagau 1
 4824001_DGMG0021,Sg. Lebir di Kuala Koh
@@ -752,6 +756,7 @@ KCHCITYSOUTH,Kuching City South
 2931001_,Rumah Luang
 3132023_,Sebauh
 3130005_,Bintulu Kastam Wharf
+3130001_,Sungai Sibiu
 26131,Bintulu New Airport
 3130003,JPS Bintulu
 3533001_,Kuala Similajau
@@ -772,7 +777,6 @@ KCHCITYSOUTH,Kuching City South
 4048001_,Mulu Airport
 3847035_,Long Atip
 3946001_,Long Terawan
-3945017_,Long Panai
 3152011_,Lio Matu
 3050015_,Long Moh
 2949001_,Long Jee
@@ -805,6 +809,27 @@ KCHCITYSOUTH,Kuching City South
 4854009_,Lawas Airfield
 4955021_,Merapok
 4954001_,Kuala Lawas
+4658001_,Bakuku
+5357003_,Sg. Padas di Beaufort JPS
+5663002_,Sg. Pegalan di Keranaan
+STAM0002,Gunung Alab
+SKBU0001,Lawa Mondou
+5961002_,Inanam
+5861001_,Putatan
+5881001_,Sandakan
+5478003_,Sg. Kinabatangan di Barek Manis
+5083001_,Lahad Datu
+4278005_,Kuhara
+26304,Basai At Sabah
+26302,Beluran At Sabah
+5261402_,Sg. Sook di Biah
+26310,Malangkap&
+225709220509,Inanam Met. Stn. At Sabah
+26316,Matungong
+26309,Kaiduan At Sabah
+26312,Sg. Moyog At Penampang
+220609250509,Vulanut
+26319,Kiulu At Sabah
 25141,Sg. Bangat di Kg. Sg. Bangat
 25489,Empangan Sg. Pagar
 25140,Rancha-Rancha
