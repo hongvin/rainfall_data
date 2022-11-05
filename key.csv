@@ -200,7 +200,6 @@ PARIT1SGBESAR,Parit Satu Sg. Besar
 TALIAIR9,Tali Air 9 Sg. Panjang
 FDCSEKINCHAN,FDC Sekinchan
 IBUBKLSGTENGI,Ibu Bekalan Sg. Tengi
-PATGKARANG,P/A Pekan Tg. Karang
 STORJPSTGKARANG,Stor JPS Tg. Karang
 PRT1SB,Parit 1 Sg. Burong
 3414032_,Sg. Selangor di Rantau Panjang
@@ -246,6 +245,7 @@ KOTADAMANSARA,Kota Damansara
 3015087_,Sg. Damansara di Batu 3
 TAMANBOTANI,Taman Botani
 3015084_,Sg. Klang di Taman Sri Muda
+DESAKEMUNING,Sg. Rasau di Taman Desa Kemuning
 3015088_,Sg. Kandis di Kg. Jawa
 2414401_,SMK Jalan Kebun
 26038,Taman Sentosa
@@ -448,7 +448,6 @@ _CJRT0039,Kg. Chebong
 4023001_CJRT0001,Sg. Pahang di Sg. Yap
 _CJRT0025,Kg. Bharu
 _CJRT0022,Paya Gintong
-_CRAU0049,Felda Tersang 2
 _CRAU0046,Batu Malim
 4017001_,Sg. Lipis di Batu Malim
 3717001_,Peninjau
@@ -548,6 +547,7 @@ _DGMG0018,Upper Chiku
 4726001_DGMG0020,Gunung Gagau 1
 4824001_DGMG0021,Sg. Lebir di Kuala Koh
 _DGMG0104,Sek. Keb. Chalil
+5320038_DKKI0003,Sg. Galas di Dabong
 5521044_DKKI0014,Sg. Kelantan di Kuala Krai
 _DJLI0007,Kg. Lawar
 _DJLI0002,Air Bol
@@ -777,6 +777,7 @@ KCHCITYSOUTH,Kuching City South
 4048001_,Mulu Airport
 3847035_,Long Atip
 3946001_,Long Terawan
+3945017_,Long Panai
 3152011_,Lio Matu
 3050015_,Long Moh
 2949001_,Long Jee
@@ -810,6 +811,7 @@ KCHCITYSOUTH,Kuching City South
 4955021_,Merapok
 4954001_,Kuala Lawas
 4658001_,Bakuku
+4959001_,Sg. Padas di Kemabong
 5357003_,Sg. Padas di Beaufort JPS
 5663002_,Sg. Pegalan di Keranaan
 STAM0002,Gunung Alab
