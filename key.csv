@@ -44,6 +44,7 @@ K000007_,Sg. Sari di Kilang Gula Padang Terap
 SEKKEBLAMDIN,Sek. Keb. Lamdin
 6106180_,Sg. Naka di Naka
 26165,Sg. Tekai di Kg. Sireh
+6205180_,Sg. Padang Terap di Kuala Nerang
 6306035_,Sg. Durian Burung di Durian Burung
 FELCRATAMPOI,Felcra Bukit Tampoi
 SEKKEBKGBUKIT,Sek. Keb. Kampung Bukit
@@ -141,6 +142,7 @@ SGDUA,Sg. Dua di Kg. Dua Bukit
 4807016_,Bukit Larut
 TGPIANDANG,Tanjung Piandang
 5006021_,Kolam Air Bukit Merah
+5610063_,Kg. Lalang
 5513001_,Tasik Temengor di Banding
 5411066_,Sg. Perak di Kuala Kenderong
 5210069_,Lawin
@@ -148,6 +150,7 @@ TGPIANDANG,Tanjung Piandang
 4809001_,Sg. Perak di Jam. Iskandar
 25784,Ldg. Bkt. Berapit at Perak
 25786,Pekan Manong (Sungai Perak)
+25968,Kg. Cik Zainal
 4613401_,Empangan Ulu Kinta
 25136,Puncak Jelapang At Ipoh
 4511111_,Politeknik Ungku Omar
@@ -219,6 +222,7 @@ BATUARANG,Batu Arang
 3216067_,Sg. Batu di Batu Caves
 BT10GOMBAK,Sg. Gombak di Batu 10
 3117080_,Bukit Antarabangsa
+3117081_,Puncak Atheneum
 KMSB,Kg. Melayu Sg. Buloh
 PAYAJARASHILIR,Paya Jaras Hilir
 MERBAUSEMPAK,Merbau Sempak
@@ -315,6 +319,8 @@ KELANANG,Pintu Air Kelanang
 3016103_,Taman Desa (SMART)
 26497,Kg. Berembang (SMART)
 26377,Sentul Park
+25701,Sg. Anak Gajah
+25083,Sg. Limau Manis
 2522007_,Felcra Lenggeng
 2819002_,Setul Mantin
 25800,Ldg. Labu at Negeri Sembilan
@@ -394,6 +400,7 @@ HOSPITALJASIN,Hospital Jasin
 2222003_,Lencongan Sg. Malim di Klebang Besar U/S
 2222005_,Lencongan Sg. Malim di Klebang Besar D/S
 26205,Sg. Melaka Di Pantai Belimbing
+26210,Sg. Kesang Di Selandar
 2727001_,Balai Badang
 25895,Sg. Muar di Muara Sg. Gemas
 2627001_,Sek. Keb. Spang Loi
@@ -558,6 +565,7 @@ _DMCG0215,Kusial
 _DMCG0001,Kg. Temangan
 6021065_DPMS0001,Sg. Kelantan di Air Mulih
 25930,Rumah Pam Repek at Kelantan
+25931,Kg. Tandak (Bkt. P.Junu at Kelantan)
 25368,Emp. Bukit Kwong
 _DPMS0003,Rantau Panjang
 _DKBR0008,IPMI Zon Timur
