@@ -257,6 +257,7 @@ PANDAMARAN,P/A Pandamaran
 3117482_,Sg. Ampang di Kg. Lembah Jaya Utara
 3218101_,Sg. Langat di TNB Pangsun
 3118104_,Sg. Langat di Batu 20
+3018104_,Sg. Langat di Batu 15
 3017081_,Sg. Raya di Batu 9
 KGBARUBALAKONG,Sg. Balak di Kg. Baru Balakong
 TMNTTDIGROVEKAJANG,Sg. Jelok di Taman TTDI Grove
@@ -309,6 +310,7 @@ KELANANG,Pintu Air Kelanang
 3116006_,Ladang Edinburgh
 3117006_,Kolam Takungan Batu
 3116434_,Sg. Batu di Sentul
+3116004_,JPS Wilayah
 3117403_,Sg. Bunus di Jln. Tun Razak
 3117070_,JPS Ampang
 3114005_,Sg. Klang di Lembah Keramat
@@ -453,6 +455,7 @@ _CJRT0039,Kg. Chebong
 4023001_CJRT0001,Sg. Pahang di Sg. Yap
 _CJRT0025,Kg. Bharu
 _CJRT0022,Paya Gintong
+_CRAU0049,Felda Tersang 2
 _CRAU0046,Batu Malim
 4017001_,Sg. Lipis di Batu Malim
 3717001_,Peninjau
@@ -527,7 +530,6 @@ UMT,Universiti Malaysia Terengganu
 25823,Sg. Nerus di Kg. Jeram
 5031001_,Sg. Marang di Jambatan Pengkalan Berangan
 JPSMARANG,JPS Marang
-5131064_,Sek. Men. Bukit Sawa
 MERCHANG,Sek. Men. Keb.  Merchang
 5624002_,Sg. Dungun di Kg. Pasir Raja
 4730002_,Sg. Dungun di Kuala Jengai
@@ -725,14 +727,11 @@ KCHCITYSOUTH,Kuching City South
 2325039_,Sungai Arau
 2526001_,Ulu Sungai Pelagau
 2625002_,Nanga Lemai B
-1719001_,Banyi
 2019024_,Julau
 1816029_,Pakan
 2116030_,Bintangor
 2115008_,Sarikei DID
-2516001_,Sungai Dausan
 2213001_,Sungai Maleng
-2412001_,Paloh Bangau
 2514005_,Daro
 2321066_,Sekuau
 2819001_,Sungai Talau
@@ -754,15 +753,14 @@ KCHCITYSOUTH,Kuching City South
 2836001_,Bintulu/Belaga Road
 3034001_,Rumah Bansa
 3035001_,Kuala Binyo
-3236001_,Rumah Along
 2931001_,Rumah Luang
 3132023_,Sebauh
 3130005_,Bintulu Kastam Wharf
 3130001_,Sungai Sibiu
 26131,Bintulu New Airport
+3130003,JPS Bintulu
 3533001_,Kuala Similajau
 3334001,Similajau Estate
-3635001_,Kuala Tutong
 3738001_,Subis 1
 3838064_,Karabungan
 3837001_,Batu Niah Bazaar
