@@ -207,6 +207,7 @@ PASGYU1,P/A Sg. Yu 1
 3214056_,Sg. Buloh di Sri Aman
 3313070_,Sg. Buloh di Parit Mahang
 LDGSGBULOH,Ladang Sg. Buloh
+LDGBRAUNSTON,Ladang Braunston Jeram
 TMNTEMPLAR,Taman Templer
 3315042_,Sg. Rawang di Taman Tun Teja
 RAWANGTIN,Sg. Rawang di Rawang Tin
@@ -256,7 +257,6 @@ PANDAMARAN,P/A Pandamaran
 3117482_,Sg. Ampang di Kg. Lembah Jaya Utara
 3218101_,Sg. Langat di TNB Pangsun
 3118104_,Sg. Langat di Batu 20
-3018104_,Sg. Langat di Batu 15
 3017081_,Sg. Raya di Batu 9
 KGBARUBALAKONG,Sg. Balak di Kg. Baru Balakong
 TMNTTDIGROVEKAJANG,Sg. Jelok di Taman TTDI Grove
@@ -354,6 +354,7 @@ _NJLB0003,Kg. Ulu Klawang
 2920032_,Sg. Triang di Kg. Chenor
 _NJLB0008,Kg. Relai di Kg. Baharu
 3020016_,Kg. Chennah
+2922018_,Ladang Pertang
 _NJLB0011,MARDI Jelebu
 3022431_,Sg. Triang di Kg. Juntai
 _NJLB0015,Ladang Glandle
@@ -759,7 +760,6 @@ KCHCITYSOUTH,Kuching City South
 3130005_,Bintulu Kastam Wharf
 3130001_,Sungai Sibiu
 26131,Bintulu New Airport
-3130003,JPS Bintulu
 3533001_,Kuala Similajau
 3334001,Similajau Estate
 3635001_,Kuala Tutong
@@ -773,9 +773,7 @@ KCHCITYSOUTH,Kuching City South
 4339005_,Miri Airport
 4339001_,Miri Municipal Car Park
 3754007_,Bario
-3752001_,Pa Tik
 3950020_,Long Seridan
-4048001_,Mulu Airport
 3847035_,Long Atip
 3946001_,Long Terawan
 3945017_,Long Panai
@@ -784,11 +782,9 @@ KCHCITYSOUTH,Kuching City South
 3050015_,Long Moh
 2949001_,Long Jee
 3048026_,Long Anap
-3347003_,Long Akah
 3547001_,Long Luteng
 3744009_,Long Lama
 4043059,Benawa
-3243071_,Long Aton
 3342032_,Long Subing
 3441001_,Long Bantan
 3541033_,Long Jegan
@@ -832,6 +828,7 @@ SKBU0001,Lawa Mondou
 26316,Matungong
 26309,Kaiduan At Sabah
 26312,Sg. Moyog At Penampang
+220609250509,Vulanut
 26319,Kiulu At Sabah
 25141,Sg. Bangat di Kg. Sg. Bangat
 25489,Empangan Sg. Pagar
