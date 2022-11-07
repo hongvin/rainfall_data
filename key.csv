@@ -50,7 +50,6 @@ FELCRATAMPOI,Felcra Bukit Tampoi
 SEKKEBKGBUKIT,Sek. Keb. Kampung Bukit
 26048,Sg. Anak Bukit di Taman Aman
 KUBURPANJANG,Sg. Titi Kerbau di Kubur Panjang
-5905180_,Sg. Pendang di Pekan Pendang
 5905181_,Sg. Pendang di Pondok Chegar
 PAYAMADINSON,Kg. Paya Mat Inson
 6108001_,Kompleks Empangan Muda
@@ -186,7 +185,6 @@ KOMPLEKSPEGHULUULUBERNAM,Kompleks Penghulu Hulu Bernam
 3714080_,Sg. Bernam di Kg. Sg. Selisek
 FELDAGEDANGSA,Felda Gedangsa
 25551,Ibu Bekalan Sg. Bernam
-KGBELIA2SGPANJANG,Kg. Belia Sg. Panjang
 25943,Sg. Bernam di Rimba KDR
 RPJPSBGNTERAP,Rumah Pam JPS Bagan Terap
 PEKANSABAKBERNAM,Pekan Sabak Bernam
@@ -355,6 +353,7 @@ NSBN0034,Bandar Baru Nilai
 2421001_,Sg. Rembau di Titian Bintangor
 2421005_,Kg. Semerbok
 _NJLB0003,Kg. Ulu Klawang
+2820011_,Kg. Ulu Klawang
 2920032_,Sg. Triang di Kg. Chenor
 _NJLB0008,Kg. Relai di Kg. Baharu
 3020016_,Kg. Chennah
@@ -456,6 +455,7 @@ _CJRT0039,Kg. Chebong
 _CJRT0025,Kg. Bharu
 _CJRT0022,Paya Gintong
 _CRAU0049,Felda Tersang 2
+_CRAU0047,Sg. Lipis di Kg. Pos
 _CRAU0046,Batu Malim
 4017001_,Sg. Lipis di Batu Malim
 3717001_,Peninjau
@@ -565,6 +565,8 @@ _DMCG0215,Kusial
 _DMCG0001,Kg. Temangan
 6021065_DPMS0001,Sg. Kelantan di Air Mulih
 25930,Rumah Pam Repek at Kelantan
+25931,Kg. Tandak (Bkt. P.Junu at Kelantan)
+_DPMS0419,Empangan Bukit Kwong
 25368,Emp. Bukit Kwong
 _DPMS0003,Rantau Panjang
 _DKBR0008,IPMI Zon Timur
@@ -698,8 +700,10 @@ KCHCITYSOUTH,Kuching City South
 1834002_,Gaat B
 2029002_,Kapit New Headworks
 2029003_,Kapit Town
+2026001_,Nanga Sebatu
 1726041_,Nanga Bangkit
 2025012_,Song B
+1521001_,Sungai Nawang
 1823001_,Nanga Jagau
 2023001_,Nanga Kabah
 2121001_,Kanowit Town
@@ -744,6 +748,7 @@ KCHCITYSOUTH,Kuching City South
 2530001,Rumah Maja
 2629401_,Muput
 2730001,Rumah Keseng
+2729055,Sangan
 2828025_,Tatau Town
 3028001_,Kuala Tatau
 3330001,Sungai Sebatang
@@ -759,6 +764,7 @@ KCHCITYSOUTH,Kuching City South
 3130001_,Sungai Sibiu
 26131,Bintulu New Airport
 3130003,JPS Bintulu
+3533001_,Kuala Similajau
 3334001,Similajau Estate
 3635001_,Kuala Tutong
 3738001_,Subis 1
@@ -776,6 +782,7 @@ KCHCITYSOUTH,Kuching City South
 4048001_,Mulu Airport
 3847035_,Long Atip
 3946001_,Long Terawan
+3945017_,Long Panai
 3152011_,Lio Matu
 3451028_,Long Lellang
 3050015_,Long Moh
