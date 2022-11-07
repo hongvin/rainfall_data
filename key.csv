@@ -84,7 +84,6 @@ JPSMEKANIKAL,Workshop Sg. Petani
 25955,Semeling at Kedah
 26172,Sg. Gurun Upper
 5704180_,Gunung Jerai
-SINGKIRGENTING,Sg. Singkir di Kg. Singkir Genting
 5406078_,Ulu Paip
 25956,Ldg. Bagan Sena at Kedah
 5505084_,Ladang Henrieta
@@ -185,6 +184,7 @@ KOMPLEKSPEGHULUULUBERNAM,Kompleks Penghulu Hulu Bernam
 3714080_,Sg. Bernam di Kg. Sg. Selisek
 FELDAGEDANGSA,Felda Gedangsa
 25551,Ibu Bekalan Sg. Bernam
+KGBELIA2SGPANJANG,Kg. Belia Sg. Panjang
 25943,Sg. Bernam di Rimba KDR
 RPJPSBGNTERAP,Rumah Pam JPS Bagan Terap
 PEKANSABAKBERNAM,Pekan Sabak Bernam
@@ -364,7 +364,6 @@ _NJLB0015,Ladang Glandle
 _NJPL0002,Sg. Serting di Kg. Datok Johan
 2923001_,Sg. Serting di Serting Ulu
 2824093_,Ladang Bahau
-_NKPH0001,Ladang Sg. Sabaling
 3023098_,Sg. Lui
 2725096_,Palong 9
 2625413_,Sg. Muar di Pekan Rompin
@@ -381,6 +380,7 @@ _NKPH0001,Ladang Sg. Sabaling
 2624001_,Felda Jelai
 25797,Ldg. Air Tengah at Negeri Sembilan
 2525003_,Bukit Jalor
+115566_,Ladang Fidlot
 2525002_,Pej. Daerah Kecil Gemas
 2526005_,Sg. Gemas di Kg. Tiong
 2625084_,Londah
@@ -704,6 +704,7 @@ KCHCITYSOUTH,Kuching City South
 1726041_,Nanga Bangkit
 2025012_,Song B
 1521001_,Sungai Nawang
+1624001_,Rumah Andau
 1823001_,Nanga Jagau
 2023001_,Nanga Kabah
 2121001_,Kanowit Town
@@ -843,7 +844,6 @@ SKBU0001,Lawa Mondou
 5352102_,Sek. Men. Pantai
 5352101_,Bukit Kuda
 5252101_,Kinabenua
-25267,Ganggarak
 5255105_,Waterfront
 5351001_,Sg. Lada
 LLBN0010,Empangan Kerupang
