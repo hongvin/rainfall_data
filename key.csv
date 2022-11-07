@@ -84,6 +84,7 @@ JPSMEKANIKAL,Workshop Sg. Petani
 25955,Semeling at Kedah
 26172,Sg. Gurun Upper
 5704180_,Gunung Jerai
+SINGKIRGENTING,Sg. Singkir di Kg. Singkir Genting
 5406078_,Ulu Paip
 25956,Ldg. Bagan Sena at Kedah
 5505084_,Ladang Henrieta
@@ -224,6 +225,7 @@ BT10GOMBAK,Sg. Gombak di Batu 10
 3117080_,Bukit Antarabangsa
 3117081_,Puncak Atheneum
 KMSB,Kg. Melayu Sg. Buloh
+3115080_,Sg. Buloh di Paya Jaras
 PAYAJARASHILIR,Paya Jaras Hilir
 3114087_,Empangan Tasik Subang Meru
 26039,Sg. Bakul di Kg. Budiman
@@ -318,8 +320,8 @@ KELANANG,Pintu Air Kelanang
 3016002_,Sg. Klang di Jambatan Petaling
 3117120_,Sg. Kerayong di Kg. Cheras Baru
 3016103_,Taman Desa (SMART)
-26377,Sentul Park
 26497,Kg. Berembang (SMART)
+26377,Sentul Park
 25701,Sg. Anak Gajah
 25083,Sg. Limau Manis
 2522007_,Felcra Lenggeng
@@ -425,7 +427,6 @@ JHR-PPTSALLEH,Pintu Air Parit Salleh
 SGMASAI,Sg. Masai di Masai
 SGTIRAM,Sg. Tiram di Ulu Tiram
 1836146_,Sg. Linggiu di Linggiu
-1836147_,Sg. Sayong
 1838149_,Air Terjun Kota Tinggi
 1738132_,Ladang Nam Heng
 1542001_,Bandar Penawar
@@ -482,7 +483,6 @@ _CMRN0031,Pusat Latihan JAKOA KM. 56 (Bt. 34)
 3428001_,Sg. Pahang di Kuala Sg. Chini
 _CPKN0042,Kg. Salong
 _CPKN0132,Batu Gong
-_CPKN0002,Sg. Pahang di Paloh Hinai
 3431099,Sg. Pahang di Paloh Inai
 _CPKN0047,Kg. Temai Hilir
 3533102_CPKN0003,Sg. Pahang Tua di Rumah Pam Pahang Tua
@@ -678,6 +678,7 @@ KCHCITYSOUTH,Kuching City South
 26128,Kaki Wong
 1713005_,Saratok DID
 1812001_,Roban
+1911001_,Sessang II (Alit)
 1811007_,Kabong
 1737001,Telok Ngelengkung
 1947001_,Long Unai
@@ -844,6 +845,7 @@ SKBU0001,Lawa Mondou
 5352102_,Sek. Men. Pantai
 5352101_,Bukit Kuda
 5252101_,Kinabenua
+25267,Ganggarak
 5255105_,Waterfront
 5351001_,Sg. Lada
 LLBN0010,Empangan Kerupang
