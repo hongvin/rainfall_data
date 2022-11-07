@@ -1,5 +1,6 @@
 0,1
 6602002_,Sg. Pelarit di Kaki Bukit
+6602404_,Sg. Chuchoh di Kg. Chantik
 6502011_,Empangan Timah Tasuh
 6502012_,Sg. Buluh di Kg. Batu Bertangkup
 25952,Sungai Gial at Kg Gial
@@ -287,6 +288,7 @@ BLALANG,Bagan Lalang
 25794,Pintu Air Kg. Bagan Lalang
 TGRHU,Pintu Air Tanjung Rhu
 2816138_,Sg. Langat di Bukit Changgang
+SGKELAMBU,TKPM Sg. Kelambu
 2815180_,Sg. Langat di JPS Sg. Manggis
 PEKANBANTING,Pekan Banting
 KGTELUKPULAI,P/A Kg. Teluk Pulai
@@ -317,8 +319,8 @@ KELANANG,Pintu Air Kelanang
 3016002_,Sg. Klang di Jambatan Petaling
 3117120_,Sg. Kerayong di Kg. Cheras Baru
 3016103_,Taman Desa (SMART)
-26497,Kg. Berembang (SMART)
 26377,Sentul Park
+26497,Kg. Berembang (SMART)
 25701,Sg. Anak Gajah
 25083,Sg. Limau Manis
 2522007_,Felcra Lenggeng
@@ -512,7 +514,6 @@ KGBUKIT,Sg. Nerus di Kg. Bukit
 5426003_,Sg. Setiu di Kg. Besut
 5527024_,Sg. Setiu di Jambatan Permaisuri
 5428003_,Sg. Chalok di Jambatan Chalok
-5029034_THTG0005,Sg. Terengganu di Kg. Dura
 5127011_,Kenyir Elephant Village (KEV)
 5229048_THTG0002,Sg. Telemong di Kuala Ping
 4930038_THTG0008,Sg. Berang di Kg. Menerong
@@ -527,6 +528,7 @@ UMT,Universiti Malaysia Terengganu
 25823,Sg. Nerus di Kg. Jeram
 5031001_,Sg. Marang di Jambatan Pengkalan Berangan
 JPSMARANG,JPS Marang
+5131064_,Sek. Men. Bukit Sawa
 MERCHANG,Sek. Men. Keb.  Merchang
 5624002_,Sg. Dungun di Kg. Pasir Raja
 4730002_,Sg. Dungun di Kuala Jengai
@@ -572,6 +574,7 @@ _DKBR0007,Tambatan DRaja
 _DPMS0008,Kg. Jambu (Kuala Jambu)
 6024074_DBCK0001,Bachok
 25098,Pak Badol
+25881,Serdang at Gunong Barat Bachok
 25883,Tok Ajam at Kelantan
 25882,Kg. Wakaf Raja at Kelantan
 26285,SM Cherang Ruku
@@ -662,11 +665,13 @@ KCHCITYSOUTH,Kuching City South
 1014001_,Klauh
 1111008_,Pantu
 1311003_,Lingga
+1415001_,Nanga Lubau
 1615023_,Batu Danau
 1415004_,Betong
 1514001_,Debak
 26129,Pusa
 1611001_,JPS Beladin
+1610001_,Maludam
 26128,Kaki Wong
 1713005_,Saratok DID
 1812001_,Roban
@@ -679,18 +684,17 @@ KCHCITYSOUTH,Kuching City South
 2843001_,Long Jek
 2442001_,Long Laku
 2939045_,Long Sambop
-2939002_,Sambop B
 2737002_,Giam Pasang B
 2737103_,Belaga
 2333002_,Punan Bah B
 2036001_,Tunoh Scheme
 2134001_,Nanga Tiau
+1836042_,Nanga Entawau
 1834002_,Gaat B
 2029002_,Kapit New Headworks
 2029003_,Kapit Town
 1726041_,Nanga Bangkit
 2025012_,Song B
-1624001_,Rumah Andau
 1823001_,Nanga Jagau
 2023001_,Nanga Kabah
 2121001_,Kanowit Town
@@ -708,17 +712,21 @@ KCHCITYSOUTH,Kuching City South
 2218008_,Sungai Bidut
 2216001_,Lebaan
 2021001_,Renan Kemiding
+2024001_,Nanga Ngemah
 2323001_,Tusut
 2321001_,Stapang B
 2520052_,Tamin
 2325039_,Sungai Arau
 2526001_,Ulu Sungai Pelagau
 2625002_,Nanga Lemai B
+1719001_,Banyi
 2019024_,Julau
 1816029_,Pakan
 2116030_,Bintangor
 2115008_,Sarikei DID
+2516001_,Sungai Dausan
 2213001_,Sungai Maleng
+2412001_,Paloh Bangau
 2514005_,Daro
 2321066_,Sekuau
 2819001_,Sungai Talau
@@ -731,7 +739,6 @@ KCHCITYSOUTH,Kuching City South
 2530001,Rumah Maja
 2629401_,Muput
 2730001,Rumah Keseng
-2729055,Sangan
 2828025_,Tatau Town
 3028001_,Kuala Tatau
 3330001,Sungai Sebatang
@@ -740,13 +747,13 @@ KCHCITYSOUTH,Kuching City South
 2836001_,Bintulu/Belaga Road
 3034001_,Rumah Bansa
 3035001_,Kuala Binyo
+3236001_,Rumah Along
 2931001_,Rumah Luang
 3132023_,Sebauh
 3130005_,Bintulu Kastam Wharf
 3130001_,Sungai Sibiu
 26131,Bintulu New Airport
 3130003,JPS Bintulu
-3533001_,Kuala Similajau
 3334001,Similajau Estate
 3738001_,Subis 1
 3838064_,Karabungan
@@ -761,7 +768,6 @@ KCHCITYSOUTH,Kuching City South
 3950020_,Long Seridan
 3847035_,Long Atip
 3946001_,Long Terawan
-3945017_,Long Panai
 3152011_,Lio Matu
 3451028_,Long Lellang
 2949001_,Long Jee
@@ -769,6 +775,7 @@ KCHCITYSOUTH,Kuching City South
 3547001_,Long Luteng
 3744009_,Long Lama
 4043059,Benawa
+3243071_,Long Aton
 3441001_,Long Bantan
 3541033_,Long Jegan
 3842034_,Long Teru
@@ -792,7 +799,6 @@ KCHCITYSOUTH,Kuching City South
 4955021_,Merapok
 4954001_,Kuala Lawas
 4658001_,Bakuku
-4959001_,Sg. Padas di Kemabong
 5357003_,Sg. Padas di Beaufort JPS
 5663002_,Sg. Pegalan di Keranaan
 STAM0002,Gunung Alab
