@@ -50,6 +50,7 @@ FELCRATAMPOI,Felcra Bukit Tampoi
 SEKKEBKGBUKIT,Sek. Keb. Kampung Bukit
 26048,Sg. Anak Bukit di Taman Aman
 KUBURPANJANG,Sg. Titi Kerbau di Kubur Panjang
+5905180_,Sg. Pendang di Pekan Pendang
 5905181_,Sg. Pendang di Pondok Chegar
 PAYAMADINSON,Kg. Paya Mat Inson
 6108001_,Kompleks Empangan Muda
@@ -138,6 +139,7 @@ SGDUA,Sg. Dua di Kg. Dua Bukit
 26188,Sg. Teluk Kumbar di Teluk Kumbar
 26337,Klinik Bkt. Bendera at P. Pinang
 5108005_,Sg. Ijok di Bekalan Ijok
+4907020_,Sg. Kurau di Bt. 14 Batu Kurau
 4807016_,Bukit Larut
 TGPIANDANG,Tanjung Piandang
 5006021_,Kolam Air Bukit Merah
@@ -225,7 +227,6 @@ BT10GOMBAK,Sg. Gombak di Batu 10
 3117081_,Puncak Atheneum
 KMSB,Kg. Melayu Sg. Buloh
 PAYAJARASHILIR,Paya Jaras Hilir
-MERBAUSEMPAK,Merbau Sempak
 3114087_,Empangan Tasik Subang Meru
 26039,Sg. Bakul di Kg. Budiman
 3017107_,Sg. Kuyoh di Seri Kembangan
@@ -558,14 +559,12 @@ _DGMG0104,Sek. Keb. Chalil
 5521044_DKKI0014,Sg. Kelantan di Kuala Krai
 _DJLI0007,Kg. Lawar
 _DJLI0002,Air Bol
-_DJLI0011,Sg. Lanas di Air Lanas
 _DTMH0002,Ladang Kerilla
 _DMCG0215,Kusial
 25932,Pej. Pertanian Btg. Merbau at Kelantan
 _DMCG0001,Kg. Temangan
 6021065_DPMS0001,Sg. Kelantan di Air Mulih
 25930,Rumah Pam Repek at Kelantan
-25931,Kg. Tandak (Bkt. P.Junu at Kelantan)
 25368,Emp. Bukit Kwong
 _DPMS0003,Rantau Panjang
 _DKBR0008,IPMI Zon Timur
@@ -585,6 +584,7 @@ _DPMS0008,Kg. Jambu (Kuala Jambu)
 26292,Kg. Pulau Lima
 1599001_,Ulu Batang Kayan
 1698007_,Lundu
+1996090_,Samunsam
 1897016_,Sematan
 26124,Sampadi Laut
 1201076_,Semban
@@ -665,6 +665,7 @@ KCHCITYSOUTH,Kuching City South
 1014001_,Klauh
 1111008_,Pantu
 1311003_,Lingga
+1616021_,Nanga Tiga
 1415001_,Nanga Lubau
 1615023_,Batu Danau
 1415004_,Betong
@@ -683,13 +684,17 @@ KCHCITYSOUTH,Kuching City South
 26140,Long Jawe
 2843001_,Long Jek
 2442001_,Long Laku
+3041002_,Long Urun
 2939045_,Long Sambop
+2939002_,Sambop B
 2737002_,Giam Pasang B
 2737103_,Belaga
 2333002_,Punan Bah B
+2230143_,Nanga Merit
 2036001_,Tunoh Scheme
 2134001_,Nanga Tiau
 1836042_,Nanga Entawau
+1731001_,Nanga Balang
 1834002_,Gaat B
 2029002_,Kapit New Headworks
 2029003_,Kapit Town
@@ -755,6 +760,7 @@ KCHCITYSOUTH,Kuching City South
 26131,Bintulu New Airport
 3130003,JPS Bintulu
 3334001,Similajau Estate
+3635001_,Kuala Tutong
 3738001_,Subis 1
 3838064_,Karabungan
 3837001_,Batu Niah Bazaar
@@ -765,17 +771,22 @@ KCHCITYSOUTH,Kuching City South
 4339005_,Miri Airport
 4339001_,Miri Municipal Car Park
 3754007_,Bario
+3752001_,Pa Tik
 3950020_,Long Seridan
+4048001_,Mulu Airport
 3847035_,Long Atip
 3946001_,Long Terawan
 3152011_,Lio Matu
 3451028_,Long Lellang
+3050015_,Long Moh
 2949001_,Long Jee
 3048026_,Long Anap
+3347003_,Long Akah
 3547001_,Long Luteng
 3744009_,Long Lama
 4043059,Benawa
 3243071_,Long Aton
+3342032_,Long Subing
 3441001_,Long Bantan
 3541033_,Long Jegan
 3842034_,Long Teru
