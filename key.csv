@@ -281,7 +281,6 @@ PUNCAKNIAGA,Puncak Niaga Putrajaya
 LDGBUTE,Ladang Bute
 TMNDESAMERPATI,Sg. Jijan di Taman Desa Merpati
 2717134_,Sg. Labu di Kg. Salak Tinggi
-2816113_,Sg. Labu di Kg. Labu Lanjut (Masjid KLIA)
 2816041_,Sg. Langat di Dengkil
 AGROTEKSEPANG,Agrotek Sepang
 PASGPELEK,Pintu Air Sg. Pelek
@@ -464,6 +463,7 @@ SMKMUNSHI,SMK Munshi Sulaiman
 1829078_,Sg. Batu Pahat di JPS Batu Pahat
 1730082_,Sg. Senggarang di Senggarang
 25912,Sg. Rengit di Rengit
+25901,Sg. Paloh di Pekan Paloh
 2033003_,Sg. Mengkibol di Bandar Kluang
 SMKKAHANG,SMK Kahang
 1834125_,Ladang Renggam
@@ -723,7 +723,6 @@ KCHCITYSOUTH,Kuching City South
 1303014_,Semongok
 1203002_,Kampung Gayu
 1305038_,Samarahan Estate
-905039_,Bunan Gega
 1003031_,Tebedu
 1004001_,Krusen
 26130,Tebakang
@@ -772,7 +771,6 @@ KCHCITYSOUTH,Kuching City South
 1812001_,Roban
 1911001_,Sessang II (Alit)
 1811007_,Kabong
-1737001,Telok Ngelengkung
 1947001_,Long Unai
 2346001_,Long Lidam
 1834001_,Long Busang
@@ -818,6 +816,7 @@ KCHCITYSOUTH,Kuching City South
 2021001_,Renan Kemiding
 2024001_,Nanga Ngemah
 2323001_,Tusut
+2321001_,Stapang B
 2520052_,Tamin
 2325039_,Sungai Arau
 2526001_,Ulu Sungai Pelagau
@@ -911,6 +910,7 @@ KCHCITYSOUTH,Kuching City South
 4854009_,Lawas Airfield
 4955021_,Merapok
 4954001_,Kuala Lawas
+4658001_,Bakuku
 5357003_,Sg. Padas di Beaufort JPS
 5663002_,Sg. Pegalan di Keranaan
 STAM0002,Gunung Alab
