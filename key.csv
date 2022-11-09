@@ -44,8 +44,8 @@ SEKKEBLAMDIN,Sek. Keb. Lamdin
 6106180_,Sg. Naka di Naka
 26165,Sg. Tekai di Kg. Sireh
 6205180_,Sg. Padang Terap di Kuala Nerang
-FELCRATAMPOI,Felcra Bukit Tampoi
 6306035_,Sg. Durian Burung di Durian Burung
+FELCRATAMPOI,Felcra Bukit Tampoi
 SEKKEBKGBUKIT,Sek. Keb. Kampung Bukit
 26048,Sg. Anak Bukit di Taman Aman
 6103147_,Rumah Pam Sg. Raja
@@ -219,6 +219,7 @@ KGSETIA,Kg. Setia Kuang
 TMNDESAKUNDANG,Taman Desa Kundang
 BATUARANG,Batu Arang
 3216066_,Selayang Baru
+3216067_,Sg. Batu di Batu Caves
 BT10GOMBAK,Sg. Gombak di Batu 10
 3117080_,Bukit Antarabangsa
 3117081_,Puncak Atheneum
@@ -433,7 +434,6 @@ KGGATOM,Sg. Labis di Kg. Gatom
 26121,Kg. Parit Tengah
 25906,Ladang Air Manis
 26047,Parit Jawa
-2326025_,Gunung Ledang
 2326026_,Bukit Serampang
 PAYAMAS,Paya Mas
 SWHRING,Sawah Ring
@@ -550,6 +550,7 @@ _CRAU0033,JPS Stor Raub
 _CRAU0034,Ulu Gali
 _CRAU0039,Kg. Cheroh
 _CRAU0042,Sg. Dong di Kg. Peruas
+_CRAU0045,JKR Jeruas
 3519125_CBTG0002,Sg. Bentong di Kuala Marong
 _CBTG0024,Pos Sungai Dua
 3420132_CBTG0001,Sg. Semantan di Kg. Lengkong
@@ -770,6 +771,7 @@ KCHCITYSOUTH,Kuching City South
 1812001_,Roban
 1911001_,Sessang II (Alit)
 1811007_,Kabong
+1737001,Telok Ngelengkung
 1947001_,Long Unai
 2346001_,Long Lidam
 1834001_,Long Busang
@@ -796,6 +798,7 @@ KCHCITYSOUTH,Kuching City South
 1521001_,Sungai Nawang
 1624001_,Rumah Andau
 1823001_,Nanga Jagau
+1821001_,Uka
 2020001_,Nanga Machan B
 2023001_,Nanga Kabah
 2121001_,Kanowit Town
@@ -886,6 +889,7 @@ KCHCITYSOUTH,Kuching City South
 3744009_,Long Lama
 4043059,Benawa
 3243071_,Long Aton
+3342032_,Long Subing
 3441001_,Long Bantan
 3541033_,Long Jegan
 3842034_,Long Teru
@@ -894,7 +898,6 @@ KCHCITYSOUTH,Kuching City South
 4442001,Tanjung Jaye
 4151017_,Long Napir
 4250001_,Setuan
-4248001_,Ulu Medalam
 4448001_,Nanga Insungai
 25538,Nanga Medamit
 4650023,Pandaruan
