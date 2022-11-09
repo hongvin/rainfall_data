@@ -14,6 +14,7 @@
 26441,Sg. Perlis di Padang Katong
 26442,Sg. Perlis di Rumah Pam Kuala Perlis
 26361,Sg. Arau di Kolam Sg. Jernih
+26445,Sg. Gial di Balik Guar
 26335,Arau at Perlis
 26363,Sg. Arau di Felda
 6398141_,Gunung Raya
@@ -69,8 +70,10 @@ BERIS,Empangan Beris (State)
 5708001_,Sg. Ketil di Kg. Baru
 26145,Sg. Ketil di Jambatan Titian Ilham
 5508001_,Kg. Iboi Kupang
+5608073_,Sg. Ketil di Kuala Pegang
 5607002_,Sg. Ketil di Kg. Padang Pulai
 5607001_,SMK Parit Panjang
+5606001_,Sg. Sedim di Kg. Sedim
 26144,Sg. Muda di Jambatan Jeniang
 26148,Jambatan Bukit Selambau
 5606076_,Sg. Muda di Jambatan Syed Omar
@@ -195,7 +198,6 @@ PARIT1SGBESAR,Parit Satu Sg. Besar
 TALIAIR9,Tali Air 9 Sg. Panjang
 FDCSEKINCHAN,FDC Sekinchan
 IBUBKLSGTENGI,Ibu Bekalan Sg. Tengi
-PATGKARANG,P/A Pekan Tg. Karang
 STORJPSTGKARANG,Stor JPS Tg. Karang
 PRT1SB,Parit 1 Sg. Burong
 3414032_,Sg. Selangor di Rantau Panjang
@@ -260,6 +262,7 @@ PANDAMARAN,P/A Pandamaran
 3017081_,Sg. Raya di Batu 9
 KGBARUBALAKONG,Sg. Balak di Kg. Baru Balakong
 TMNTTDIGROVEKAJANG,Sg. Jelok di Taman TTDI Grove
+SGKANTANKAJANG,Sg. Kantan
 2917112_,Sg. Langat di Pekan Kajang
 TMNWESTCOUNTRYKAJANG,Sg. Langat di Taman West Country Kajang
 JPSHLGT,JPS Hulu Langat
@@ -361,6 +364,7 @@ _NJLB0008,Kg. Relai di Kg. Baharu
 _NJLB0011,MARDI Jelebu
 26547,Sg. Buluh
 3022431_,Sg. Triang di Kg. Juntai
+_NJLB0015,Ladang Glandle
 _NJPL0002,Sg. Serting di Kg. Datok Johan
 2923001_,Sg. Serting di Serting Ulu
 2824093_,Ladang Bahau
@@ -460,7 +464,6 @@ SMKMUNSHI,SMK Munshi Sulaiman
 1829078_,Sg. Batu Pahat di JPS Batu Pahat
 1730082_,Sg. Senggarang di Senggarang
 25912,Sg. Rengit di Rengit
-25901,Sg. Paloh di Pekan Paloh
 2033003_,Sg. Mengkibol di Bandar Kluang
 SMKKAHANG,SMK Kahang
 1834125_,Ladang Renggam
@@ -551,6 +554,7 @@ _CRAU0042,Sg. Dong di Kg. Peruas
 3519125_CBTG0002,Sg. Bentong di Kuala Marong
 _CBTG0024,Pos Sungai Dua
 3420132_CBTG0001,Sg. Semantan di Kg. Lengkong
+_CTMH0043,"Felcra Paya Laman, Lanchang"
 _CTMH0049,"Sg. Terbol, Jenderak"
 _CTMH0047,"Pos Penderas, Kuala Krau"
 _CTMH0046,Kuala Krau
@@ -561,6 +565,7 @@ _CTMH0335,SK Lipat Kajang
 _CBER0030,Ladang Karmen
 2924096_,Glendale
 _CBER0021,Pos Iskandar
+_CBER0023,Pej. Ramsar
 _CMRN0027,Felda Kg. Awah
 3725001_CMRN0001,Sg. Pahang di Kg. Chenor
 _CMRN0147,Sek. Keb. Kuala Sentul
@@ -813,7 +818,6 @@ KCHCITYSOUTH,Kuching City South
 2021001_,Renan Kemiding
 2024001_,Nanga Ngemah
 2323001_,Tusut
-2321001_,Stapang B
 2520052_,Tamin
 2325039_,Sungai Arau
 2526001_,Ulu Sungai Pelagau
@@ -830,8 +834,10 @@ KCHCITYSOUTH,Kuching City South
 2321066_,Sekuau
 2819001_,Sungai Talau
 2323002_,Rumah Jugah
+2721001_,Kampung Sunting
 2920005_,Mukah JKR
 2920037_,Mukah-Balingian OPS4
+2825001_,Sungai Bawan
 2823001_,Dana
 3025001_,Kuala Balingian
 2530001,Rumah Maja
@@ -905,7 +911,6 @@ KCHCITYSOUTH,Kuching City South
 4854009_,Lawas Airfield
 4955021_,Merapok
 4954001_,Kuala Lawas
-4658001_,Bakuku
 5357003_,Sg. Padas di Beaufort JPS
 5663002_,Sg. Pegalan di Keranaan
 STAM0002,Gunung Alab
