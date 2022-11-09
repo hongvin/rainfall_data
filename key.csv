@@ -260,7 +260,6 @@ PANDAMARAN,P/A Pandamaran
 3017081_,Sg. Raya di Batu 9
 KGBARUBALAKONG,Sg. Balak di Kg. Baru Balakong
 TMNTTDIGROVEKAJANG,Sg. Jelok di Taman TTDI Grove
-SGKANTANKAJANG,Sg. Kantan
 2917112_,Sg. Langat di Pekan Kajang
 TMNWESTCOUNTRYKAJANG,Sg. Langat di Taman West Country Kajang
 JPSHLGT,JPS Hulu Langat
@@ -318,7 +317,6 @@ KELANANG,Pintu Air Kelanang
 3016002_,Sg. Klang di Jambatan Petaling
 3117120_,Sg. Kerayong di Kg. Cheras Baru
 3016103_,Taman Desa (SMART)
-26497,Kg. Berembang (SMART)
 26377,Sentul Park
 25701,Sg. Anak Gajah
 25083,Sg. Limau Manis
@@ -363,7 +361,6 @@ _NJLB0008,Kg. Relai di Kg. Baharu
 _NJLB0011,MARDI Jelebu
 26547,Sg. Buluh
 3022431_,Sg. Triang di Kg. Juntai
-_NJLB0015,Ladang Glandle
 _NJPL0002,Sg. Serting di Kg. Datok Johan
 2923001_,Sg. Serting di Serting Ulu
 2824093_,Ladang Bahau
@@ -564,13 +561,13 @@ _CTMH0335,SK Lipat Kajang
 _CBER0030,Ladang Karmen
 2924096_,Glendale
 _CBER0021,Pos Iskandar
-_CBER0023,Pej. Ramsar
 _CMRN0027,Felda Kg. Awah
 3725001_CMRN0001,Sg. Pahang di Kg. Chenor
 _CMRN0147,Sek. Keb. Kuala Sentul
 _CMRN0025,Sg. Kundang di Jam. Sg. Kundang
 3527092_,Sg. Pahang di Lubuk Paku
 _CMRN0031,Pusat Latihan JAKOA KM. 56 (Bt. 34)
+3428001_,Sg. Pahang di Kuala Sg. Chini
 _CPKN0042,Kg. Salong
 _CPKN0132,Batu Gong
 _CPKN0002,Sg. Pahang di Paloh Hinai
@@ -597,6 +594,7 @@ _CKTN0004,Ladang Ulu Lepar
 25874,Emp. Pontian Pahang
 2636182_,Sg. Endau di Tanjung Gemuk
 5424001_,Sg. Besut di Jambatan Keruak
+5524001_,Sg. Besut di Kg. La
 5625003_,Empangan Paya Peda
 5724003_,Sg. Besut di Jambatan Jerteh
 5626001_,Institut Pertanian Tok Dor
@@ -655,7 +653,6 @@ _DTMH0002,Ladang Kerilla
 _DMCG0001,Kg. Temangan
 6021065_DPMS0001,Sg. Kelantan di Air Mulih
 25930,Rumah Pam Repek at Kelantan
-25931,Kg. Tandak (Bkt. P.Junu at Kelantan)
 _DPMS0419,Empangan Bukit Kwong
 25368,Emp. Bukit Kwong
 _DPMS0003,Rantau Panjang
@@ -707,6 +704,7 @@ KCHCITYSOUTH,Kuching City South
 1503001_,Bako Causeway
 1603002_,Siol JPS
 1603001_,Semariang Fisheries
+1504001_,Barrage
 1502006_,Sungai Tengah
 1502004_,Malihah
 1502026,Matang
@@ -780,6 +778,7 @@ KCHCITYSOUTH,Kuching City South
 2939045_,Long Sambop
 2939002_,Sambop B
 2737002_,Giam Pasang B
+2737103_,Belaga
 2333002_,Punan Bah B
 2230143_,Nanga Merit
 2036001_,Tunoh Scheme
@@ -831,7 +830,6 @@ KCHCITYSOUTH,Kuching City South
 2321066_,Sekuau
 2819001_,Sungai Talau
 2323002_,Rumah Jugah
-2721001_,Kampung Sunting
 2920005_,Mukah JKR
 2920037_,Mukah-Balingian OPS4
 2823001_,Dana
@@ -924,6 +922,7 @@ SKBU0001,Lawa Mondou
 26310,Malangkap&
 225709220509,Inanam Met. Stn. At Sabah
 26316,Matungong
+26309,Kaiduan At Sabah
 26312,Sg. Moyog At Penampang
 220609250509,Vulanut
 26319,Kiulu At Sabah
