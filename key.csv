@@ -44,8 +44,8 @@ SEKKEBLAMDIN,Sek. Keb. Lamdin
 6106180_,Sg. Naka di Naka
 26165,Sg. Tekai di Kg. Sireh
 6205180_,Sg. Padang Terap di Kuala Nerang
-6306035_,Sg. Durian Burung di Durian Burung
 FELCRATAMPOI,Felcra Bukit Tampoi
+6306035_,Sg. Durian Burung di Durian Burung
 SEKKEBKGBUKIT,Sek. Keb. Kampung Bukit
 26048,Sg. Anak Bukit di Taman Aman
 6103147_,Rumah Pam Sg. Raja
@@ -143,7 +143,6 @@ SGDUA,Sg. Dua di Kg. Dua Bukit
 4807016_,Bukit Larut
 TGPIANDANG,Tanjung Piandang
 5006021_,Kolam Air Bukit Merah
-5610063_,Kg. Lalang
 5513001_,Tasik Temengor di Banding
 5411066_,Sg. Perak di Kuala Kenderong
 5210069_,Lawin
@@ -220,7 +219,6 @@ KGSETIA,Kg. Setia Kuang
 TMNDESAKUNDANG,Taman Desa Kundang
 BATUARANG,Batu Arang
 3216066_,Selayang Baru
-3216067_,Sg. Batu di Batu Caves
 BT10GOMBAK,Sg. Gombak di Batu 10
 3117080_,Bukit Antarabangsa
 3117081_,Puncak Atheneum
@@ -357,7 +355,6 @@ _NJLB0003,Kg. Ulu Klawang
 2820011_,Kg. Ulu Klawang
 26546,Petaling
 2920032_,Sg. Triang di Kg. Chenor
-_NJLB0008,Kg. Relai di Kg. Baharu
 3020016_,Kg. Chennah
 2922018_,Ladang Pertang
 _NJLB0011,MARDI Jelebu
@@ -509,6 +506,7 @@ PASAK,Pasak
 1542001_,Bandar Penawar
 SILICA,Johor Silica
 BKTPELALI,Bukit Pelali
+26008,Sg. Pungai di Punggai
 25923,Felda Lok Heng
 25927,Sg. Sedili Kecil di Sedili Kecil
 25926,Sg. Sedili Besar di Kg. Mawai
@@ -547,6 +545,7 @@ _CRAU0046,Batu Malim
 4017001_,Sg. Lipis di Batu Malim
 3717001_,Peninjau
 _CRAU0031,Sg. Chalit
+_CRAU0027,Felda Krau 4
 _CRAU0033,JPS Stor Raub
 _CRAU0034,Ulu Gali
 _CRAU0039,Kg. Cheroh
@@ -658,7 +657,6 @@ _DTMH0002,Ladang Kerilla
 _DMCG0001,Kg. Temangan
 6021065_DPMS0001,Sg. Kelantan di Air Mulih
 25930,Rumah Pam Repek at Kelantan
-_DPMS0419,Empangan Bukit Kwong
 25368,Emp. Bukit Kwong
 _DPMS0003,Rantau Panjang
 _DKBR0008,IPMI Zon Timur
@@ -723,6 +721,7 @@ KCHCITYSOUTH,Kuching City South
 1303014_,Semongok
 1203002_,Kampung Gayu
 1305038_,Samarahan Estate
+905039_,Bunan Gega
 1003031_,Tebedu
 1004001_,Krusen
 26130,Tebakang
@@ -887,7 +886,6 @@ KCHCITYSOUTH,Kuching City South
 3744009_,Long Lama
 4043059,Benawa
 3243071_,Long Aton
-3342032_,Long Subing
 3441001_,Long Bantan
 3541033_,Long Jegan
 3842034_,Long Teru
