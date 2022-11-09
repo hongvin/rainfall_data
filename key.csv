@@ -434,6 +434,7 @@ KGGATOM,Sg. Labis di Kg. Gatom
 26121,Kg. Parit Tengah
 25906,Ladang Air Manis
 26047,Parit Jawa
+2326025_,Gunung Ledang
 2326026_,Bukit Serampang
 PAYAMAS,Paya Mas
 SWHRING,Sawah Ring
@@ -650,7 +651,6 @@ _DGMG0019,Felda Aring 5
 _DGMG0104,Sek. Keb. Chalil
 5320038_DKKI0003,Sg. Galas di Dabong
 5521044_DKKI0014,Sg. Kelantan di Kuala Krai
-_DJLI0007,Kg. Lawar
 _DJLI0002,Air Bol
 _DJLI0011,Sg. Lanas di Air Lanas
 _DTMH0002,Ladang Kerilla
@@ -834,7 +834,6 @@ KCHCITYSOUTH,Kuching City South
 2514005_,Daro
 2321066_,Sekuau
 2819001_,Sungai Talau
-2323002_,Rumah Jugah
 2721001_,Kampung Sunting
 2920005_,Mukah JKR
 2920037_,Mukah-Balingian OPS4
@@ -898,6 +897,7 @@ KCHCITYSOUTH,Kuching City South
 4442001,Tanjung Jaye
 4151017_,Long Napir
 4250001_,Setuan
+4248001_,Ulu Medalam
 4448001_,Nanga Insungai
 25538,Nanga Medamit
 4650023,Pandaruan
@@ -922,7 +922,6 @@ SKBU0001,Lawa Mondou
 5478003_,Sg. Kinabatangan di Barek Manis
 5083001_,Lahad Datu
 4278005_,Kuhara
-26304,Basai At Sabah
 26302,Beluran At Sabah
 5261402_,Sg. Sook di Biah
 26310,Malangkap&
