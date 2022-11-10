@@ -504,6 +504,7 @@ LDGLIMLIM,Ladang Lim Lim
 1838149_,Air Terjun Kota Tinggi
 25924,Kg. Semanggar
 1738001_,Sg. Johor di Kota Tinggi
+PASAK,Pasak
 1738132_,Ladang Nam Heng
 1542001_,Bandar Penawar
 SILICA,Johor Silica
@@ -545,6 +546,7 @@ _CRAU0049,Felda Tersang 2
 _CRAU0047,Sg. Lipis di Kg. Pos
 _CRAU0046,Batu Malim
 4017001_,Sg. Lipis di Batu Malim
+_CRAU0028,"Bukit Peninjau, Fraser Hill"
 3717001_,Peninjau
 _CRAU0031,Sg. Chalit
 _CRAU0027,Felda Krau 4
@@ -583,6 +585,7 @@ _CPKN0047,Kg. Temai Hilir
 3533102_CPKN0003,Sg. Pahang Tua di Rumah Pam Pahang Tua
 3434001_CPKN0004,Sg. Pahang di Pekan
 _CKTN0004,Ladang Ulu Lepar
+3629103_,Sg. Lepar di Jambatan Gelugor
 3929001_,Sg. Lembing
 3930012_,PCCL Sg. Lembing
 3831001_,Sg. Kuantan di Pasir Kemudi
@@ -747,7 +750,6 @@ KCHCITYSOUTH,Kuching City South
 1219024_,Nanga Tutong II
 1519001_,Bau Sungai
 1417001_,Nanga Entalau
-1018002_,Lubok Antu
 1217011_,Ridan
 1316001_,Enteban 2
 26127,Engkilili JKR Wharf
@@ -840,8 +842,6 @@ KCHCITYSOUTH,Kuching City South
 2920005_,Mukah JKR
 2920037_,Mukah-Balingian OPS4
 2825001_,Sungai Bawan
-2823001_,Dana
-3025001_,Kuala Balingian
 2530001,Rumah Maja
 2629401_,Muput
 2730001,Rumah Keseng
