@@ -9,11 +9,14 @@
 25952,Sungai Gial at Kg Gial
 25940,Ngolong at Perlis
 6402009_,Sg. Arau di Kg. Kuala Tunggang
+25772,Ulu Pauh
 6501406_,Genting Kabu
 25773,Abi Kg. Baru
 6402436_,Sg. Repoh di Kg. Repoh
+6402010_,Sg. Perlis di Kg. Sg. Bakau
 25951,Kg. Behor Lateh at Perlis
 25941,Kuala Perlis at Perlis
+26326,Tasoh
 26443,Lubuk Sireh
 25400,Padang Besar Di Perlis
 25398,Kaki Bukit Perlis Di Perlis
@@ -56,7 +59,6 @@ SEKKEBKGBUKIT,Sek. Keb. Kampung Bukit
 26048,Sg. Anak Bukit di Taman Aman
 6103147_,Rumah Pam Sg. Raja
 KUBURPANJANG,Sg. Titi Kerbau di Kubur Panjang
-5905180_,Sg. Pendang di Pekan Pendang
 5905181_,Sg. Pendang di Pondok Chegar
 PAYAMADINSON,Kg. Paya Mat Inson
 6108001_,Kompleks Empangan Muda
@@ -264,7 +266,6 @@ PEKANMERU,Sg. Binjai di Pekan Meru
 JLNBENTENGKAPAR,Jln. Benteng Kapar
 PANDAMARAN,P/A Pandamaran
 3117482_,Sg. Ampang di Kg. Lembah Jaya Utara
-3218101_,Sg. Langat di TNB Pangsun
 3118104_,Sg. Langat di Batu 20
 3018104_,Sg. Langat di Batu 15
 3017081_,Sg. Raya di Batu 9
@@ -392,7 +393,6 @@ _NJPL0002,Sg. Serting di Kg. Datok Johan
 115566_,Ladang Fidlot
 2525002_,Pej. Daerah Kecil Gemas
 2526005_,Sg. Gemas di Kg. Tiong
-2625084_,Londah
 SIMPANGEMPAT,Simpang Ampat
 2322006_,Sg. Melaka di Melaka Pindah
 LADANGLENDU,Ladang Lendu
@@ -411,7 +411,6 @@ HOSPITALJASIN,Hospital Jasin
 26205,Sg. Melaka Di Pantai Belimbing
 2727001_,Balai Badang
 LDGSGSEGAMAT,Ladang Sg. Gemas
-25895,Sg. Muar di Muara Sg. Gemas
 2626003_,Sg. Muar di Kg. Awat
 2627001_,Sek. Keb. Spang Loi
 25893,Kg. Bangas
@@ -458,7 +457,6 @@ LDGUNION,Ladang Union
 2031069_,Ladang Yong Peng
 2031067_,Sg. Bekok di Bandar Yong Peng
 1931003_,Empangan Sembrong
-1931004_,Sg. Sembrong di Bt. 2 Sembrong
 1831480_,Sg. Sembrong di Parit Karjo
 25914,Sg. Simpang Kanan di Parit Besar
 25913,Sg. Simpang Kanan di Parit Belemam
@@ -535,6 +533,7 @@ _CCHG0014,Sg. Tringkap di Tringkap
 4414040_,MARDI CH
 C00001_,Sg. Bertam di SJK (C) Lembah Bertam
 C00002_,Sg. Bertam di Kg. Orang Asli Sg. Tiang
+_CLPS0029,Sg. Meldu
 4218042_,Sg. Jelai di Kuala Medang
 _CLPS0033,Balai Polis Merapoh
 4620046_,Merapoh
@@ -546,6 +545,7 @@ _CJRT0002,Sg. Tembeling di Kg. Merting
 _CJRT0039,Kg. Chebong
 4023001_CJRT0001,Sg. Pahang di Sg. Yap
 _CJRT0025,Kg. Bharu
+_CJRT0022,Paya Gintong
 _CRAU0049,Felda Tersang 2
 _CRAU0047,Sg. Lipis di Kg. Pos
 _CRAU0046,Batu Malim
@@ -660,7 +660,6 @@ _DGMG0104,Sek. Keb. Chalil
 5521044_DKKI0014,Sg. Kelantan di Kuala Krai
 _DJLI0007,Kg. Lawar
 _DJLI0002,Air Bol
-_DJLI0011,Sg. Lanas di Air Lanas
 _DTMH0002,Ladang Kerilla
 25932,Pej. Pertanian Btg. Merbau at Kelantan
 _DMCG0001,Kg. Temangan
@@ -909,7 +908,6 @@ KCHCITYSOUTH,Kuching City South
 4250001_,Setuan
 4248001_,Ulu Medalam
 4448001_,Nanga Insungai
-25538,Nanga Medamit
 4650023,Pandaruan
 4749001_,Limbang DID
 3956001,Ba Kelalan
