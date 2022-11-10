@@ -272,7 +272,6 @@ PANDAMARAN,P/A Pandamaran
 3017081_,Sg. Raya di Batu 9
 KGBARUBALAKONG,Sg. Balak di Kg. Baru Balakong
 TMNTTDIGROVEKAJANG,Sg. Jelok di Taman TTDI Grove
-SGKANTANKAJANG,Sg. Kantan
 2917112_,Sg. Langat di Pekan Kajang
 TMNWESTCOUNTRYKAJANG,Sg. Langat di Taman West Country Kajang
 JPSHLGT,JPS Hulu Langat
@@ -378,7 +377,6 @@ _NJPL0002,Sg. Serting di Kg. Datok Johan
 3023098_,Sg. Lui
 2725096_,Palong 9
 2625413_,Sg. Muar di Pekan Rompin
-2721074_,Kg. Talang
 2722002_,Kg. Sawah Lebar
 2723075_,Ladang Juasseh
 26076,Kg. Birah
@@ -391,7 +389,6 @@ _NJPL0002,Sg. Serting di Kg. Datok Johan
 2624001_,Felda Jelai
 25797,Ldg. Air Tengah at Negeri Sembilan
 2525003_,Bukit Jalor
-115566_,Ladang Fidlot
 2525002_,Pej. Daerah Kecil Gemas
 2526005_,Sg. Gemas di Kg. Tiong
 2625084_,Londah
@@ -554,6 +551,7 @@ _CRAU0049,Felda Tersang 2
 _CRAU0047,Sg. Lipis di Kg. Pos
 _CRAU0046,Batu Malim
 4017001_,Sg. Lipis di Batu Malim
+_CRAU0028,"Bukit Peninjau, Fraser Hill"
 3717001_,Peninjau
 _CRAU0029,JKR Tranum
 _CRAU0031,Sg. Chalit
@@ -615,6 +613,7 @@ _CKTN0004,Ladang Ulu Lepar
 5724003_,Sg. Besut di Jambatan Jerteh
 5626001_,Institut Pertanian Tok Dor
 5625011_,Sek. Keb. Kg. Jabi
+5428040_TSET0001,Sg. Nerus di Kg. Langkap
 KGBUKIT,Sg. Nerus di Kg. Bukit
 5426003_,Sg. Setiu di Kg. Besut
 5527024_,Sg. Setiu di Jambatan Permaisuri
@@ -632,7 +631,6 @@ TOKADIS,Kg. Tok Adis
 UMT,Universiti Malaysia Terengganu
 25823,Sg. Nerus di Kg. Jeram
 5031001_,Sg. Marang di Jambatan Pengkalan Berangan
-JPSMARANG,JPS Marang
 5131064_,Sek. Men. Bukit Sawa
 MERCHANG,Sek. Men. Keb.  Merchang
 5624002_,Sg. Dungun di Kg. Pasir Raja
