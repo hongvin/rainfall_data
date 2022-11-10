@@ -11,6 +11,7 @@
 25941,Kuala Perlis at Perlis
 26443,Lubuk Sireh
 25400,PADANG BESAR AT PERLIS
+25398,KAKI BUKIT AT PERLIS
 26441,Sg. Perlis di Padang Katong
 26442,Sg. Perlis di Rumah Pam Kuala Perlis
 26361,Sg. Arau di Kolam Sg. Jernih
@@ -114,6 +115,7 @@ LIMBUNGAN,Rumah Pam Taman Limbungan
 5304045_,Pusat Kesihatan Bukit Berapit
 5304046_,Permatang Rawa
 25963,Kolam Air Chrk. To' Kun At P.Pinang
+5304044_,Sg. Juru di Empangan Juru
 5305318_,Macang Bubuk
 5204423_,Sg. Junjung di Simpang Empat
 5204048_,Sg. Simpang Ampat
@@ -502,7 +504,6 @@ LDGLIMLIM,Ladang Lim Lim
 1838149_,Air Terjun Kota Tinggi
 25924,Kg. Semanggar
 1738001_,Sg. Johor di Kota Tinggi
-PASAK,Pasak
 1738132_,Ladang Nam Heng
 1542001_,Bandar Penawar
 SILICA,Johor Silica
@@ -582,7 +583,6 @@ _CPKN0047,Kg. Temai Hilir
 3533102_CPKN0003,Sg. Pahang Tua di Rumah Pam Pahang Tua
 3434001_CPKN0004,Sg. Pahang di Pekan
 _CKTN0004,Ladang Ulu Lepar
-3629103_,Sg. Lepar di Jambatan Gelugor
 3929001_,Sg. Lembing
 3930012_,PCCL Sg. Lembing
 3831001_,Sg. Kuantan di Pasir Kemudi
@@ -651,6 +651,7 @@ _DGMG0019,Felda Aring 5
 _DGMG0104,Sek. Keb. Chalil
 5320038_DKKI0003,Sg. Galas di Dabong
 5521044_DKKI0014,Sg. Kelantan di Kuala Krai
+_DJLI0007,Kg. Lawar
 _DJLI0002,Air Bol
 _DJLI0011,Sg. Lanas di Air Lanas
 _DTMH0002,Ladang Kerilla
@@ -834,6 +835,7 @@ KCHCITYSOUTH,Kuching City South
 2514005_,Daro
 2321066_,Sekuau
 2819001_,Sungai Talau
+2323002_,Rumah Jugah
 2721001_,Kampung Sunting
 2920005_,Mukah JKR
 2920037_,Mukah-Balingian OPS4
@@ -866,6 +868,7 @@ KCHCITYSOUTH,Kuching City South
 3838064_,Karabungan
 3837001_,Batu Niah Bazaar
 4139064,Kebuloh
+3939046_,Sungai Sibuti
 4038006_,Bekenu
 2318006_,Permy Jaya
 4440060_,Miri DID
@@ -922,6 +925,7 @@ SKBU0001,Lawa Mondou
 5478003_,Sg. Kinabatangan di Barek Manis
 5083001_,Lahad Datu
 4278005_,Kuhara
+26304,Basai At Sabah
 26302,Beluran At Sabah
 5261402_,Sg. Sook di Biah
 26310,Malangkap&
