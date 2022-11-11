@@ -122,7 +122,6 @@ LIMBUNGAN,Rumah Pam Taman Limbungan
 5304045_,Pusat Kesihatan Bukit Berapit
 5304046_,Permatang Rawa
 25963,Kolam Air Chrk. To' Kun At P.Pinang
-5304044_,Sg. Juru di Empangan Juru
 5305318_,Macang Bubuk
 5204423_,Sg. Junjung di Simpang Empat
 5204048_,Sg. Simpang Ampat
@@ -208,6 +207,7 @@ PARIT1SGBESAR,Parit Satu Sg. Besar
 TALIAIR9,Tali Air 9 Sg. Panjang
 FDCSEKINCHAN,FDC Sekinchan
 IBUBKLSGTENGI,Ibu Bekalan Sg. Tengi
+PATGKARANG,P/A Pekan Tg. Karang
 STORJPSTGKARANG,Stor JPS Tg. Karang
 PRT1SB,Parit 1 Sg. Burong
 3414032_,Sg. Selangor di Rantau Panjang
@@ -272,6 +272,7 @@ PANDAMARAN,P/A Pandamaran
 3017081_,Sg. Raya di Batu 9
 KGBARUBALAKONG,Sg. Balak di Kg. Baru Balakong
 TMNTTDIGROVEKAJANG,Sg. Jelok di Taman TTDI Grove
+SGKANTANKAJANG,Sg. Kantan
 2917112_,Sg. Langat di Pekan Kajang
 TMNWESTCOUNTRYKAJANG,Sg. Langat di Taman West Country Kajang
 JPSHLGT,JPS Hulu Langat
@@ -377,6 +378,7 @@ _NJPL0002,Sg. Serting di Kg. Datok Johan
 3023098_,Sg. Lui
 2725096_,Palong 9
 2625413_,Sg. Muar di Pekan Rompin
+2721074_,Kg. Talang
 2722002_,Kg. Sawah Lebar
 2723075_,Ladang Juasseh
 26076,Kg. Birah
@@ -389,6 +391,7 @@ _NJPL0002,Sg. Serting di Kg. Datok Johan
 2624001_,Felda Jelai
 25797,Ldg. Air Tengah at Negeri Sembilan
 2525003_,Bukit Jalor
+115566_,Ladang Fidlot
 2525002_,Pej. Daerah Kecil Gemas
 2526005_,Sg. Gemas di Kg. Tiong
 2625084_,Londah
@@ -433,7 +436,6 @@ KGGATOM,Sg. Labis di Kg. Gatom
 2231001_,Ladang Chan Wing
 2028001_,Sg. Muar di Bukit Kepong
 2127001_,Sg. Muar di Kg. Olak Sepam
-2127074_,Sg. Muar di Panchor
 2127026_,Lubuk Bakul
 26120,Kg. Parit Wahid
 26119,Sg. Terap
@@ -596,7 +598,6 @@ _CKTN0004,Ladang Ulu Lepar
 3831001_,Sg. Kuantan di Pasir Kemudi
 3832020_,Sg. Kuantan di Kuantan Bypass
 3833002_,Kuantan
-3432001_,Sg. Belat di Sri Damai
 3133001_,Sg. Cherating di Cherating
 2630001_,Sg. Pukin
 25090,Ulu Sg. Chanis di Pahang
@@ -620,7 +621,6 @@ KGBUKIT,Sg. Nerus di Kg. Bukit
 5428003_,Sg. Chalok di Jambatan Chalok
 5127011_,Kenyir Elephant Village (KEV)
 5229048_THTG0002,Sg. Telemong di Kuala Ping
-4930038_THTG0008,Sg. Berang di Kg. Menerong
 MENGKAWAN,Sg. Peneh di Felda Mengkawang
 4929001_,Kg. Embong
 5031062_,Kg. Bukit Diman
@@ -816,7 +816,6 @@ KCHCITYSOUTH,Kuching City South
 26139,Sungai Salim B
 2418014_,Rantau Panjang B
 2318005_,Sungai Teku
-25540,Ulu Sungai Merah
 2318008_,Jabatan Laut
 2218005_,Sarawak Maritime
 2218004_,Express Terminal
@@ -841,6 +840,7 @@ KCHCITYSOUTH,Kuching City South
 2514005_,Daro
 2321066_,Sekuau
 2819001_,Sungai Talau
+2818001_,Oya Water Works
 2323002_,Rumah Jugah
 2721001_,Kampung Sunting
 2920005_,Mukah JKR
@@ -888,7 +888,6 @@ KCHCITYSOUTH,Kuching City South
 3946001_,Long Terawan
 3945017_,Long Panai
 3152011_,Lio Matu
-3451028_,Long Lellang
 3050015_,Long Moh
 2949001_,Long Jee
 3048026_,Long Anap
@@ -906,7 +905,6 @@ KCHCITYSOUTH,Kuching City South
 4442001,Tanjung Jaye
 4151017_,Long Napir
 4250001_,Setuan
-4248001_,Ulu Medalam
 4448001_,Nanga Insungai
 25538,Nanga Medamit
 4650023,Pandaruan
