@@ -212,6 +212,7 @@ KGASAHAN,Sg. Selangor di Kg. Asahan
 PASGYU1,P/A Sg. Yu 1
 3214056_,Sg. Buloh di Sri Aman
 3313070_,Sg. Buloh di Parit Mahang
+LDGSGBULOH,Ladang Sg. Buloh
 LDGBRAUNSTON,Ladang Braunston Jeram
 TMNTEMPLAR,Taman Templer
 3315042_,Sg. Rawang di Taman Tun Teja
@@ -572,6 +573,7 @@ _CTMH0335,SK Lipat Kajang
 3224033_CBER0002,Sg. Triang di Triang
 2924096_,Glendale
 _CBER0021,Pos Iskandar
+_CBER0023,Pej. Ramsar
 _CMRN0027,Felda Kg. Awah
 3725001_CMRN0001,Sg. Pahang di Kg. Chenor
 _CMRN0147,Sek. Keb. Kuala Sentul
@@ -599,7 +601,6 @@ _CKTN0004,Ladang Ulu Lepar
 25830,Kg. Gambir at Pahang
 25885,Sg. Keratong at Jam. Bahau Keratong
 25093,Sg. Kepasing di Pahang
-26114,Balai Bomba Muadzam Shah
 25835,S.K. Leban Chondong at Pahang
 25874,Emp. Pontian Pahang
 2636182_,Sg. Endau di Tanjung Gemuk
@@ -808,7 +809,6 @@ KCHCITYSOUTH,Kuching City South
 1821001_,Uka
 2020001_,Nanga Machan B
 2121001_,Kanowit Town
-2119001_,Durin Water Works
 2119017_,Durin Bazaar
 2218007_,Stabau
 2219001_,Sibu New Airport
@@ -851,11 +851,11 @@ KCHCITYSOUTH,Kuching City South
 3025001_,Kuala Balingian
 2530001,Rumah Maja
 2629401_,Muput
-2730001,Rumah Keseng
 2729055,Sangan
 2828025_,Tatau Town
 3028001_,Kuala Tatau
 3330001,Sungai Sebatang
+2834001_,Panai Binion
 3137021_,Tubau
 2836001_,Bintulu/Belaga Road
 3034001_,Rumah Bansa
@@ -914,7 +914,6 @@ KCHCITYSOUTH,Kuching City South
 4255006_,Long Semado
 4354001,Long Merarap
 4653001_,Long Tengoa
-4752023_,Trusan
 4852002_,Sundar
 4854009_,Lawas Airfield
 4955021_,Merapok
