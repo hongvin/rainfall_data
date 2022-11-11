@@ -64,7 +64,6 @@ PAYAMADINSON,Kg. Paya Mat Inson
 6108001_,Kompleks Empangan Muda
 6108180_,Empangan Muda
 6007064_,Sg. Muda di Titi Nami
-6006001_,SK Sg. Siput
 6008001_,SK Gulau
 5908001_,Batu Seketul
 BERIS,Empangan Beris (State)
@@ -457,6 +456,7 @@ SIMP5DARAT,Sg. Belemang Besar di Simpang 5 Darat
 25910,Ladang Lian Seng
 2030071_,Empangan Bekok
 LDGUNION,Ladang Union
+2130070_,Sg. Bekok di Bt. 77 Jln. Yong Peng
 2031069_,Ladang Yong Peng
 2031067_,Sg. Bekok di Bandar Yong Peng
 1931003_,Empangan Sembrong
@@ -585,7 +585,6 @@ _CMRN0025,Sg. Kundang di Jam. Sg. Kundang
 3527092_,Sg. Pahang di Lubuk Paku
 _CMRN0031,Pusat Latihan JAKOA KM. 56 (Bt. 34)
 3428001_,Sg. Pahang di Kuala Sg. Chini
-_CPKN0042,Kg. Salong
 _CPKN0132,Batu Gong
 _CPKN0002,Sg. Pahang di Paloh Hinai
 3431099,Sg. Pahang di Paloh Inai
@@ -921,6 +920,7 @@ KCHCITYSOUTH,Kuching City South
 4854009_,Lawas Airfield
 4955021_,Merapok
 4954001_,Kuala Lawas
+4658001_,Bakuku
 5357003_,Sg. Padas di Beaufort JPS
 5663002_,Sg. Pegalan di Keranaan
 STAM0002,Gunung Alab
@@ -929,6 +929,7 @@ SKBU0001,Lawa Mondou
 5861001_,Putatan
 5881001_,Sandakan
 5478003_,Sg. Kinabatangan di Barek Manis
+5083001_,Lahad Datu
 4278005_,Kuhara
 26304,Basai At Sabah
 26302,Beluran At Sabah
