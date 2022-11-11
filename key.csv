@@ -151,6 +151,7 @@ SGDUA,Sg. Dua di Kg. Dua Bukit
 4807016_,Bukit Larut
 TGPIANDANG,Tanjung Piandang
 5006021_,Kolam Air Bukit Merah
+5610063_,Kg. Lalang
 5513001_,Tasik Temengor di Banding
 5411066_,Sg. Perak di Kuala Kenderong
 5210069_,Lawin
@@ -436,6 +437,7 @@ KGGATOM,Sg. Labis di Kg. Gatom
 2231001_,Ladang Chan Wing
 2028001_,Sg. Muar di Bukit Kepong
 2127001_,Sg. Muar di Kg. Olak Sepam
+2127074_,Sg. Muar di Panchor
 2127026_,Lubuk Bakul
 26120,Kg. Parit Wahid
 26119,Sg. Terap
@@ -455,7 +457,6 @@ SIMP5DARAT,Sg. Belemang Besar di Simpang 5 Darat
 25910,Ladang Lian Seng
 2030071_,Empangan Bekok
 LDGUNION,Ladang Union
-2130070_,Sg. Bekok di Bt. 77 Jln. Yong Peng
 2031069_,Ladang Yong Peng
 2031067_,Sg. Bekok di Bandar Yong Peng
 1931003_,Empangan Sembrong
@@ -537,11 +538,11 @@ _CCHG0014,Sg. Tringkap di Tringkap
 C00001_,Sg. Bertam di SJK (C) Lembah Bertam
 C00002_,Sg. Bertam di Kg. Orang Asli Sg. Tiang
 _CLPS0029,Sg. Meldu
-4218042_,Sg. Jelai di Kuala Medang
 _CLPS0033,Balai Polis Merapoh
 4620046_,Merapoh
 4219001_CLPS0001,Sg. Jelai di Bukit Betong
 _CLPS0015,Ladang Benta
+_CLPS0016,Stn. Keretapi Kerambit
 4324001_CJRT0003,Sg. Tembeling di Kuala Tahan
 _CJRT0041,Ulu Tekai A
 _CJRT0002,Sg. Tembeling di Kg. Merting
@@ -598,6 +599,7 @@ _CKTN0004,Ladang Ulu Lepar
 3831001_,Sg. Kuantan di Pasir Kemudi
 3832020_,Sg. Kuantan di Kuantan Bypass
 3833002_,Kuantan
+3432001_,Sg. Belat di Sri Damai
 3133001_,Sg. Cherating di Cherating
 2630001_,Sg. Pukin
 25090,Ulu Sg. Chanis di Pahang
@@ -654,7 +656,6 @@ _DGMG0014,Kg. Pulai
 _DGMG0018,Upper Chiku
 4726001_DGMG0020,Gunung Gagau 1
 _DGMG0019,Felda Aring 5
-4824001_DGMG0021,Sg. Lebir di Kuala Koh
 _DGMG0104,Sek. Keb. Chalil
 5320038_DKKI0003,Sg. Galas di Dabong
 5521044_DKKI0014,Sg. Kelantan di Kuala Krai
@@ -807,7 +808,6 @@ KCHCITYSOUTH,Kuching City South
 1823001_,Nanga Jagau
 1821001_,Uka
 2020001_,Nanga Machan B
-2023001_,Nanga Kabah
 2121001_,Kanowit Town
 2119001_,Durin Water Works
 2119017_,Durin Bazaar
@@ -816,6 +816,7 @@ KCHCITYSOUTH,Kuching City South
 26139,Sungai Salim B
 2418014_,Rantau Panjang B
 2318005_,Sungai Teku
+25540,Ulu Sungai Merah
 2318008_,Jabatan Laut
 2218005_,Sarawak Maritime
 2218004_,Express Terminal
@@ -838,6 +839,7 @@ KCHCITYSOUTH,Kuching City South
 2213001_,Sungai Maleng
 2412001_,Paloh Bangau
 2514005_,Daro
+2615009_,Matu
 2321066_,Sekuau
 2819001_,Sungai Talau
 2818001_,Oya Water Works
@@ -905,6 +907,7 @@ KCHCITYSOUTH,Kuching City South
 4442001,Tanjung Jaye
 4151017_,Long Napir
 4250001_,Setuan
+4248001_,Ulu Medalam
 4448001_,Nanga Insungai
 25538,Nanga Medamit
 4650023,Pandaruan
@@ -918,8 +921,18 @@ KCHCITYSOUTH,Kuching City South
 4854009_,Lawas Airfield
 4955021_,Merapok
 4954001_,Kuala Lawas
+5357003_,Sg. Padas di Beaufort JPS
+5663002_,Sg. Pegalan di Keranaan
+STAM0002,Gunung Alab
+SKBU0001,Lawa Mondou
+5961002_,Inanam
+5861001_,Putatan
+5881001_,Sandakan
+5478003_,Sg. Kinabatangan di Barek Manis
+4278005_,Kuhara
 26304,Basai At Sabah
 26302,Beluran At Sabah
+5261402_,Sg. Sook di Biah
 26310,Malangkap&
 225709220509,Inanam Met. Stn. At Sabah
 26316,Matungong
