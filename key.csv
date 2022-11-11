@@ -76,17 +76,12 @@ BERIS,Empangan Beris (State)
 5808001_,Bt. 61 Jln. Baling
 5809001_,Pusat Rekreasi Ulu Legong
 5708001_,Sg. Ketil di Kg. Baru
-26145,Sg. Ketil di Jambatan Titian Ilham
 5508001_,Kg. Iboi Kupang
 5608073_,Sg. Ketil di Kuala Pegang
 5607002_,Sg. Ketil di Kg. Padang Pulai
 5607001_,SMK Parit Panjang
-5606001_,Sg. Sedim di Kg. Sedim
-26144,Sg. Muda di Jambatan Jeniang
-26148,Jambatan Bukit Selambau
 5606076_,Sg. Muda di Jambatan Syed Omar
 5505085_,SK Sri Pinang
-26147,PLSM HQ
 JPSMEKANIKAL,Workshop Sg. Petani
 25726,RCC Sg. Petani
 25960,Ibu Bekalan Tupah at Kedah
@@ -179,7 +174,6 @@ SGRAIA,Sg. Raia di Keramat Pulai
 25813,Sg. Perak di Kg. Terengganu
 3814160_,Ulu Slim
 3814158_,Sg. Bil
-3814159_,Sg. Slim di Slim River
 3907104_,Sg. Perak di Pasang Api
 3717101_,Bukit Fraser
 3517022_,Kg. Pertak
@@ -218,7 +212,6 @@ KGASAHAN,Sg. Selangor di Kg. Asahan
 PASGYU1,P/A Sg. Yu 1
 3214056_,Sg. Buloh di Sri Aman
 3313070_,Sg. Buloh di Parit Mahang
-LDGSGBULOH,Ladang Sg. Buloh
 LDGBRAUNSTON,Ladang Braunston Jeram
 TMNTEMPLAR,Taman Templer
 3315042_,Sg. Rawang di Taman Tun Teja
@@ -430,6 +423,7 @@ REDONG,Felda Redong
 2426006_,Jementah
 KGGATOM,Sg. Labis di Kg. Gatom
 2330009_,LPP Labis
+2229001_,Felda Maokil
 2230001_,SMK Chaah
 2130002_,Sg. Lenik di Kangkar Chaah
 2130001_,Sg. Lenik di Ladang Chaah
@@ -615,22 +609,27 @@ _CKTN0004,Ladang Ulu Lepar
 5724003_,Sg. Besut di Jambatan Jerteh
 5626001_,Institut Pertanian Tok Dor
 5625011_,Sek. Keb. Kg. Jabi
+5328043_TSET0003,Kg. Pelong
 5428040_TSET0001,Sg. Nerus di Kg. Langkap
 KGBUKIT,Sg. Nerus di Kg. Bukit
 5426003_,Sg. Setiu di Kg. Besut
 5527024_,Sg. Setiu di Jambatan Permaisuri
 5428003_,Sg. Chalok di Jambatan Chalok
+_THTG0004,Jambatan Kuala Berang
 5127011_,Kenyir Elephant Village (KEV)
 5229048_THTG0002,Sg. Telemong di Kuala Ping
 4930038_THTG0008,Sg. Berang di Kg. Menerong
 MENGKAWAN,Sg. Peneh di Felda Mengkawang
+_THTG0006,Hulu Sg. Tersat
 4929001_,Kg. Embong
 5031062_,Kg. Bukit Diman
 25820,Pertanian Ajil
 TOKADIS,Kg. Tok Adis
+_TKTG0002,Bukit Tumbuh
 5331010_,Sg. Terengganu di Bukit Tumbuh
 5331048_TKTG0004,Stor JPS Kuala Terengganu
 UMT,Universiti Malaysia Terengganu
+_TKTG0095,Universiti Malaysia Terengganu
 25823,Sg. Nerus di Kg. Jeram
 5031001_,Sg. Marang di Jambatan Pengkalan Berangan
 5131064_,Sek. Men. Bukit Sawa
@@ -857,7 +856,6 @@ KCHCITYSOUTH,Kuching City South
 2828025_,Tatau Town
 3028001_,Kuala Tatau
 3330001,Sungai Sebatang
-2834001_,Panai Binion
 3137021_,Tubau
 2836001_,Bintulu/Belaga Road
 3034001_,Rumah Bansa
