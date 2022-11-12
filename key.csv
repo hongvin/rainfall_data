@@ -400,7 +400,6 @@ HOSPITALJASIN,Hospital Jasin
 2225044_,Chohong
 2125002_,Sg. Kesang di Telok Rimba
 2223023_,Sg. Duyong
-2222006_,Cheng U/S
 2222007_,Cheng D/S
 2222033_,Sg. Melaka di Batu Hampar
 2222003_,Lencongan Sg. Malim di Klebang Besar U/S
@@ -466,7 +465,6 @@ SMKMUNSHI,SMK Munshi Sulaiman
 1829078_,Sg. Batu Pahat di JPS Batu Pahat
 1730082_,Sg. Senggarang di Senggarang
 25912,Sg. Rengit di Rengit
-25901,Sg. Paloh di Pekan Paloh
 2033003_,Sg. Mengkibol di Bandar Kluang
 SMKKAHANG,SMK Kahang
 1834125_,Ladang Renggam
@@ -585,6 +583,8 @@ _CPKN0002,Sg. Pahang di Paloh Hinai
 _CPKN0047,Kg. Temai Hilir
 3533102_CPKN0003,Sg. Pahang Tua di Rumah Pam Pahang Tua
 3434001_CPKN0004,Sg. Pahang di Pekan
+_CKTN0004,Ladang Ulu Lepar
+3629103_,Sg. Lepar di Jambatan Gelugor
 3929001_,Sg. Lembing
 3930012_,PCCL Sg. Lembing
 3831001_,Sg. Kuantan di Pasir Kemudi
@@ -628,7 +628,6 @@ _TKTG0002,Bukit Tumbuh
 5331048_TKTG0004,Stor JPS Kuala Terengganu
 UMT,Universiti Malaysia Terengganu
 _TKTG0095,Universiti Malaysia Terengganu
-25823,Sg. Nerus di Kg. Jeram
 5031001_,Sg. Marang di Jambatan Pengkalan Berangan
 5131064_,Sek. Men. Bukit Sawa
 MERCHANG,Sek. Men. Keb.  Merchang
@@ -637,6 +636,7 @@ MERCHANG,Sek. Men. Keb.  Merchang
 4832011_,Sg. Dungun di Jambatan Jerangau
 4734079_,Sek. Men. Sultan Omar
 4634085_,Pusat Kesihatan Paka
+4631001_,Bandar Al Muktafi Billah Shah
 3933001_,Hulu Jabor
 4131001_,Sg. Cherul di Jambatan Ban Ho
 25822,Sg. Tumpat di Kg. Baru Kemasik
