@@ -41,7 +41,6 @@ SINTOK,Sg. Sintok di UUM Sintok
 MALAU,SK Malau
 6204180_,Sg. Bata di Kg. Bata
 WANGTEPUS,Wang Tepus
-6204004_,Sg. Padang Terap di Kepala Batas
 25962,Stn. Keretapi Tunjang at Kedah
 6307180_,Empangan Ahning
 6205481_,Sg. Padang Terap di Kg. Kubu
@@ -108,12 +107,14 @@ JPSKULIM,JPS Kulim
 5505033_,Rumah Pam Pinang Tunggal
 5504035_,Lahar Ikan Mati
 5404041_,Ladang Malakoff
+5404045_,Pajak Song
 5503034_,Permatang Binjai
 26186,Permatang Tok Jaya
 5404044_,Guar Kepayang
 LIMBUNGAN,Rumah Pam Taman Limbungan
 5405001_,Sg. Kulim di Ara Kuda
 26187,Sg. Mengkuang di Mengkuang Titi
+5404043_,Ibu Bekalan Sungai Kulim
 5304045_,Pusat Kesihatan Bukit Berapit
 5304046_,Permatang Rawa
 25963,Kolam Air Chrk. To' Kun At P.Pinang
@@ -221,7 +222,6 @@ TGARINGU,Taman Garing Utama
 JLN27,Sg. Gong di Jln. B27 Country Homes
 3315038_,Sg. Bakau di Country Homes Rawang
 KGSETIA,Kg. Setia Kuang
-3215080_,Sg. Kuang di Kg. Melayu Seri Kundang
 TMNDESAKUNDANG,Taman Desa Kundang
 BATUARANG,Batu Arang
 3216066_,Selayang Baru
@@ -400,6 +400,7 @@ HOSPITALJASIN,Hospital Jasin
 2225044_,Chohong
 2125002_,Sg. Kesang di Telok Rimba
 2223023_,Sg. Duyong
+2222006_,Cheng U/S
 2222007_,Cheng D/S
 2222033_,Sg. Melaka di Batu Hampar
 2222003_,Lencongan Sg. Malim di Klebang Besar U/S
@@ -532,6 +533,7 @@ C00002_,Sg. Bertam di Kg. Orang Asli Sg. Tiang
 _CLPS0029,Sg. Meldu
 _CLPS0033,Balai Polis Merapoh
 4620046_,Merapoh
+_CLPS0030,Jam. Chegar Perah
 4219001_CLPS0001,Sg. Jelai di Bukit Betong
 _CLPS0015,Ladang Benta
 _CLPS0042,Hospital Lipis
@@ -613,6 +615,7 @@ KGBUKIT,Sg. Nerus di Kg. Bukit
 5426003_,Sg. Setiu di Kg. Besut
 5527024_,Sg. Setiu di Jambatan Permaisuri
 5428003_,Sg. Chalok di Jambatan Chalok
+5029034_THTG0005,Sg. Terengganu di Kg. Dura
 _THTG0004,Jambatan Kuala Berang
 5127011_,Kenyir Elephant Village (KEV)
 5229048_THTG0002,Sg. Telemong di Kuala Ping
@@ -628,7 +631,9 @@ _TKTG0002,Bukit Tumbuh
 5331048_TKTG0004,Stor JPS Kuala Terengganu
 UMT,Universiti Malaysia Terengganu
 _TKTG0095,Universiti Malaysia Terengganu
+25823,Sg. Nerus di Kg. Jeram
 5031001_,Sg. Marang di Jambatan Pengkalan Berangan
+JPSMARANG,JPS Marang
 5131064_,Sek. Men. Bukit Sawa
 MERCHANG,Sek. Men. Keb.  Merchang
 5624002_,Sg. Dungun di Kg. Pasir Raja
@@ -648,6 +653,7 @@ TKMN0007,Yak Yah
 4434093_,Sek. Men. Badrul Alam Shah
 26491,Kalabe
 222910501017,JPS Marang
+_DGMG0005,"Jabatan Orang Asli, Kuala Betis"
 _DGMG0014,Kg. Pulai
 4819027_DGMG0015,Gua Musang
 _DGMG0018,Upper Chiku
@@ -848,7 +854,6 @@ KCHCITYSOUTH,Kuching City South
 3025001_,Kuala Balingian
 2530001,Rumah Maja
 2629401_,Muput
-2729055,Sangan
 2828025_,Tatau Town
 3028001_,Kuala Tatau
 3330001,Sungai Sebatang
