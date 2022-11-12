@@ -54,7 +54,6 @@ SEKKEBLAMDIN,Sek. Keb. Lamdin
 6106180_,Sg. Naka di Naka
 26165,Sg. Tekai di Kg. Sireh
 6205180_,Sg. Padang Terap di Kuala Nerang
-6306035_,Sg. Durian Burung di Durian Burung
 FELCRATAMPOI,Felcra Bukit Tampoi
 SEKKEBKGBUKIT,Sek. Keb. Kampung Bukit
 26048,Sg. Anak Bukit di Taman Aman
@@ -81,7 +80,6 @@ BERIS,Empangan Beris (State)
 5608073_,Sg. Ketil di Kuala Pegang
 5607002_,Sg. Ketil di Kg. Padang Pulai
 5607001_,SMK Parit Panjang
-5606001_,Sg. Sedim di Kg. Sedim
 5606076_,Sg. Muda di Jambatan Syed Omar
 5505085_,SK Sri Pinang
 JPSMEKANIKAL,Workshop Sg. Petani
@@ -146,6 +144,7 @@ SGDUA,Sg. Dua di Kg. Dua Bukit
 26337,Klinik Bkt. Bendera at P. Pinang
 5108005_,Sg. Ijok di Bekalan Ijok
 4907020_,Sg. Kurau di Bt. 14 Batu Kurau
+4807016_,Bukit Larut
 TGPIANDANG,Tanjung Piandang
 5006021_,Kolam Air Bukit Merah
 5610063_,Kg. Lalang
@@ -303,29 +302,6 @@ KELANANG,Pintu Air Kelanang
 2813401_,Bt. 7 Sijangkang
 25939,RS Batu 8
 2615180_,Sg. Kundang di Kg. Kundang
-3317004_,Genting Sempah
-3216001_,Kg. Sg. Tua Empangan Batu
-3217001_,Gombak KM. 16
-3117180_,Gombak Simpang 3
-3217003_,Sg. Gombak di Gombak KM. 11
-3217004_,Pulau Kuala Seleh
-3217002_,Empangan Klang
-3217117_,Lembah Jaya
-3117003_,Pandan Indah
-3216007_,Taman Ehsan
-3216064_,Sg. Batu di Jinjang
-3116006_,Ladang Edinburgh
-3117006_,Kolam Takungan Batu
-3116434_,Sg. Batu di Sentul
-3116004_,JPS Wilayah
-3117403_,Sg. Bunus di Jln. Tun Razak
-3117070_,JPS Ampang
-3114005_,Sg. Klang di Lembah Keramat
-3116074_,Sg. Klang di Leboh Pasar
-3016002_,Sg. Klang di Jambatan Petaling
-3117120_,Sg. Kerayong di Kg. Cheras Baru
-3016103_,Taman Desa (SMART)
-26377,Sentul Park
 25701,Sg. Anak Gajah
 25083,Sg. Limau Manis
 2522007_,Felcra Lenggeng
@@ -486,6 +462,7 @@ JHR-KGSRIPAYA,Sg. Pontian Besar di Kg. Sri Paya
 KGKABONG,Sg. Pontian Besar di Kg. Kabong
 25919,Sg. Ayer Hitam di Kg. Paya Embun
 JHR-PPTSALLEH,Pintu Air Parit Salleh
+25918,PPPB Benut
 25750,Sg. Pulai di Kg. Ulu Pulai
 LADANGKUKUP,Ladang Kukup
 26006,Kangkar Pulai
@@ -516,7 +493,6 @@ BKTPELALI,Bukit Pelali
 25923,Felda Lok Heng
 25927,Sg. Sedili Kecil di Sedili Kecil
 25926,Sg. Sedili Besar di Kg. Mawai
-SKSEMPANG,Sek. Keb. Sempang
 2636170_,Stor JPS Endau
 WAKSALAM,Loji Air Wak Salam
 KGJEMARI,Jemari
@@ -767,7 +743,6 @@ KCHCITYSOUTH,Kuching City South
 1114019_,Temudok
 1114028_,Melugu
 1214003_,Sri Aman Telemetry
-1313006_,Stumbin
 1014001_,Klauh
 1111008_,Pantu
 1311003_,Lingga
@@ -932,6 +907,7 @@ STAM0002,Gunung Alab
 SKBU0001,Lawa Mondou
 5961002_,Inanam
 5861001_,Putatan
+5881001_,Sandakan
 5478003_,Sg. Kinabatangan di Barek Manis
 5083001_,Lahad Datu
 4278005_,Kuhara
@@ -939,6 +915,7 @@ SKBU0001,Lawa Mondou
 26302,Beluran At Sabah
 5261402_,Sg. Sook di Biah
 26310,Malangkap&
+225709220509,Inanam Met. Stn. At Sabah
 26316,Matungong
 26309,Kaiduan At Sabah
 26312,Sg. Moyog At Penampang
