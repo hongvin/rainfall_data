@@ -6,6 +6,7 @@
 6502011_,Empangan Timah Tasuh
 6502010_,Bukit Temiang
 6502012_,Sg. Buluh di Kg. Batu Bertangkup
+25776,Sg. Panggas Besar di Tok Biduk
 25952,Sungai Gial at Kg Gial
 25940,Ngolong at Perlis
 6402009_,Sg. Arau di Kg. Kuala Tunggang
@@ -41,6 +42,7 @@ SINTOK,Sg. Sintok di UUM Sintok
 MALAU,SK Malau
 6204180_,Sg. Bata di Kg. Bata
 WANGTEPUS,Wang Tepus
+6204004_,Sg. Padang Terap di Kepala Batas
 25962,Stn. Keretapi Tunjang at Kedah
 6307180_,Empangan Ahning
 6205481_,Sg. Padang Terap di Kg. Kubu
@@ -129,7 +131,6 @@ BATUKAWAN,Stadium Batu Kawan
 5105051_,Kolam Takungan Bukit Panchor
 26185,"Lengkok Sg. Emas, Batu Feringghi"
 BKTBENDERA,Bukit Bendera
-5302003_,Kolam Air Itam
 5302004_,Kolam Sg. Dondang
 5403001_,Lorong Batu Lanchang
 JLNSCOTLAND,Sg. Air Itam di Jalan Scotland
@@ -222,6 +223,7 @@ TGARINGU,Taman Garing Utama
 JLN27,Sg. Gong di Jln. B27 Country Homes
 3315038_,Sg. Bakau di Country Homes Rawang
 KGSETIA,Kg. Setia Kuang
+3215080_,Sg. Kuang di Kg. Melayu Seri Kundang
 TMNDESAKUNDANG,Taman Desa Kundang
 BATUARANG,Batu Arang
 3216066_,Selayang Baru
@@ -323,7 +325,6 @@ KELANANG,Pintu Air Kelanang
 3016002_,Sg. Klang di Jambatan Petaling
 3117120_,Sg. Kerayong di Kg. Cheras Baru
 3016103_,Taman Desa (SMART)
-26377,Sentul Park
 25701,Sg. Anak Gajah
 25083,Sg. Limau Manis
 2522007_,Felcra Lenggeng
@@ -434,7 +435,6 @@ KGGATOM,Sg. Labis di Kg. Gatom
 2127074_,Sg. Muar di Panchor
 2127026_,Lubuk Bakul
 26120,Kg. Parit Wahid
-26119,Sg. Terap
 25905,Air Hitam Bt. 15
 26121,Kg. Parit Tengah
 25906,Ladang Air Manis
@@ -561,6 +561,7 @@ _CRAU0045,JKR Jeruas
 3519125_CBTG0002,Sg. Bentong di Kuala Marong
 _CBTG0024,Pos Sungai Dua
 3420132_CBTG0001,Sg. Semantan di Kg. Lengkong
+_CTMH0372,Sg. Teris di PKGK Kuala Gandah
 _CTMH0043,"Felcra Paya Laman, Lanchang"
 _CTMH0049,"Sg. Terbol, Jenderak"
 _CTMH0047,"Pos Penderas, Kuala Krau"
@@ -742,7 +743,6 @@ KCHCITYSOUTH,Kuching City South
 1007040_,Balai Ringin
 1503009_,Mid Sungai Kuap
 1404049_,Paya Paloh
-1404003_,JPS Samarahan
 1405001_,Kampung Baru
 1505081_,Ketup
 1506001_,Semera
@@ -854,6 +854,7 @@ KCHCITYSOUTH,Kuching City South
 3025001_,Kuala Balingian
 2530001,Rumah Maja
 2629401_,Muput
+2729055,Sangan
 2828025_,Tatau Town
 3028001_,Kuala Tatau
 3330001,Sungai Sebatang
