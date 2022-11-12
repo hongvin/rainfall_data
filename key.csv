@@ -81,6 +81,7 @@ BERIS,Empangan Beris (State)
 5608073_,Sg. Ketil di Kuala Pegang
 5607002_,Sg. Ketil di Kg. Padang Pulai
 5607001_,SMK Parit Panjang
+5606001_,Sg. Sedim di Kg. Sedim
 5606076_,Sg. Muda di Jambatan Syed Omar
 5505085_,SK Sri Pinang
 JPSMEKANIKAL,Workshop Sg. Petani
@@ -145,7 +146,6 @@ SGDUA,Sg. Dua di Kg. Dua Bukit
 26337,Klinik Bkt. Bendera at P. Pinang
 5108005_,Sg. Ijok di Bekalan Ijok
 4907020_,Sg. Kurau di Bt. 14 Batu Kurau
-4807016_,Bukit Larut
 TGPIANDANG,Tanjung Piandang
 5006021_,Kolam Air Bukit Merah
 5610063_,Kg. Lalang
@@ -325,6 +325,7 @@ KELANANG,Pintu Air Kelanang
 3016002_,Sg. Klang di Jambatan Petaling
 3117120_,Sg. Kerayong di Kg. Cheras Baru
 3016103_,Taman Desa (SMART)
+26377,Sentul Park
 25701,Sg. Anak Gajah
 25083,Sg. Limau Manis
 2522007_,Felcra Lenggeng
@@ -435,6 +436,7 @@ KGGATOM,Sg. Labis di Kg. Gatom
 2127074_,Sg. Muar di Panchor
 2127026_,Lubuk Bakul
 26120,Kg. Parit Wahid
+26119,Sg. Terap
 25905,Air Hitam Bt. 15
 26121,Kg. Parit Tengah
 25906,Ladang Air Manis
@@ -466,6 +468,7 @@ SMKMUNSHI,SMK Munshi Sulaiman
 1829078_,Sg. Batu Pahat di JPS Batu Pahat
 1730082_,Sg. Senggarang di Senggarang
 25912,Sg. Rengit di Rengit
+25901,Sg. Paloh di Pekan Paloh
 2033003_,Sg. Mengkibol di Bandar Kluang
 SMKKAHANG,SMK Kahang
 1834125_,Ladang Renggam
@@ -483,7 +486,6 @@ JHR-KGSRIPAYA,Sg. Pontian Besar di Kg. Sri Paya
 KGKABONG,Sg. Pontian Besar di Kg. Kabong
 25919,Sg. Ayer Hitam di Kg. Paya Embun
 JHR-PPTSALLEH,Pintu Air Parit Salleh
-25918,PPPB Benut
 25750,Sg. Pulai di Kg. Ulu Pulai
 LADANGKUKUP,Ladang Kukup
 26006,Kangkar Pulai
@@ -743,6 +745,7 @@ KCHCITYSOUTH,Kuching City South
 1007040_,Balai Ringin
 1503009_,Mid Sungai Kuap
 1404049_,Paya Paloh
+1404003_,JPS Samarahan
 1405001_,Kampung Baru
 1505081_,Ketup
 1506001_,Semera
@@ -851,7 +854,6 @@ KCHCITYSOUTH,Kuching City South
 2920037_,Mukah-Balingian OPS4
 2825001_,Sungai Bawan
 2823001_,Dana
-3025001_,Kuala Balingian
 2530001,Rumah Maja
 2629401_,Muput
 2729055,Sangan
@@ -930,7 +932,6 @@ STAM0002,Gunung Alab
 SKBU0001,Lawa Mondou
 5961002_,Inanam
 5861001_,Putatan
-5881001_,Sandakan
 5478003_,Sg. Kinabatangan di Barek Manis
 5083001_,Lahad Datu
 4278005_,Kuhara
@@ -938,7 +939,6 @@ SKBU0001,Lawa Mondou
 26302,Beluran At Sabah
 5261402_,Sg. Sook di Biah
 26310,Malangkap&
-225709220509,Inanam Met. Stn. At Sabah
 26316,Matungong
 26309,Kaiduan At Sabah
 26312,Sg. Moyog At Penampang
