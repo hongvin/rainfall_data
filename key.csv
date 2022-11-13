@@ -137,6 +137,7 @@ BATUKAWAN,Stadium Batu Kawan
 5105051_,Kolam Takungan Bukit Panchor
 26185,"Lengkok Sg. Emas, Batu Feringghi"
 BKTBENDERA,Bukit Bendera
+5302003_,Kolam Air Itam
 5302004_,Kolam Sg. Dondang
 5403001_,Lorong Batu Lanchang
 JLNSCOTLAND,Sg. Air Itam di Jalan Scotland
@@ -192,6 +193,7 @@ SGRAIA,Sg. Raia di Keramat Pulai
 3416002_,Kg. Kalong Tengah
 3316029_,Sg. Serendah di Serendah
 3315040_,Sg. Guntong di Kg. Sungai Buaya
+KOMPLEKSPEGHULUULUBERNAM,Kompleks Penghulu Hulu Bernam
 3615003_,Sg. Bernam di Tanjung Malim
 3714080_,Sg. Bernam di Kg. Sg. Selisek
 FELDAGEDANGSA,Felda Gedangsa
@@ -310,6 +312,7 @@ KELANANG,Pintu Air Kelanang
 3317004_,Genting Sempah
 3216001_,Kg. Sg. Tua Empangan Batu
 3217001_,Gombak KM. 16
+3117180_,Gombak Simpang 3
 3217003_,Sg. Gombak di Gombak KM. 11
 3217004_,Pulau Kuala Seleh
 3217002_,Empangan Klang
@@ -356,7 +359,6 @@ NSBN0034,Bandar Baru Nilai
 2617032_,Chuah
 2520049_,Kg. Solok Air Murai
 2520032_,Sg. Pedas di Kg. Pilin
-2521050_,Chengkau
 2521001_,Pulau Mampat
 2521004_,Pekan Kota
 2420052_,Ladang Sg. Baru
@@ -446,6 +448,7 @@ KGGATOM,Sg. Labis di Kg. Gatom
 26047,Parit Jawa
 2326025_,Gunung Ledang
 2326026_,Bukit Serampang
+PAYAMAS,Paya Mas
 SWHRING,Sawah Ring
 SIMP5DARAT,Sg. Belemang Besar di Simpang 5 Darat
 25907,Sg. Senduk
@@ -844,7 +847,6 @@ KCHCITYSOUTH,Kuching City South
 2116030_,Bintangor
 2115008_,Sarikei DID
 2213001_,Sungai Maleng
-2412001_,Paloh Bangau
 2615009_,Matu
 2321066_,Sekuau
 2819001_,Sungai Talau
@@ -879,7 +881,6 @@ KCHCITYSOUTH,Kuching City South
 3838064_,Karabungan
 3837001_,Batu Niah Bazaar
 4139064,Kebuloh
-3939046_,Sungai Sibuti
 4038006_,Bekenu
 2318006_,Permy Jaya
 4440060_,Miri DID
