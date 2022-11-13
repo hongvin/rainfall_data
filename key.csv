@@ -271,6 +271,7 @@ TMNTTDIGROVEKAJANG,Sg. Jelok di Taman TTDI Grove
 SGKANTANKAJANG,Sg. Kantan
 2917112_,Sg. Langat di Pekan Kajang
 TMNWESTCOUNTRYKAJANG,Sg. Langat di Taman West Country Kajang
+JPSHLGT,JPS Hulu Langat
 3119104_,Genting Peres
 3018103_,Sg. Semenyih di Kg. Pasir
 2918080_,Sg. Semenyih di Jalan Seri Tanjung
@@ -343,6 +344,7 @@ NSBN0034,Bandar Baru Nilai
 2620048_,Ladang Perhentian Tinggi
 2519421_,Sg. Linggi di Sua Betong
 2620401_,Sg. Linggi di Pekan Linggi
+2419054_,Ladang Sengkang
 25972,Politeknik at Port Dickson Negeri Sembilan
 2618403_,Sg. Jimah di Kg. Jimah
 2518001_,Ladang Salak
@@ -444,7 +446,6 @@ PAYAMAS,Paya Mas
 SWHRING,Sawah Ring
 SIMP5DARAT,Sg. Belemang Besar di Simpang 5 Darat
 25907,Sg. Senduk
-25909,Pintu Air Tanjung Agas
 2225001_,Sg. Tangkak di Kg. Seri Makmur
 25908,Pintu Air Kesang
 25910,Ladang Lian Seng
@@ -460,6 +461,7 @@ LDGUNION,Ladang Union
 25913,Sg. Simpang Kanan di Parit Belemam
 1929065_,Sg. Simpang Kiri di Sri Medan
 25916,Sg. Simpang Kiri di Parit Sulong
+25917,Sg. Simpang Kiri di Tebing Tinggi
 SMKMUNSHI,SMK Munshi Sulaiman
 1829078_,Sg. Batu Pahat di JPS Batu Pahat
 1730082_,Sg. Senggarang di Senggarang
@@ -839,7 +841,6 @@ KCHCITYSOUTH,Kuching City South
 2115008_,Sarikei DID
 2213001_,Sungai Maleng
 2412001_,Paloh Bangau
-2514005_,Daro
 2615009_,Matu
 2321066_,Sekuau
 2819001_,Sungai Talau
