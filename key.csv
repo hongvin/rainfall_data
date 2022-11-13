@@ -54,6 +54,7 @@ SEKKEBLAMDIN,Sek. Keb. Lamdin
 6106180_,Sg. Naka di Naka
 26165,Sg. Tekai di Kg. Sireh
 6205180_,Sg. Padang Terap di Kuala Nerang
+6306035_,Sg. Durian Burung di Durian Burung
 FELCRATAMPOI,Felcra Bukit Tampoi
 SEKKEBKGBUKIT,Sek. Keb. Kampung Bukit
 26048,Sg. Anak Bukit di Taman Aman
@@ -147,7 +148,6 @@ SGDUA,Sg. Dua di Kg. Dua Bukit
 4807016_,Bukit Larut
 TGPIANDANG,Tanjung Piandang
 5006021_,Kolam Air Bukit Merah
-5610063_,Kg. Lalang
 5513001_,Tasik Temengor di Banding
 5411066_,Sg. Perak di Kuala Kenderong
 5210069_,Lawin
@@ -271,7 +271,6 @@ TMNTTDIGROVEKAJANG,Sg. Jelok di Taman TTDI Grove
 SGKANTANKAJANG,Sg. Kantan
 2917112_,Sg. Langat di Pekan Kajang
 TMNWESTCOUNTRYKAJANG,Sg. Langat di Taman West Country Kajang
-JPSHLGT,JPS Hulu Langat
 3119104_,Genting Peres
 3018103_,Sg. Semenyih di Kg. Pasir
 2918080_,Sg. Semenyih di Jalan Seri Tanjung
@@ -302,6 +301,29 @@ KELANANG,Pintu Air Kelanang
 2813401_,Bt. 7 Sijangkang
 25939,RS Batu 8
 2615180_,Sg. Kundang di Kg. Kundang
+3317004_,Genting Sempah
+3216001_,Kg. Sg. Tua Empangan Batu
+3217001_,Gombak KM. 16
+3117180_,Gombak Simpang 3
+3217003_,Sg. Gombak di Gombak KM. 11
+3217004_,Pulau Kuala Seleh
+3217002_,Empangan Klang
+3217117_,Lembah Jaya
+3117003_,Pandan Indah
+3216007_,Taman Ehsan
+3216064_,Sg. Batu di Jinjang
+3116006_,Ladang Edinburgh
+3117006_,Kolam Takungan Batu
+3116434_,Sg. Batu di Sentul
+3116004_,JPS Wilayah
+3117403_,Sg. Bunus di Jln. Tun Razak
+3117070_,JPS Ampang
+3114005_,Sg. Klang di Lembah Keramat
+3116074_,Sg. Klang di Leboh Pasar
+3016002_,Sg. Klang di Jambatan Petaling
+3117120_,Sg. Kerayong di Kg. Cheras Baru
+3016103_,Taman Desa (SMART)
+26377,Sentul Park
 25701,Sg. Anak Gajah
 25083,Sg. Limau Manis
 2522007_,Felcra Lenggeng
@@ -321,7 +343,6 @@ NSBN0034,Bandar Baru Nilai
 2620048_,Ladang Perhentian Tinggi
 2519421_,Sg. Linggi di Sua Betong
 2620401_,Sg. Linggi di Pekan Linggi
-2419054_,Ladang Sengkang
 25972,Politeknik at Port Dickson Negeri Sembilan
 2618403_,Sg. Jimah di Kg. Jimah
 2518001_,Ladang Salak
@@ -439,7 +460,6 @@ LDGUNION,Ladang Union
 25913,Sg. Simpang Kanan di Parit Belemam
 1929065_,Sg. Simpang Kiri di Sri Medan
 25916,Sg. Simpang Kiri di Parit Sulong
-25917,Sg. Simpang Kiri di Tebing Tinggi
 SMKMUNSHI,SMK Munshi Sulaiman
 1829078_,Sg. Batu Pahat di JPS Batu Pahat
 1730082_,Sg. Senggarang di Senggarang
@@ -493,6 +513,7 @@ BKTPELALI,Bukit Pelali
 25923,Felda Lok Heng
 25927,Sg. Sedili Kecil di Sedili Kecil
 25926,Sg. Sedili Besar di Kg. Mawai
+SKSEMPANG,Sek. Keb. Sempang
 2636170_,Stor JPS Endau
 WAKSALAM,Loji Air Wak Salam
 KGJEMARI,Jemari
@@ -743,6 +764,7 @@ KCHCITYSOUTH,Kuching City South
 1114019_,Temudok
 1114028_,Melugu
 1214003_,Sri Aman Telemetry
+1313006_,Stumbin
 1014001_,Klauh
 1111008_,Pantu
 1311003_,Lingga
@@ -815,7 +837,6 @@ KCHCITYSOUTH,Kuching City South
 1816029_,Pakan
 2116030_,Bintangor
 2115008_,Sarikei DID
-2516001_,Sungai Dausan
 2213001_,Sungai Maleng
 2412001_,Paloh Bangau
 2514005_,Daro
