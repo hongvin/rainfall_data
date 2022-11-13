@@ -60,6 +60,7 @@ SEKKEBKGBUKIT,Sek. Keb. Kampung Bukit
 26048,Sg. Anak Bukit di Taman Aman
 6103147_,Rumah Pam Sg. Raja
 KUBURPANJANG,Sg. Titi Kerbau di Kubur Panjang
+5905180_,Sg. Pendang di Pekan Pendang
 5905181_,Sg. Pendang di Pondok Chegar
 PAYAMADINSON,Kg. Paya Mat Inson
 6108001_,Kompleks Empangan Muda
@@ -77,12 +78,17 @@ BERIS,Empangan Beris (State)
 5808001_,Bt. 61 Jln. Baling
 5809001_,Pusat Rekreasi Ulu Legong
 5708001_,Sg. Ketil di Kg. Baru
+26145,Sg. Ketil di Jambatan Titian Ilham
 5508001_,Kg. Iboi Kupang
 5608073_,Sg. Ketil di Kuala Pegang
 5607002_,Sg. Ketil di Kg. Padang Pulai
 5607001_,SMK Parit Panjang
+5606001_,Sg. Sedim di Kg. Sedim
+26144,Sg. Muda di Jambatan Jeniang
+26148,Jambatan Bukit Selambau
 5606076_,Sg. Muda di Jambatan Syed Omar
 5505085_,SK Sri Pinang
+26147,PLSM HQ
 JPSMEKANIKAL,Workshop Sg. Petani
 25726,RCC Sg. Petani
 25960,Ibu Bekalan Tupah at Kedah
@@ -186,7 +192,6 @@ SGRAIA,Sg. Raia di Keramat Pulai
 3416002_,Kg. Kalong Tengah
 3316029_,Sg. Serendah di Serendah
 3315040_,Sg. Guntong di Kg. Sungai Buaya
-KOMPLEKSPEGHULUULUBERNAM,Kompleks Penghulu Hulu Bernam
 3615003_,Sg. Bernam di Tanjung Malim
 3714080_,Sg. Bernam di Kg. Sg. Selisek
 FELDAGEDANGSA,Felda Gedangsa
@@ -305,7 +310,6 @@ KELANANG,Pintu Air Kelanang
 3317004_,Genting Sempah
 3216001_,Kg. Sg. Tua Empangan Batu
 3217001_,Gombak KM. 16
-3117180_,Gombak Simpang 3
 3217003_,Sg. Gombak di Gombak KM. 11
 3217004_,Pulau Kuala Seleh
 3217002_,Empangan Klang
@@ -442,10 +446,10 @@ KGGATOM,Sg. Labis di Kg. Gatom
 26047,Parit Jawa
 2326025_,Gunung Ledang
 2326026_,Bukit Serampang
-PAYAMAS,Paya Mas
 SWHRING,Sawah Ring
 SIMP5DARAT,Sg. Belemang Besar di Simpang 5 Darat
 25907,Sg. Senduk
+25909,Pintu Air Tanjung Agas
 2225001_,Sg. Tangkak di Kg. Seri Makmur
 25908,Pintu Air Kesang
 25910,Ladang Lian Seng
@@ -635,7 +639,6 @@ UMT,Universiti Malaysia Terengganu
 _TKTG0095,Universiti Malaysia Terengganu
 25823,Sg. Nerus di Kg. Jeram
 5031001_,Sg. Marang di Jambatan Pengkalan Berangan
-JPSMARANG,JPS Marang
 5131064_,Sek. Men. Bukit Sawa
 MERCHANG,Sek. Men. Keb.  Merchang
 5624002_,Sg. Dungun di Kg. Pasir Raja
@@ -654,6 +657,7 @@ MERCHANG,Sek. Men. Keb.  Merchang
 TKMN0007,Yak Yah
 4434093_,Sek. Men. Badrul Alam Shah
 26491,Kalabe
+26492,Stesen Pertanian Ajil
 222910501017,JPS Marang
 _DGMG0005,"Jabatan Orang Asli, Kuala Betis"
 _DGMG0014,Kg. Pulai
@@ -871,7 +875,6 @@ KCHCITYSOUTH,Kuching City South
 3130003,JPS Bintulu
 3533001_,Kuala Similajau
 3334001,Similajau Estate
-3635001_,Kuala Tutong
 3738001_,Subis 1
 3838064_,Karabungan
 3837001_,Batu Niah Bazaar
