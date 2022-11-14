@@ -193,6 +193,7 @@ SGRAIA,Sg. Raia di Keramat Pulai
 3416001_,Sg. Liam di Ulu Yam
 3416002_,Kg. Kalong Tengah
 3316029_,Sg. Serendah di Serendah
+3315040_,Sg. Guntong di Kg. Sungai Buaya
 KOMPLEKSPEGHULUULUBERNAM,Kompleks Penghulu Hulu Bernam
 3615003_,Sg. Bernam di Tanjung Malim
 3714080_,Sg. Bernam di Kg. Sg. Selisek
@@ -237,6 +238,7 @@ BT10GOMBAK,Sg. Gombak di Batu 10
 3117080_,Bukit Antarabangsa
 3117081_,Puncak Atheneum
 KMSB,Kg. Melayu Sg. Buloh
+3115080_,Sg. Buloh di Paya Jaras
 PAYAJARASHILIR,Paya Jaras Hilir
 3114087_,Empangan Tasik Subang Meru
 26039,Sg. Bakul di Kg. Budiman
@@ -330,6 +332,7 @@ KELANANG,Pintu Air Kelanang
 3016002_,Sg. Klang di Jambatan Petaling
 3117120_,Sg. Kerayong di Kg. Cheras Baru
 3016103_,Taman Desa (SMART)
+26377,Sentul Park
 25701,Sg. Anak Gajah
 25083,Sg. Limau Manis
 2522007_,Felcra Lenggeng
@@ -401,9 +404,7 @@ SIMPANGEMPAT,Simpang Ampat
 LADANGLENDU,Ladang Lendu
 DRTUNGGAL,Sg. Melaka di Durian Tunggal (Upstream)
 2222412_,Sg. Melaka di Durian Tunggal (Downstream)
-25801,Ldg. Sing Lian at Bkt Senggeh Melaka
 HOSPITALJASIN,Hospital Jasin
-2225044_,Chohong
 2125002_,Sg. Kesang di Telok Rimba
 2223023_,Sg. Duyong
 2222006_,Cheng U/S
@@ -567,7 +568,6 @@ _CRAU0045,JKR Jeruas
 _CBTG0024,Pos Sungai Dua
 3420132_CBTG0001,Sg. Semantan di Kg. Lengkong
 _CTMH0043,"Felcra Paya Laman, Lanchang"
-_CTMH0049,"Sg. Terbol, Jenderak"
 _CTMH0047,"Pos Penderas, Kuala Krau"
 _CTMH0046,Kuala Krau
 _CTMH0045,Felda Jenderak Selatan
@@ -721,6 +721,7 @@ _DPMS0008,Kg. Jambu (Kuala Jambu)
 26125,Ulu Maong
 1503015_,Satok B
 1503014_,Padungan
+KCHCITYSOUTH,Kuching City South
 1503001_,Bako Causeway
 1603002_,Siol JPS
 1603001_,Semariang Fisheries
@@ -817,7 +818,6 @@ _DPMS0008,Kg. Jambu (Kuala Jambu)
 2020001_,Nanga Machan B
 2023001_,Nanga Kabah
 2121001_,Kanowit Town
-2119001_,Durin Water Works
 2119017_,Durin Bazaar
 2218007_,Stabau
 2219001_,Sibu New Airport
@@ -843,6 +843,7 @@ _DPMS0008,Kg. Jambu (Kuala Jambu)
 1816029_,Pakan
 2116030_,Bintangor
 2115008_,Sarikei DID
+2516001_,Sungai Dausan
 2213001_,Sungai Maleng
 2615009_,Matu
 2321066_,Sekuau
@@ -876,7 +877,6 @@ _DPMS0008,Kg. Jambu (Kuala Jambu)
 3334001,Similajau Estate
 3738001_,Subis 1
 3838064_,Karabungan
-3837001_,Batu Niah Bazaar
 4139064,Kebuloh
 4038006_,Bekenu
 2318006_,Permy Jaya
