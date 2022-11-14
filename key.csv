@@ -82,7 +82,6 @@ BERIS,Empangan Beris (State)
 5608073_,Sg. Ketil di Kuala Pegang
 5607002_,Sg. Ketil di Kg. Padang Pulai
 5607001_,SMK Parit Panjang
-5606001_,Sg. Sedim di Kg. Sedim
 26144,Sg. Muda di Jambatan Jeniang
 26148,Jambatan Bukit Selambau
 5606076_,Sg. Muda di Jambatan Syed Omar
@@ -149,6 +148,7 @@ SGDUA,Sg. Dua di Kg. Dua Bukit
 26189,Sg. Burong di Politeknik Balik Pulau
 26188,Sg. Teluk Kumbar di Teluk Kumbar
 26337,Klinik Bkt. Bendera at P. Pinang
+5206032_,Sg. Kerian di Selama
 5108005_,Sg. Ijok di Bekalan Ijok
 4907020_,Sg. Kurau di Bt. 14 Batu Kurau
 4807016_,Bukit Larut
@@ -330,7 +330,6 @@ KELANANG,Pintu Air Kelanang
 3016002_,Sg. Klang di Jambatan Petaling
 3117120_,Sg. Kerayong di Kg. Cheras Baru
 3016103_,Taman Desa (SMART)
-26377,Sentul Park
 25701,Sg. Anak Gajah
 25083,Sg. Limau Manis
 2522007_,Felcra Lenggeng
@@ -519,7 +518,6 @@ PASAK,Pasak
 SILICA,Johor Silica
 BKTPELALI,Bukit Pelali
 26008,Sg. Pungai di Punggai
-25923,Felda Lok Heng
 25926,Sg. Sedili Besar di Kg. Mawai
 SKSEMPANG,Sek. Keb. Sempang
 2636170_,Stor JPS Endau
@@ -586,6 +584,7 @@ _CMRN0025,Sg. Kundang di Jam. Sg. Kundang
 3527092_,Sg. Pahang di Lubuk Paku
 _CMRN0031,Pusat Latihan JAKOA KM. 56 (Bt. 34)
 3428001_,Sg. Pahang di Kuala Sg. Chini
+_CPKN0042,Kg. Salong
 _CPKN0132,Batu Gong
 _CPKN0002,Sg. Pahang di Paloh Hinai
 3431099,Sg. Pahang di Paloh Inai
@@ -722,7 +721,6 @@ _DPMS0008,Kg. Jambu (Kuala Jambu)
 26125,Ulu Maong
 1503015_,Satok B
 1503014_,Padungan
-KCHCITYSOUTH,Kuching City South
 1503001_,Bako Causeway
 1603002_,Siol JPS
 1603001_,Semariang Fisheries
