@@ -151,7 +151,6 @@ SGDUA,Sg. Dua di Kg. Dua Bukit
 26337,Klinik Bkt. Bendera at P. Pinang
 5108005_,Sg. Ijok di Bekalan Ijok
 4907020_,Sg. Kurau di Bt. 14 Batu Kurau
-4807016_,Bukit Larut
 TGPIANDANG,Tanjung Piandang
 5006021_,Kolam Air Bukit Merah
 5610063_,Kg. Lalang
@@ -193,7 +192,6 @@ SGRAIA,Sg. Raia di Keramat Pulai
 3416001_,Sg. Liam di Ulu Yam
 3416002_,Kg. Kalong Tengah
 3316029_,Sg. Serendah di Serendah
-3315040_,Sg. Guntong di Kg. Sungai Buaya
 KOMPLEKSPEGHULUULUBERNAM,Kompleks Penghulu Hulu Bernam
 3615003_,Sg. Bernam di Tanjung Malim
 3714080_,Sg. Bernam di Kg. Sg. Selisek
@@ -234,7 +232,6 @@ KGSETIA,Kg. Setia Kuang
 TMNDESAKUNDANG,Taman Desa Kundang
 BATUARANG,Batu Arang
 3216066_,Selayang Baru
-3216067_,Sg. Batu di Batu Caves
 BT10GOMBAK,Sg. Gombak di Batu 10
 3117080_,Bukit Antarabangsa
 3117081_,Puncak Atheneum
@@ -280,6 +277,7 @@ SGKANTANKAJANG,Sg. Kantan
 TMNWESTCOUNTRYKAJANG,Sg. Langat di Taman West Country Kajang
 JPSHLGT,JPS Hulu Langat
 3119104_,Genting Peres
+3018402_,Empangan Semenyih
 3018103_,Sg. Semenyih di Kg. Pasir
 2918080_,Sg. Semenyih di Jalan Seri Tanjung
 BANDARRINCHING,Bandar Rinching
@@ -384,6 +382,7 @@ _NJPL0002,Sg. Serting di Kg. Datok Johan
 2721074_,Kg. Talang
 2722002_,Kg. Sawah Lebar
 2723075_,Ladang Juasseh
+26076,Kg. Birah
 2622080_,Kg. Dangi
 25796,Ldg. Repah at Negeri Sembilan
 2523001_,Ulu Rokan
@@ -692,7 +691,6 @@ _DPMS0008,Kg. Jambu (Kuala Jambu)
 26281,Kg. Air Satan
 26286,Rumah Pam JPS Meranti
 26296,Jambatan Melor
-26292,Kg. Pulau Lima
 1599001_,Ulu Batang Kayan
 1698007_,Lundu
 1996090_,Samunsam
@@ -764,7 +762,6 @@ KCHCITYSOUTH,Kuching City South
 1219024_,Nanga Tutong II
 1519001_,Bau Sungai
 1417001_,Nanga Entalau
-1018002_,Lubok Antu
 1217011_,Ridan
 1316001_,Enteban 2
 26127,Engkilili JKR Wharf
@@ -880,7 +877,6 @@ KCHCITYSOUTH,Kuching City South
 3838064_,Karabungan
 3837001_,Batu Niah Bazaar
 4139064,Kebuloh
-4038006_,Bekenu
 2318006_,Permy Jaya
 4440060_,Miri DID
 4339005_,Miri Airport
@@ -939,7 +935,6 @@ SKBU0001,Lawa Mondou
 26304,Basai At Sabah
 26302,Beluran At Sabah
 5261402_,Sg. Sook di Biah
-26310,Malangkap&
 225709220509,Inanam Met. Stn. At Sabah
 26316,Matungong
 26309,Kaiduan At Sabah
