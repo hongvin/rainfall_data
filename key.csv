@@ -60,7 +60,6 @@ SEKKEBKGBUKIT,Sek. Keb. Kampung Bukit
 26048,Sg. Anak Bukit di Taman Aman
 6103147_,Rumah Pam Sg. Raja
 KUBURPANJANG,Sg. Titi Kerbau di Kubur Panjang
-5905180_,Sg. Pendang di Pekan Pendang
 5905181_,Sg. Pendang di Pondok Chegar
 PAYAMADINSON,Kg. Paya Mat Inson
 6108001_,Kompleks Empangan Muda
@@ -170,6 +169,7 @@ TGPIANDANG,Tanjung Piandang
 4511111_,Politeknik Ungku Omar
 4610118_,Sg. Kinta di Kuala Pari
 SGRAIA,Sg. Raia di Keramat Pulai
+4310001_,Sg. Kinta di Tanjung Tualang
 25969,Kg. Baru Kuala Dipang
 4411120_,Gua Tempurung
 4312001_,Kg. Sahom
@@ -384,7 +384,6 @@ _NJPL0002,Sg. Serting di Kg. Datok Johan
 2721074_,Kg. Talang
 2722002_,Kg. Sawah Lebar
 2723075_,Ladang Juasseh
-26076,Kg. Birah
 2622080_,Kg. Dangi
 25796,Ldg. Repah at Negeri Sembilan
 2523001_,Ulu Rokan
@@ -413,6 +412,7 @@ HOSPITALJASIN,Hospital Jasin
 2222003_,Lencongan Sg. Malim di Klebang Besar U/S
 2222005_,Lencongan Sg. Malim di Klebang Besar D/S
 26205,Sg. Melaka Di Pantai Belimbing
+26210,Sg. Kesang Di Selandar
 2727001_,Balai Badang
 LDGSGSEGAMAT,Ladang Sg. Gemas
 25895,Sg. Muar di Muara Sg. Gemas
@@ -610,20 +610,52 @@ _CKTN0004,Ladang Ulu Lepar
 25835,S.K. Leban Chondong at Pahang
 25874,Emp. Pontian Pahang
 2636182_,Sg. Endau di Tanjung Gemuk
+5424001_,Sg. Besut di Jambatan Keruak
+5524001_,Sg. Besut di Kg. La
 5625003_,Empangan Paya Peda
+5724003_,Sg. Besut di Jambatan Jerteh
 5626001_,Institut Pertanian Tok Dor
+5625011_,Sek. Keb. Kg. Jabi
 5328043_TSET0003,Kg. Pelong
+5428040_TSET0001,Sg. Nerus di Kg. Langkap
+KGBUKIT,Sg. Nerus di Kg. Bukit
+5426003_,Sg. Setiu di Kg. Besut
+5527024_,Sg. Setiu di Jambatan Permaisuri
+5428003_,Sg. Chalok di Jambatan Chalok
+5029034_THTG0005,Sg. Terengganu di Kg. Dura
 _THTG0004,Jambatan Kuala Berang
+5127011_,Kenyir Elephant Village (KEV)
 5229048_THTG0002,Sg. Telemong di Kuala Ping
+4930038_THTG0008,Sg. Berang di Kg. Menerong
+MENGKAWAN,Sg. Peneh di Felda Mengkawang
 _THTG0006,Hulu Sg. Tersat
+4929001_,Kg. Embong
+5031062_,Kg. Bukit Diman
+25820,Pertanian Ajil
 TOKADIS,Kg. Tok Adis
 _TKTG0002,Bukit Tumbuh
+5331010_,Sg. Terengganu di Bukit Tumbuh
 5331048_TKTG0004,Stor JPS Kuala Terengganu
 UMT,Universiti Malaysia Terengganu
 _TKTG0095,Universiti Malaysia Terengganu
+25823,Sg. Nerus di Kg. Jeram
+5031001_,Sg. Marang di Jambatan Pengkalan Berangan
+5131064_,Sek. Men. Bukit Sawa
+MERCHANG,Sek. Men. Keb.  Merchang
+5624002_,Sg. Dungun di Kg. Pasir Raja
+4730002_,Sg. Dungun di Kuala Jengai
+4832011_,Sg. Dungun di Jambatan Jerangau
 4734079_,Sek. Men. Sultan Omar
+4634085_,Pusat Kesihatan Paka
+4631001_,Bandar Al Muktafi Billah Shah
 3933001_,Hulu Jabor
+4131001_,Sg. Cherul di Jambatan Ban Ho
+25822,Sg. Tumpat di Kg. Baru Kemasik
+4332001_,Sg. Tebak di Jambatan Tebak
+4232002_,Sg. Kemaman di Jambatan Air Putih
+4233453_,Sg. Kemaman di Rumah Pam Paya Paman
 4234109_,JPS Kemaman
+TKMN0007,Yak Yah
 4434093_,Sek. Men. Badrul Alam Shah
 26491,Kalabe
 26492,Stesen Pertanian Ajil
@@ -644,6 +676,7 @@ _DTMH0002,Ladang Kerilla
 _DMCG0001,Kg. Temangan
 6021065_DPMS0001,Sg. Kelantan di Air Mulih
 25930,Rumah Pam Repek at Kelantan
+25931,Kg. Tandak (Bkt. P.Junu at Kelantan)
 25368,Emp. Bukit Kwong
 _DPMS0003,Rantau Panjang
 _DKBR0008,IPMI Zon Timur
@@ -748,6 +781,7 @@ KCHCITYSOUTH,Kuching City South
 1615023_,Batu Danau
 1415004_,Betong
 1514001_,Debak
+26129,Pusa
 1611001_,JPS Beladin
 1610001_,Maludam
 26128,Kaki Wong
@@ -782,8 +816,8 @@ KCHCITYSOUTH,Kuching City South
 1521001_,Sungai Nawang
 1624001_,Rumah Andau
 1823001_,Nanga Jagau
-1821001_,Uka
 2020001_,Nanga Machan B
+2023001_,Nanga Kabah
 2121001_,Kanowit Town
 2119001_,Durin Water Works
 2119017_,Durin Bazaar
@@ -878,6 +912,7 @@ KCHCITYSOUTH,Kuching City South
 4151017_,Long Napir
 4250001_,Setuan
 4248001_,Ulu Medalam
+4448001_,Nanga Insungai
 25538,Nanga Medamit
 4650023,Pandaruan
 4749001_,Limbang DID
