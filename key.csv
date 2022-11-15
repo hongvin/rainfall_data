@@ -152,6 +152,7 @@ SGDUA,Sg. Dua di Kg. Dua Bukit
 4807016_,Bukit Larut
 TGPIANDANG,Tanjung Piandang
 5006021_,Kolam Air Bukit Merah
+5610063_,Kg. Lalang
 5513001_,Tasik Temengor di Banding
 5411066_,Sg. Perak di Kuala Kenderong
 5210069_,Lawin
@@ -162,7 +163,6 @@ TGPIANDANG,Tanjung Piandang
 25968,Kg. Cik Zainal
 4613401_,Empangan Ulu Kinta
 4611002_,Sg. Kinta di Tanjung Rambutan
-25136,Puncak Jelapang At Ipoh
 4511111_,Politeknik Ungku Omar
 4610118_,Sg. Kinta di Kuala Pari
 SGRAIA,Sg. Raia di Keramat Pulai
@@ -236,7 +236,6 @@ BT10GOMBAK,Sg. Gombak di Batu 10
 3117080_,Bukit Antarabangsa
 3117081_,Puncak Atheneum
 KMSB,Kg. Melayu Sg. Buloh
-3115080_,Sg. Buloh di Paya Jaras
 PAYAJARASHILIR,Paya Jaras Hilir
 3114087_,Empangan Tasik Subang Meru
 26039,Sg. Bakul di Kg. Budiman
@@ -430,7 +429,6 @@ REDONG,Felda Redong
 2426006_,Jementah
 KGGATOM,Sg. Labis di Kg. Gatom
 2330009_,LPP Labis
-2229001_,Felda Maokil
 2230001_,SMK Chaah
 2130002_,Sg. Lenik di Kangkar Chaah
 2130001_,Sg. Lenik di Ladang Chaah
@@ -670,7 +668,6 @@ _DGMG0104,Sek. Keb. Chalil
 5521044_DKKI0014,Sg. Kelantan di Kuala Krai
 _DJLI0007,Kg. Lawar
 _DJLI0002,Air Bol
-_DTMH0002,Ladang Kerilla
 25932,Pej. Pertanian Btg. Merbau at Kelantan
 _DMCG0001,Kg. Temangan
 6021065_DPMS0001,Sg. Kelantan di Air Mulih
@@ -787,7 +784,6 @@ KCHCITYSOUTH,Kuching City South
 26128,Kaki Wong
 1713005_,Saratok DID
 1812001_,Roban
-1911001_,Sessang II (Alit)
 1811007_,Kabong
 1737001,Telok Ngelengkung
 1947001_,Long Unai
@@ -897,6 +893,7 @@ KCHCITYSOUTH,Kuching City South
 3946001_,Long Terawan
 3945017_,Long Panai
 3152011_,Lio Matu
+3451028_,Long Lellang
 3050015_,Long Moh
 2949001_,Long Jee
 3048026_,Long Anap
