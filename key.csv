@@ -65,7 +65,6 @@ PAYAMADINSON,Kg. Paya Mat Inson
 6108001_,Kompleks Empangan Muda
 6108180_,Empangan Muda
 6007064_,Sg. Muda di Titi Nami
-6006001_,SK Sg. Siput
 6008001_,SK Gulau
 5908001_,Batu Seketul
 BERIS,Empangan Beris (State)
@@ -129,7 +128,6 @@ LIMBUNGAN,Rumah Pam Taman Limbungan
 5204048_,Sg. Simpang Ampat
 25965,Ldg. Batu Kawan at P.Pinang
 BATUKAWAN,Stadium Batu Kawan
-5204424_,Sg. Jawi
 5205052_,Bagan Buaya
 19340,Kolam Takungan Bukit Panchor
 5105051_,Kolam Takungan Bukit Panchor
@@ -183,6 +181,7 @@ SGRAIA,Sg. Raia di Keramat Pulai
 25813,Sg. Perak di Kg. Terengganu
 3814160_,Ulu Slim
 3814158_,Sg. Bil
+3814159_,Sg. Slim di Slim River
 3907104_,Sg. Perak di Pasang Api
 3717101_,Bukit Fraser
 3517022_,Kg. Pertak
@@ -375,7 +374,6 @@ _NJLB0003,Kg. Ulu Klawang
 _NJLB0011,MARDI Jelebu
 26547,Sg. Buluh
 3022431_,Sg. Triang di Kg. Juntai
-_NJLB0015,Ladang Glandle
 _NJPL0002,Sg. Serting di Kg. Datok Johan
 2923001_,Sg. Serting di Serting Ulu
 2824093_,Ladang Bahau
@@ -482,12 +480,12 @@ SMKKAHANG,SMK Kahang
 2230190_,Layang-Layang
 1932001_,Felda Air Hitam
 1832001_,Empangan Machap
-1833124_,Sg. Benut di Simpang Renggam
 25902,Sg. Siam di Kg. Sg. Siam
 JHR-KGMURNIJAYA,Sg. Siku di Kg. Murni Jaya
 LADANGSEDENAK,Ladang Sedenak
 1636002_,Sg. Skudai di Kg. Separa
 25904,Sg. Skudai di Taman Aman
+JHR-KGSRIPAYA,Sg. Pontian Besar di Kg. Sri Paya
 26007,Puncak Gunung Pulai
 KGKABONG,Sg. Pontian Besar di Kg. Kabong
 25919,Sg. Ayer Hitam di Kg. Paya Embun
@@ -578,6 +576,7 @@ _CTMH0335,SK Lipat Kajang
 2924096_,Glendale
 _CBER0021,Pos Iskandar
 _CBER0023,Pej. Ramsar
+_CBER0033,Felcra Bohor Baru
 _CMRN0027,Felda Kg. Awah
 3725001_CMRN0001,Sg. Pahang di Kg. Chenor
 _CMRN0147,Sek. Keb. Kuala Sentul
@@ -617,7 +616,6 @@ _CKTN0004,Ladang Ulu Lepar
 5626001_,Institut Pertanian Tok Dor
 5625011_,Sek. Keb. Kg. Jabi
 5328043_TSET0003,Kg. Pelong
-5428040_TSET0001,Sg. Nerus di Kg. Langkap
 KGBUKIT,Sg. Nerus di Kg. Bukit
 5426003_,Sg. Setiu di Kg. Besut
 5527024_,Sg. Setiu di Jambatan Permaisuri
@@ -666,6 +664,7 @@ _DGMG0014,Kg. Pulai
 _DGMG0018,Upper Chiku
 4726001_DGMG0020,Gunung Gagau 1
 _DGMG0019,Felda Aring 5
+4824001_DGMG0021,Sg. Lebir di Kuala Koh
 _DGMG0104,Sek. Keb. Chalil
 5320038_DKKI0003,Sg. Galas di Dabong
 5521044_DKKI0014,Sg. Kelantan di Kuala Krai
@@ -685,6 +684,7 @@ _DKBR0007,Tambatan DRaja
 _DPMS0008,Kg. Jambu (Kuala Jambu)
 6024074_DBCK0001,Bachok
 25098,Pak Badol
+25881,Serdang at Gunong Barat Bachok
 25883,Tok Ajam at Kelantan
 25882,Kg. Wakaf Raja at Kelantan
 26285,SM Cherang Ruku
@@ -755,7 +755,6 @@ KCHCITYSOUTH,Kuching City South
 1505081_,Ketup
 1506001_,Semera
 1506034_,Asajaya
-1206089_,Gedong
 1008032_,Sungai Pinang
 1208001_,Kampung Sangkalan Pasir
 1307018_,Simunjan
@@ -805,7 +804,6 @@ KCHCITYSOUTH,Kuching City South
 2230143_,Nanga Merit
 2036001_,Tunoh Scheme
 2134001_,Nanga Tiau
-1836042_,Nanga Entawau
 1731001_,Nanga Balang
 1834002_,Gaat B
 2029002_,Kapit New Headworks
