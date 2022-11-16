@@ -6,6 +6,7 @@
 6502011_,Empangan Timah Tasuh
 6502010_,Bukit Temiang
 6502012_,Sg. Buluh di Kg. Batu Bertangkup
+25776,Sg. Panggas Besar di Tok Biduk
 25952,Sungai Gial at Kg Gial
 25940,Ngolong at Perlis
 6402009_,Sg. Arau di Kg. Kuala Tunggang
@@ -72,7 +73,6 @@ BERIS,Empangan Beris (State)
 5808071_,Bendang Man
 5706002_,Sg. Chepir di Bt. 5
 6368743_,Sg. Ketil Hulu di Tanjung Pari
-5808001_,Bt. 61 Jln. Baling
 5809001_,Pusat Rekreasi Ulu Legong
 5708001_,Sg. Ketil di Kg. Baru
 26145,Sg. Ketil di Jambatan Titian Ilham
@@ -153,6 +153,7 @@ SGDUA,Sg. Dua di Kg. Dua Bukit
 TGPIANDANG,Tanjung Piandang
 5006021_,Kolam Air Bukit Merah
 5005005_,Sg. Samagagah di Samagagah
+4205102_,"SMK Pangkor, Pulau Pangkor"
 5610063_,Kg. Lalang
 5513001_,Tasik Temengor di Banding
 5411066_,Sg. Perak di Kuala Kenderong
@@ -296,7 +297,6 @@ TMNDESAMERPATI,Sg. Jijan di Taman Desa Merpati
 2717134_,Sg. Labu di Kg. Salak Tinggi
 2816041_,Sg. Langat di Dengkil
 AGROTEKSEPANG,Agrotek Sepang
-PASGPELEK,Pintu Air Sg. Pelek
 BLALANG,Bagan Lalang
 25794,Pintu Air Kg. Bagan Lalang
 TGRHU,Pintu Air Tanjung Rhu
@@ -377,6 +377,7 @@ _NJLB0011,MARDI Jelebu
 _NJLB0015,Ladang Glandle
 _NJPL0002,Sg. Serting di Kg. Datok Johan
 2923001_,Sg. Serting di Serting Ulu
+2824093_,Ladang Bahau
 3023098_,Sg. Lui
 2725096_,Palong 9
 2625413_,Sg. Muar di Pekan Rompin
@@ -581,6 +582,7 @@ _CBER0030,Ladang Karmen
 _CBER0022,Pej. Tembangau 2
 _CBER0021,Pos Iskandar
 _CBER0023,Pej. Ramsar
+_CBER0024,Pej. Felda Triang 2
 _CBER0033,Felcra Bohor Baru
 _CMRN0027,Felda Kg. Awah
 3725001_CMRN0001,Sg. Pahang di Kg. Chenor
@@ -624,6 +626,7 @@ KGBUKIT,Sg. Nerus di Kg. Bukit
 5426003_,Sg. Setiu di Kg. Besut
 5527024_,Sg. Setiu di Jambatan Permaisuri
 5428003_,Sg. Chalok di Jambatan Chalok
+_THTG0192,Pulau Ilo
 5029034_THTG0005,Sg. Terengganu di Kg. Dura
 _THTG0004,Jambatan Kuala Berang
 5127011_,Kenyir Elephant Village (KEV)
@@ -661,9 +664,9 @@ TKMN0007,Yak Yah
 4434093_,Sek. Men. Badrul Alam Shah
 26491,Kalabe
 26492,Stesen Pertanian Ajil
+222910501017,JPS Marang
 _DGMG0005,"Jabatan Orang Asli, Kuala Betis"
 _DGMG0014,Kg. Pulai
-4819027_DGMG0015,Gua Musang
 _DGMG0018,Upper Chiku
 5020030_DGMG0016,Sg. Galas di Limau Kasturi
 4726001_DGMG0020,Gunung Gagau 1
