@@ -109,7 +109,6 @@ JPSKULIM,JPS Kulim
 26330,Kedah Peak at Kedah
 5505413_,Sg. Muda di Pinang Tunggal
 5505033_,Rumah Pam Pinang Tunggal
-5504035_,Lahar Ikan Mati
 5404041_,Ladang Malakoff
 5404045_,Pajak Song
 5503034_,Permatang Binjai
@@ -187,7 +186,6 @@ SGRAIA,Sg. Raia di Keramat Pulai
 3517022_,Kg. Pertak
 3516022_,Loji Air KKB
 3516026_,Sg. Kerling di Kerling
-3516025_,Sg. Selangor di Ampang Pecah
 3416027_,Sg. Batang Kali di Batang Kali
 3416001_,Sg. Liam di Ulu Yam
 3416002_,Kg. Kalong Tengah
@@ -242,7 +240,6 @@ PAYAJARASHILIR,Paya Jaras Hilir
 3114087_,Empangan Tasik Subang Meru
 26039,Sg. Bakul di Kg. Budiman
 3017107_,Sg. Kuyoh di Seri Kembangan
-3016077_,Sg. Penchala di Jalan 222
 3016080_,Sg. Penchala di Kg. Gandhi
 3015440_,IOI Puchong Jaya
 USJ1,Sg. Klang di USJ 1
@@ -374,6 +371,7 @@ _NJLB0003,Kg. Ulu Klawang
 _NJLB0011,MARDI Jelebu
 26547,Sg. Buluh
 3022431_,Sg. Triang di Kg. Juntai
+_NJLB0015,Ladang Glandle
 _NJPL0002,Sg. Serting di Kg. Datok Johan
 2923001_,Sg. Serting di Serting Ulu
 2824093_,Ladang Bahau
@@ -413,7 +411,7 @@ HOSPITALJASIN,Hospital Jasin
 2222003_,Lencongan Sg. Malim di Klebang Besar U/S
 2222005_,Lencongan Sg. Malim di Klebang Besar D/S
 26205,Sg. Melaka Di Pantai Belimbing
-26210,Sg. Kesang Di Selandar
+26211,Sek. Keb. Kemendor
 2727001_,Balai Badang
 LDGSGSEGAMAT,Ladang Sg. Gemas
 2626003_,Sg. Muar di Kg. Awat
@@ -480,6 +478,7 @@ SMKKAHANG,SMK Kahang
 2230190_,Layang-Layang
 1932001_,Felda Air Hitam
 1832001_,Empangan Machap
+1833124_,Sg. Benut di Simpang Renggam
 25902,Sg. Siam di Kg. Sg. Siam
 JHR-KGMURNIJAYA,Sg. Siku di Kg. Murni Jaya
 LADANGSEDENAK,Ladang Sedenak
@@ -575,6 +574,7 @@ _CTMH0045,Felda Jenderak Selatan
 _CTMH0335,SK Lipat Kajang
 3424081_CTMH0001,Sg. Pahang di Temerloh (Lubuk Pasu)
 3224033_CBER0002,Sg. Triang di Triang
+_CBER0030,Ladang Karmen
 2924096_,Glendale
 _CBER0021,Pos Iskandar
 _CBER0023,Pej. Ramsar
@@ -586,6 +586,7 @@ _CMRN0025,Sg. Kundang di Jam. Sg. Kundang
 3527092_,Sg. Pahang di Lubuk Paku
 _CMRN0031,Pusat Latihan JAKOA KM. 56 (Bt. 34)
 3428001_,Sg. Pahang di Kuala Sg. Chini
+_CPKN0042,Kg. Salong
 _CPKN0132,Batu Gong
 _CPKN0002,Sg. Pahang di Paloh Hinai
 3431099,Sg. Pahang di Paloh Inai
@@ -618,7 +619,6 @@ _CPKN0047,Kg. Temai Hilir
 5428040_TSET0001,Sg. Nerus di Kg. Langkap
 KGBUKIT,Sg. Nerus di Kg. Bukit
 5426003_,Sg. Setiu di Kg. Besut
-5527024_,Sg. Setiu di Jambatan Permaisuri
 5428003_,Sg. Chalok di Jambatan Chalok
 5029034_THTG0005,Sg. Terengganu di Kg. Dura
 _THTG0004,Jambatan Kuala Berang
@@ -629,7 +629,6 @@ MENGKAWAN,Sg. Peneh di Felda Mengkawang
 _THTG0006,Hulu Sg. Tersat
 4929001_,Kg. Embong
 5031062_,Kg. Bukit Diman
-25820,Pertanian Ajil
 TOKADIS,Kg. Tok Adis
 _TKTG0002,Bukit Tumbuh
 5331010_,Sg. Terengganu di Bukit Tumbuh
@@ -640,7 +639,6 @@ _TKTG0095,Universiti Malaysia Terengganu
 5031001_,Sg. Marang di Jambatan Pengkalan Berangan
 5131064_,Sek. Men. Bukit Sawa
 MERCHANG,Sek. Men. Keb.  Merchang
-5624002_,Sg. Dungun di Kg. Pasir Raja
 4730002_,Sg. Dungun di Kuala Jengai
 4832011_,Sg. Dungun di Jambatan Jerangau
 4734079_,Sek. Men. Sultan Omar
@@ -662,6 +660,7 @@ _DGMG0005,"Jabatan Orang Asli, Kuala Betis"
 _DGMG0014,Kg. Pulai
 4819027_DGMG0015,Gua Musang
 _DGMG0018,Upper Chiku
+5020030_DGMG0016,Sg. Galas di Limau Kasturi
 4726001_DGMG0020,Gunung Gagau 1
 _DGMG0019,Felda Aring 5
 4824001_DGMG0021,Sg. Lebir di Kuala Koh
@@ -670,6 +669,7 @@ _DGMG0104,Sek. Keb. Chalil
 5521044_DKKI0014,Sg. Kelantan di Kuala Krai
 _DJLI0007,Kg. Lawar
 _DJLI0002,Air Bol
+_DTMH0002,Ladang Kerilla
 25932,Pej. Pertanian Btg. Merbau at Kelantan
 _DMCG0001,Kg. Temangan
 6021065_DPMS0001,Sg. Kelantan di Air Mulih
@@ -889,7 +889,6 @@ KCHCITYSOUTH,Kuching City South
 4339001_,Miri Municipal Car Park
 3754007_,Bario
 3752001_,Pa Tik
-3950020_,Long Seridan
 4048001_,Mulu Airport
 3847035_,Long Atip
 3946001_,Long Terawan
@@ -946,7 +945,6 @@ SKBU0001,Lawa Mondou
 26310,Malangkap&
 225709220509,Inanam Met. Stn. At Sabah
 26316,Matungong
-26309,Kaiduan At Sabah
 26312,Sg. Moyog At Penampang
 220609250509,Vulanut
 26319,Kiulu At Sabah
