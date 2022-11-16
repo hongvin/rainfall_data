@@ -152,6 +152,7 @@ SGDUA,Sg. Dua di Kg. Dua Bukit
 4807016_,Bukit Larut
 TGPIANDANG,Tanjung Piandang
 5006021_,Kolam Air Bukit Merah
+5005005_,Sg. Samagagah di Samagagah
 5610063_,Kg. Lalang
 5513001_,Tasik Temengor di Banding
 5411066_,Sg. Perak di Kuala Kenderong
@@ -236,6 +237,7 @@ BT10GOMBAK,Sg. Gombak di Batu 10
 3117080_,Bukit Antarabangsa
 3117081_,Puncak Atheneum
 KMSB,Kg. Melayu Sg. Buloh
+3115080_,Sg. Buloh di Paya Jaras
 PAYAJARASHILIR,Paya Jaras Hilir
 3114087_,Empangan Tasik Subang Meru
 26039,Sg. Bakul di Kg. Budiman
@@ -429,6 +431,7 @@ REDONG,Felda Redong
 2426006_,Jementah
 KGGATOM,Sg. Labis di Kg. Gatom
 2330009_,LPP Labis
+2229001_,Felda Maokil
 2230001_,SMK Chaah
 2130002_,Sg. Lenik di Kangkar Chaah
 2130001_,Sg. Lenik di Ladang Chaah
@@ -540,6 +543,7 @@ _CLPS0033,Balai Polis Merapoh
 _CLPS0030,Jam. Chegar Perah
 4219001_CLPS0001,Sg. Jelai di Bukit Betong
 _CLPS0015,Ladang Benta
+_CLPS0139,Kg. Bandar
 _CLPS0042,Hospital Lipis
 _CLPS0016,Stn. Keretapi Kerambit
 4324001_CJRT0003,Sg. Tembeling di Kuala Tahan
@@ -547,6 +551,7 @@ _CJRT0041,Ulu Tekai A
 _CJRT0002,Sg. Tembeling di Kg. Merting
 _CJRT0039,Kg. Chebong
 4023001_CJRT0001,Sg. Pahang di Sg. Yap
+_CJRT0033,JKR Batu Balai
 _CJRT0025,Kg. Bharu
 _CRAU0049,Felda Tersang 2
 _CRAU0046,Batu Malim
@@ -570,7 +575,6 @@ _CTMH0045,Felda Jenderak Selatan
 _CTMH0335,SK Lipat Kajang
 3424081_CTMH0001,Sg. Pahang di Temerloh (Lubuk Pasu)
 3224033_CBER0002,Sg. Triang di Triang
-_CBER0030,Ladang Karmen
 2924096_,Glendale
 _CBER0021,Pos Iskandar
 _CBER0023,Pej. Ramsar
@@ -582,14 +586,12 @@ _CMRN0025,Sg. Kundang di Jam. Sg. Kundang
 3527092_,Sg. Pahang di Lubuk Paku
 _CMRN0031,Pusat Latihan JAKOA KM. 56 (Bt. 34)
 3428001_,Sg. Pahang di Kuala Sg. Chini
-_CPKN0042,Kg. Salong
 _CPKN0132,Batu Gong
 _CPKN0002,Sg. Pahang di Paloh Hinai
 3431099,Sg. Pahang di Paloh Inai
 _CPKN0047,Kg. Temai Hilir
 3533102_CPKN0003,Sg. Pahang Tua di Rumah Pam Pahang Tua
 3434001_CPKN0004,Sg. Pahang di Pekan
-_CKTN0004,Ladang Ulu Lepar
 3629103_,Sg. Lepar di Jambatan Gelugor
 3929001_,Sg. Lembing
 3930012_,PCCL Sg. Lembing
