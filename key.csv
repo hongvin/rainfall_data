@@ -89,6 +89,7 @@ BERIS,Empangan Beris (State)
 26147,PLSM HQ
 JPSMEKANIKAL,Workshop Sg. Petani
 25726,RCC Sg. Petani
+25960,Ibu Bekalan Tupah at Kedah
 25955,Semeling at Kedah
 26172,Sg. Gurun Upper
 5704180_,Gunung Jerai
@@ -153,6 +154,7 @@ SGDUA,Sg. Dua di Kg. Dua Bukit
 4807016_,Bukit Larut
 TGPIANDANG,Tanjung Piandang
 5006021_,Kolam Air Bukit Merah
+5005005_,Sg. Samagagah di Samagagah
 4205102_,"SMK Pangkor, Pulau Pangkor"
 5610063_,Kg. Lalang
 5513001_,Tasik Temengor di Banding
@@ -170,6 +172,7 @@ TGPIANDANG,Tanjung Piandang
 SGRAIA,Sg. Raia di Keramat Pulai
 4310001_,Sg. Kinta di Tanjung Tualang
 25969,Kg. Baru Kuala Dipang
+4411120_,Gua Tempurung
 4312001_,Kg. Sahom
 4409092_,Sg. Perak di Parit
 4209093_,Sg. Perak di Teluk Sena
@@ -271,6 +274,7 @@ PANDAMARAN,P/A Pandamaran
 3218101_,Sg. Langat di TNB Pangsun
 3118104_,Sg. Langat di Batu 20
 3018104_,Sg. Langat di Batu 15
+3017082_,Sg. Langat di Batu 12
 3017081_,Sg. Raya di Batu 9
 KGBARUBALAKONG,Sg. Balak di Kg. Baru Balakong
 TMNTTDIGROVEKAJANG,Sg. Jelok di Taman TTDI Grove
@@ -589,6 +593,7 @@ _CMRN0147,Sek. Keb. Kuala Sentul
 _CMRN0025,Sg. Kundang di Jam. Sg. Kundang
 3527092_,Sg. Pahang di Lubuk Paku
 _CMRN0031,Pusat Latihan JAKOA KM. 56 (Bt. 34)
+3428001_,Sg. Pahang di Kuala Sg. Chini
 _CPKN0042,Kg. Salong
 _CPKN0132,Batu Gong
 _CPKN0002,Sg. Pahang di Paloh Hinai
@@ -625,6 +630,7 @@ KGBUKIT,Sg. Nerus di Kg. Bukit
 5527024_,Sg. Setiu di Jambatan Permaisuri
 5428003_,Sg. Chalok di Jambatan Chalok
 _THTG0192,Pulau Ilo
+_THTG0193,Empangan Kenyir
 5029034_THTG0005,Sg. Terengganu di Kg. Dura
 _THTG0004,Jambatan Kuala Berang
 5127011_,Kenyir Elephant Village (KEV)
@@ -661,7 +667,6 @@ MERCHANG,Sek. Men. Keb.  Merchang
 TKMN0007,Yak Yah
 4434093_,Sek. Men. Badrul Alam Shah
 26491,Kalabe
-26492,Stesen Pertanian Ajil
 222910501017,JPS Marang
 _DGMG0005,"Jabatan Orang Asli, Kuala Betis"
 _DGMG0014,Kg. Pulai
@@ -675,7 +680,6 @@ _DGMG0104,Sek. Keb. Chalil
 5222052_DKKI0005,Sg. Lebir di Kg. Tualang
 5521044_DKKI0014,Sg. Kelantan di Kuala Krai
 _DJLI0007,Kg. Lawar
-_DJLI0002,Air Bol
 _DTMH0002,Ladang Kerilla
 25932,Pej. Pertanian Btg. Merbau at Kelantan
 _DMCG0001,Kg. Temangan
@@ -926,6 +930,7 @@ KCHCITYSOUTH,Kuching City South
 4448001_,Nanga Insungai
 25538,Nanga Medamit
 4650023,Pandaruan
+4749001_,Limbang DID
 3956001,Ba Kelalan
 4255006_,Long Semado
 4354001,Long Merarap
@@ -936,6 +941,7 @@ KCHCITYSOUTH,Kuching City South
 4955021_,Merapok
 4954001_,Kuala Lawas
 4658001_,Bakuku
+4959001_,Sg. Padas di Kemabong
 5357003_,Sg. Padas di Beaufort JPS
 5663002_,Sg. Pegalan di Keranaan
 STAM0002,Gunung Alab
