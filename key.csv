@@ -89,7 +89,6 @@ BERIS,Empangan Beris (State)
 26147,PLSM HQ
 JPSMEKANIKAL,Workshop Sg. Petani
 25726,RCC Sg. Petani
-25960,Ibu Bekalan Tupah at Kedah
 25955,Semeling at Kedah
 26172,Sg. Gurun Upper
 5704180_,Gunung Jerai
@@ -153,7 +152,9 @@ SGDUA,Sg. Dua di Kg. Dua Bukit
 4907020_,Sg. Kurau di Bt. 14 Batu Kurau
 4807016_,Bukit Larut
 TGPIANDANG,Tanjung Piandang
+5006021_,Kolam Air Bukit Merah
 4205102_,"SMK Pangkor, Pulau Pangkor"
+5610063_,Kg. Lalang
 5513001_,Tasik Temengor di Banding
 5411066_,Sg. Perak di Kuala Kenderong
 5210069_,Lawin
@@ -169,7 +170,6 @@ TGPIANDANG,Tanjung Piandang
 SGRAIA,Sg. Raia di Keramat Pulai
 4310001_,Sg. Kinta di Tanjung Tualang
 25969,Kg. Baru Kuala Dipang
-4411120_,Gua Tempurung
 4312001_,Kg. Sahom
 4409092_,Sg. Perak di Parit
 4209093_,Sg. Perak di Teluk Sena
@@ -298,6 +298,7 @@ TMNDESAMERPATI,Sg. Jijan di Taman Desa Merpati
 AGROTEKSEPANG,Agrotek Sepang
 PASGPELEK,Pintu Air Sg. Pelek
 BLALANG,Bagan Lalang
+25794,Pintu Air Kg. Bagan Lalang
 TGRHU,Pintu Air Tanjung Rhu
 2816138_,Sg. Langat di Bukit Changgang
 2815180_,Sg. Langat di JPS Sg. Manggis
@@ -413,7 +414,6 @@ HOSPITALJASIN,Hospital Jasin
 2222003_,Lencongan Sg. Malim di Klebang Besar U/S
 2222005_,Lencongan Sg. Malim di Klebang Besar D/S
 26205,Sg. Melaka Di Pantai Belimbing
-26211,Sek. Keb. Kemendor
 2727001_,Balai Badang
 LDGSGSEGAMAT,Ladang Sg. Gemas
 2626003_,Sg. Muar di Kg. Awat
@@ -556,6 +556,7 @@ _CJRT0025,Kg. Bharu
 _CRAU0049,Felda Tersang 2
 _CRAU0046,Batu Malim
 4017001_,Sg. Lipis di Batu Malim
+_CRAU0028,"Bukit Peninjau, Fraser Hill"
 3717001_,Peninjau
 _CRAU0029,JKR Tranum
 _CRAU0031,Sg. Chalit
@@ -588,7 +589,6 @@ _CMRN0147,Sek. Keb. Kuala Sentul
 _CMRN0025,Sg. Kundang di Jam. Sg. Kundang
 3527092_,Sg. Pahang di Lubuk Paku
 _CMRN0031,Pusat Latihan JAKOA KM. 56 (Bt. 34)
-3428001_,Sg. Pahang di Kuala Sg. Chini
 _CPKN0042,Kg. Salong
 _CPKN0132,Batu Gong
 _CPKN0002,Sg. Pahang di Paloh Hinai
@@ -667,7 +667,6 @@ _DGMG0005,"Jabatan Orang Asli, Kuala Betis"
 _DGMG0014,Kg. Pulai
 4819027_DGMG0015,Gua Musang
 _DGMG0018,Upper Chiku
-5020030_DGMG0016,Sg. Galas di Limau Kasturi
 4726001_DGMG0020,Gunung Gagau 1
 _DGMG0019,Felda Aring 5
 4824001_DGMG0021,Sg. Lebir di Kuala Koh
@@ -895,6 +894,7 @@ KCHCITYSOUTH,Kuching City South
 4038006_,Bekenu
 2318006_,Permy Jaya
 4440060_,Miri DID
+4339005_,Miri Airport
 4339001_,Miri Municipal Car Park
 3754007_,Bario
 3752001_,Pa Tik
@@ -926,7 +926,6 @@ KCHCITYSOUTH,Kuching City South
 4448001_,Nanga Insungai
 25538,Nanga Medamit
 4650023,Pandaruan
-4749001_,Limbang DID
 3956001,Ba Kelalan
 4255006_,Long Semado
 4354001,Long Merarap
@@ -937,7 +936,6 @@ KCHCITYSOUTH,Kuching City South
 4955021_,Merapok
 4954001_,Kuala Lawas
 4658001_,Bakuku
-4959001_,Sg. Padas di Kemabong
 5357003_,Sg. Padas di Beaufort JPS
 5663002_,Sg. Pegalan di Keranaan
 STAM0002,Gunung Alab
