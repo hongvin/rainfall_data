@@ -54,7 +54,6 @@ K000007_,Sg. Sari di Kilang Gula Padang Terap
 SEKKEBLAMDIN,Sek. Keb. Lamdin
 6106180_,Sg. Naka di Naka
 26165,Sg. Tekai di Kg. Sireh
-6205180_,Sg. Padang Terap di Kuala Nerang
 6306035_,Sg. Durian Burung di Durian Burung
 FELCRATAMPOI,Felcra Bukit Tampoi
 SEKKEBKGBUKIT,Sek. Keb. Kampung Bukit
@@ -255,7 +254,6 @@ USJ1,Sg. Klang di USJ 1
 KOTADAMANSARA,Kota Damansara
 3115084_,Sg. Damansara di Kg. Melayu Subang
 3015083_,Sg. Damansara di TTDI Jaya
-3015087_,Sg. Damansara di Batu 3
 TAMANBOTANI,Taman Botani
 3015084_,Sg. Klang di Taman Sri Muda
 DESAKEMUNING,Sg. Rasau di Taman Desa Kemuning
@@ -594,7 +592,6 @@ _CMRN0025,Sg. Kundang di Jam. Sg. Kundang
 3527092_,Sg. Pahang di Lubuk Paku
 _CMRN0031,Pusat Latihan JAKOA KM. 56 (Bt. 34)
 3428001_,Sg. Pahang di Kuala Sg. Chini
-_CPKN0042,Kg. Salong
 _CPKN0132,Batu Gong
 _CPKN0002,Sg. Pahang di Paloh Hinai
 3431099,Sg. Pahang di Paloh Inai
@@ -602,7 +599,6 @@ _CPKN0047,Kg. Temai Hilir
 3533102_CPKN0003,Sg. Pahang Tua di Rumah Pam Pahang Tua
 3434001_CPKN0004,Sg. Pahang di Pekan
 _CKTN0004,Ladang Ulu Lepar
-3629103_,Sg. Lepar di Jambatan Gelugor
 3929001_,Sg. Lembing
 3930012_,PCCL Sg. Lembing
 3831001_,Sg. Kuantan di Pasir Kemudi
@@ -624,6 +620,7 @@ _CKTN0004,Ladang Ulu Lepar
 5625003_,Empangan Paya Peda
 5724003_,Sg. Besut di Jambatan Jerteh
 5626001_,Institut Pertanian Tok Dor
+5625011_,Sek. Keb. Kg. Jabi
 5328043_TSET0003,Kg. Pelong
 5428040_TSET0001,Sg. Nerus di Kg. Langkap
 KGBUKIT,Sg. Nerus di Kg. Bukit
@@ -668,7 +665,6 @@ MERCHANG,Sek. Men. Keb.  Merchang
 TKMN0007,Yak Yah
 4434093_,Sek. Men. Badrul Alam Shah
 26491,Kalabe
-222910501017,JPS Marang
 _DGMG0005,"Jabatan Orang Asli, Kuala Betis"
 _DGMG0014,Kg. Pulai
 4819027_DGMG0015,Gua Musang
@@ -678,6 +674,7 @@ _DGMG0019,Felda Aring 5
 4824001_DGMG0021,Sg. Lebir di Kuala Koh
 _DGMG0104,Sek. Keb. Chalil
 5320038_DKKI0003,Sg. Galas di Dabong
+5222052_DKKI0005,Sg. Lebir di Kg. Tualang
 5521044_DKKI0014,Sg. Kelantan di Kuala Krai
 _DJLI0007,Kg. Lawar
 _DTMH0002,Ladang Kerilla
@@ -712,7 +709,6 @@ _DPMS0008,Kg. Jambu (Kuala Jambu)
 1102019_,Padawan
 1102002_,Aman 5 Bridge
 1200001_,Pang Tebang
-1200002_,Sungai Pedid
 1301001_,Kampung Monggak
 1302078_,Kampung Git
 1302001_,Upper Sungai Staat
@@ -790,7 +786,6 @@ KCHCITYSOUTH,Kuching City South
 1415001_,Nanga Lubau
 1615023_,Batu Danau
 1415004_,Betong
-1514001_,Debak
 26129,Pusa
 1611001_,JPS Beladin
 1610001_,Maludam
