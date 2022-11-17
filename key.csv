@@ -82,7 +82,6 @@ BERIS,Empangan Beris (State)
 5608073_,Sg. Ketil di Kuala Pegang
 5607002_,Sg. Ketil di Kg. Padang Pulai
 5607001_,SMK Parit Panjang
-5606001_,Sg. Sedim di Kg. Sedim
 26144,Sg. Muda di Jambatan Jeniang
 26148,Jambatan Bukit Selambau
 5606076_,Sg. Muda di Jambatan Syed Omar
@@ -154,8 +153,6 @@ SGDUA,Sg. Dua di Kg. Dua Bukit
 4907020_,Sg. Kurau di Bt. 14 Batu Kurau
 4807016_,Bukit Larut
 TGPIANDANG,Tanjung Piandang
-5006021_,Kolam Air Bukit Merah
-5005005_,Sg. Samagagah di Samagagah
 4205102_,"SMK Pangkor, Pulau Pangkor"
 5513001_,Tasik Temengor di Banding
 5411066_,Sg. Perak di Kuala Kenderong
@@ -195,6 +192,7 @@ SGRAIA,Sg. Raia di Keramat Pulai
 3416001_,Sg. Liam di Ulu Yam
 3416002_,Kg. Kalong Tengah
 3316029_,Sg. Serendah di Serendah
+3315040_,Sg. Guntong di Kg. Sungai Buaya
 KOMPLEKSPEGHULUULUBERNAM,Kompleks Penghulu Hulu Bernam
 3615003_,Sg. Bernam di Tanjung Malim
 3714080_,Sg. Bernam di Kg. Sg. Selisek
@@ -300,7 +298,6 @@ TMNDESAMERPATI,Sg. Jijan di Taman Desa Merpati
 AGROTEKSEPANG,Agrotek Sepang
 PASGPELEK,Pintu Air Sg. Pelek
 BLALANG,Bagan Lalang
-25794,Pintu Air Kg. Bagan Lalang
 TGRHU,Pintu Air Tanjung Rhu
 2816138_,Sg. Langat di Bukit Changgang
 2815180_,Sg. Langat di JPS Sg. Manggis
@@ -485,7 +482,6 @@ SMKKAHANG,SMK Kahang
 1832001_,Empangan Machap
 1833124_,Sg. Benut di Simpang Renggam
 25902,Sg. Siam di Kg. Sg. Siam
-JHR-KGMURNIJAYA,Sg. Siku di Kg. Murni Jaya
 LADANGSEDENAK,Ladang Sedenak
 1636002_,Sg. Skudai di Kg. Separa
 25904,Sg. Skudai di Taman Aman
@@ -813,6 +809,8 @@ KCHCITYSOUTH,Kuching City South
 2737103_,Belaga
 2333002_,Punan Bah B
 2230143_,Nanga Merit
+1544001_,Long Singut
+2036001_,Tunoh Scheme
 2134001_,Nanga Tiau
 1731001_,Nanga Balang
 1834002_,Gaat B
@@ -897,7 +895,6 @@ KCHCITYSOUTH,Kuching City South
 4038006_,Bekenu
 2318006_,Permy Jaya
 4440060_,Miri DID
-4339005_,Miri Airport
 4339001_,Miri Municipal Car Park
 3754007_,Bario
 3752001_,Pa Tik
